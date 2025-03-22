@@ -1,3 +1,6 @@
+MatchType: "Basketbol"
+Text: "Canlı (15:30) Manisa BB vs Türk Telekom (beIN Sports 5)"
+
 MatchType: "Futbol"
 Text: "Canlı (14:00) Fenerbahçe vs Amedspor (FB TV)"
 
@@ -6,12 +9,6 @@ Text: "Canlı (14:00) İngiltere vs Türkiye (TRT Spor)"
 
 MatchType: "Futbol"
 Text: "Canlı (14:00) Batman Petrol vs Sarıyer (HT Spor)"
-
-MatchType: "Basketbol"
-Text: "Canlı (13:00) Mersin Spor vs Galatasaray (beIN Sports 5)"
-
-MatchType: "Basketbol"
-Text: "Bugün 15:30 Manisa BB vs Türk Telekom (beIN Sports 5)"
 
 MatchType: "Futbol"
 Text: "Bugün 17:00 Lihtenştayn vs Kuzey Makedonya (CBC Sport)"
@@ -48,6 +45,9 @@ Text: "Bugün 20:45 Azerbaycan vs Haiti (CBC Sport)"
 
 MatchType: "Tenis"
 Text: "Bugün 21:00 Gallego/Araujo vs Senesi/Pons (beIN Sports Max 2)"
+
+MatchType: "Basketbol"
+Text: "Bugün 21:40 St.Johns vs Arkansas (S Sport 2)"
 
 MatchType: "Tenis"
 Text: "Bugün 22:00 C.Gauff vs M.Sakkari (beIN Sports Max 1)"
@@ -86,13 +86,16 @@ MatchType: "Futbol"
 Text: "Yarın 17:00 Spurs Legends vs AC Milan Glorie (S Sport 2)"
 
 MatchType: "Basketbol"
-Text: "Yarın 18:00 Bursaspor vs Merkezefendi Bld. (beIN Sports 5)"
-
-MatchType: "Basketbol"
 Text: "Yarın 18:00 Bursaspor vs Merkezefendi Bld. (beIN Sports Haber)"
 
 MatchType: "Basketbol"
+Text: "Yarın 18:00 Bursaspor vs Merkezefendi Bld. (beIN Sports 5)"
+
+MatchType: "Basketbol"
 Text: "Yarın 19:00 Barcelona vs Zaragoza (Spor Smart 2)"
+
+MatchType: "Basketbol"
+Text: "Yarın 19:10 Florida vs Uconn (S Sport 2)"
 
 MatchType: "Futbol"
 Text: "Yarın 20:00 Macaristan vs Türkiye (TV8)"
