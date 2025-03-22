@@ -2,7 +2,7 @@ name: Run encode.py script
 
 on:
   workflow_run:
-    workflows: ["Run encode.py script"]  # Ana Domain workflow'u tamamlandığında çalışacak
+    workflows: ["Run link_hazırlama.py script"]  # Ana Domain workflow'u tamamlandığında çalışacak
     types:
       - completed
   workflow_dispatch:  # Manuel olarak çalıştırılabilir
