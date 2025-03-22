@@ -1,18 +1,18 @@
-MatchType: "Basketbol"
-Text: "Canlı (13:00) Mersin Spor vs Galatasaray (beIN Sports 5)"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5066/a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+MatchType: "Futbol"
+Text: "Canlı (14:00) Fenerbahçe vs Amedspor (FB TV)"
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5011/a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "Futbol"
-Text: "Bugün 14:00 İngiltere vs Türkiye (TRT Spor)"
+Text: "Canlı (14:00) İngiltere vs Türkiye (TRT Spor)"
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5032/a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "Futbol"
-Text: "Bugün 14:00 Batman Petrol vs Sarıyer (HT Spor)"
+Text: "Canlı (14:00) Batman Petrol vs Sarıyer (HT Spor)"
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5021/a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
-MatchType: "Futbol"
-Text: "Bugün 14:00 Fenerbahçe vs Amedspor (FB TV)"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5011/a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+MatchType: "Basketbol"
+Text: "Canlı (13:00) Mersin Spor vs Galatasaray (beIN Sports 5)"
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5066/a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "Basketbol"
 Text: "Bugün 15:30 Manisa BB vs Türk Telekom (beIN Sports 5)"
@@ -46,6 +46,10 @@ MatchType: "Basketbol"
 Text: "Bugün 20:00 Valencia Basket vs Leyma Coruna (Spor Smart)"
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5091/a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
+MatchType: "Futbol"
+Text: "Bugün 20:30 Mirandes vs Racing Santander (S Sport)"
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5101/a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+
 MatchType: "Basketbol"
 Text: "Bugün 20:30 Büyükçekmece vs Beşiktaş Fibabanka (beIN Sports 5)"
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5066/a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
@@ -53,10 +57,6 @@ https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-b3b0eb3f3e.work
 MatchType: "Tenis"
 Text: "Bugün 20:30 A.Sabalenka vs E.G.Ruse (beIN Sports Max 1)"
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5067/a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
-
-MatchType: "Futbol"
-Text: "Bugün 20:30 Mirandes vs Racing Santander (S Sport)"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5101/a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "Futbol"
 Text: "Bugün 20:45 Azerbaycan vs Haiti (CBC Sport)"
