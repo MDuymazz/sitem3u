@@ -1,125 +1,119 @@
-MatchType: "Basketbol"
-Text: "Canlı (15:30) Manisa BB vs Türk Telekom (beIN Sports 5)"
-
 MatchType: "Futbol"
-Text: "Canlı (14:00) Fenerbahçe vs Amedspor (FB TV)"
-
-MatchType: "Futbol"
-Text: "Canlı (14:00) İngiltere vs Türkiye (TRT Spor)"
-
-MatchType: "Futbol"
-Text: "Canlı (14:00) Batman Petrol vs Sarıyer (HT Spor)"
-
-MatchType: "Futbol"
-Text: "Bugün 17:00 Lihtenştayn vs Kuzey Makedonya (CBC Sport)"
+Text: "Lihtenştayn - Kuzey Makedonya (CBC Sport)"
 
 MatchType: "Tenis"
-Text: "Bugün 17:00 Martin/Fallada vs Sanchez/Fernandez (beIN Sports Max 2)"
+Text: "Martin/Fallada - Sanchez/Fernandez (beIN Sports Max 2)"
 
 MatchType: "Basketbol"
-Text: "Bugün 18:00 Petkimspor vs Tofaş (beIN Sports 5)"
+Text: "Manisa BB - Türk Telekom (beIN Sports 5)"
 
 MatchType: "Basketbol"
-Text: "Bugün 18:00 Petkimspor vs Tofaş (beIN Sports Haber)"
+Text: "Petkimspor - Tofaş (beIN Sports 5)"
+
+MatchType: "Basketbol"
+Text: "Petkimspor - Tofaş (beIN Sports Haber)"
 
 MatchType: "Tenis"
-Text: "Bugün 18:00 O.Jabeur vs J.Paolini (beIN Sports Max 1)"
+Text: "O.Jabeur - J.Paolini (beIN Sports Max 1)"
 
 MatchType: "Tenis"
-Text: "Bugün 19:00 Yanguas/Nieto vs Chingotto/Galan (beIN Sports Max 2)"
+Text: "Yanguas/Nieto - Chingotto/Galan (beIN Sports Max 2)"
 
 MatchType: "Basketbol"
-Text: "Bugün 20:00 Valencia Basket vs Leyma Coruna (Spor Smart)"
+Text: "Valencia Basket - Leyma Coruna (Spor Smart)"
 
 MatchType: "Futbol"
-Text: "Bugün 20:30 Mirandes vs Racing Santander (S Sport)"
-
-MatchType: "Basketbol"
-Text: "Bugün 20:30 Büyükçekmece vs Beşiktaş Fibabanka (beIN Sports 5)"
+Text: "Mirandes - Racing Santander (S Sport)"
 
 MatchType: "Tenis"
-Text: "Bugün 20:30 A.Sabalenka vs E.G.Ruse (beIN Sports Max 1)"
+Text: "A.Sabalenka - E.G.Ruse (beIN Sports Max 1)"
+
+MatchType: "Basketbol"
+Text: "Büyükçekmece - Beşiktaş Fibabanka (beIN Sports 5)"
 
 MatchType: "Futbol"
-Text: "Bugün 20:45 Azerbaycan vs Haiti (CBC Sport)"
+Text: "Azerbaycan - Haiti (CBC Sport)"
 
 MatchType: "Tenis"
-Text: "Bugün 21:00 Gallego/Araujo vs Senesi/Pons (beIN Sports Max 2)"
-
-MatchType: "Basketbol"
-Text: "Bugün 21:40 St.Johns vs Arkansas (S Sport 2)"
+Text: "Gallego/Araujo - Senesi/Pons (beIN Sports Max 2)"
 
 MatchType: "Tenis"
-Text: "Bugün 22:00 C.Gauff vs M.Sakkari (beIN Sports Max 1)"
+Text: "Coello/Tapia - Stupaczuk/Lebron (beIN Sports Max 2)"
 
 MatchType: "Basketbol"
-Text: "Bugün 22:45 Baskonia vs Manresa (Spor Smart)"
-
-MatchType: "Futbol"
-Text: "Bugün 22:45 Galler vs Kazakistan (CBC Sport)"
-
-MatchType: "Basketbol"
-Text: "Yarın 00:00 Indiana Pacers vs Brooklyn Nets (S Sport)"
-
-MatchType: "Basketbol"
-Text: "Yarın 03:00 New York Knicks vs Washington Wizards (S Sport)"
+Text: "St.Johns - Arkansas (S Sport 2)"
 
 MatchType: "Tenis"
-Text: "Yarın 03:30 Q.Zheng vs T.Townsend (beIN Sports Max 1)"
+Text: "C.Gauff - M.Sakkari (beIN Sports Max 1)"
 
 MatchType: "Basketbol"
-Text: "Yarın 05:30 LA Lakers vs Chicago Bulls (NBA TV)"
-
-MatchType: "Basketbol"
-Text: "Yarın 14:00 Trapani vs Basket Brescia (sportstv)"
-
-MatchType: "Basketbol"
-Text: "Yarın 15:00 Iberostar Tenerife vs Morabanc Andorra (Spor Smart)"
-
-MatchType: "Basketbol"
-Text: "Yarın 15:30 Yalovaspor vs Karşıyaka (beIN Sports 5)"
-
-MatchType: "Basketbol"
-Text: "Yarın 16:00 ÇBK Mersin vs Emlak Konut (TRT Spor)"
+Text: "Baskonia - Manresa (Spor Smart)"
 
 MatchType: "Futbol"
-Text: "Yarın 17:00 Spurs Legends vs AC Milan Glorie (S Sport 2)"
+Text: "Galler - Kazakistan (CBC Sport)"
 
 MatchType: "Basketbol"
-Text: "Yarın 18:00 Bursaspor vs Merkezefendi Bld. (beIN Sports Haber)"
+Text: "Indiana Pacers - Brooklyn Nets (S Sport)"
 
 MatchType: "Basketbol"
-Text: "Yarın 18:00 Bursaspor vs Merkezefendi Bld. (beIN Sports 5)"
+Text: "New York Knicks - Washington Wizards (S Sport)"
+
+MatchType: "Tenis"
+Text: "Q.Zheng - T.Townsend (beIN Sports Max 1)"
 
 MatchType: "Basketbol"
-Text: "Yarın 19:00 Barcelona vs Zaragoza (Spor Smart 2)"
+Text: "LA Lakers - Chicago Bulls (NBA TV)"
 
 MatchType: "Basketbol"
-Text: "Yarın 19:10 Florida vs Uconn (S Sport 2)"
+Text: "Trapani - Basket Brescia (sportstv)"
+
+MatchType: "Basketbol"
+Text: "Iberostar Tenerife - Morabanc Andorra (Spor Smart)"
+
+MatchType: "Basketbol"
+Text: "Yalovaspor - Karşıyaka (beIN Sports 5)"
+
+MatchType: "Basketbol"
+Text: "ÇBK Mersin - Emlak Konut (TRT Spor)"
 
 MatchType: "Futbol"
-Text: "Yarın 20:00 Macaristan vs Türkiye (TV8)"
+Text: "Spurs Legends - AC Milan Glorie (S Sport 2)"
 
 MatchType: "Basketbol"
-Text: "Yarın 20:00 Maine Celtics vs Delaware Blue Coats (NBA TV)"
+Text: "Bursaspor - Merkezefendi Bld. (beIN Sports Haber)"
+
+MatchType: "Basketbol"
+Text: "Bursaspor - Merkezefendi Bld. (beIN Sports 5)"
+
+MatchType: "Basketbol"
+Text: "Barcelona - Zaragoza (Spor Smart 2)"
+
+MatchType: "Basketbol"
+Text: "Florida - Uconn (S Sport 2)"
 
 MatchType: "Futbol"
-Text: "Yarın 20:00 Macaristan vs Türkiye (CBC Sport)"
+Text: "Macaristan - Türkiye (TV8)"
 
 MatchType: "Basketbol"
-Text: "Yarın 20:15 Olimpia Milano vs Energia Trento (sportstv)"
-
-MatchType: "Basketbol"
-Text: "Yarın 20:30 Unicaja Malaga vs Real Madrid (Spor Smart)"
-
-MatchType: "Basketbol"
-Text: "Yarın 20:30 Anadolu Efes vs Fenerbahçe Beko (beIN Sports 5)"
-
-MatchType: "Basketbol"
-Text: "Yarın 22:30 Utah Jazz vs Cleveland Cavaliers (S Sport)"
+Text: "Maine Celtics - Delaware Blue Coats (NBA TV)"
 
 MatchType: "Futbol"
-Text: "Yarın 22:45 Almanya vs İtalya (CBC Sport)"
+Text: "Macaristan - Türkiye (CBC Sport)"
+
+MatchType: "Basketbol"
+Text: "Olimpia Milano - Energia Trento (sportstv)"
+
+MatchType: "Basketbol"
+Text: "Unicaja Malaga - Real Madrid (Spor Smart)"
+
+MatchType: "Basketbol"
+Text: "Anadolu Efes - Fenerbahçe Beko (beIN Sports 5)"
+
+MatchType: "Basketbol"
+Text: "Utah Jazz - Cleveland Cavaliers (S Sport)"
+
+MatchType: "Futbol"
+Text: "Almanya - İtalya (CBC Sport)"
 
 MatchType: "CANLI"
 Text: "beIN Sports 1"
