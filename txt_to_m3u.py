@@ -59,8 +59,16 @@ while i < len(lines):
         print("⚠️ Beklenmeyen veri formatı, işleme devam ediliyor...")
         break
 
-# tvg-name'e göre sıralama (ilk 14 harf üzerinden)
-formatted_data_sorted = sorted(formatted_data[1:], key=lambda entry: entry.split('tvg-name="')[1][:14])
+# tvg-name'e göre sıralama ve CANLI olanları en üste taşıma
+def custom_sort(entry):
+    # Eğer tvg-name içinde "CANLI" varsa, bu öğeyi öncelikli yapmak için -1 döndür
+    if 'CANLI' in entry:
+        return -1
+    # Diğer öğeleri tvg-name'in ilk 14 harfine göre sıralıyoruz
+    return entry.split('tvg-name="')[1][:14]
+
+# Sıralı verileri başlık ile birleştiriyoruz
+formatted_data_sorted = sorted(formatted_data[1:], key=custom_sort)
 
 # Sıralı verileri başlık ile birleştiriyoruz
 final_data = formatted_data[:1] + formatted_data_sorted
