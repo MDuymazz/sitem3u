@@ -1,1 +1,243 @@
+MatchType: "Basketbol"
+Text: "Canlı (13:00) Mersin Spor vs Galatasaray (beIN Sports 5)"
+
+MatchType: "Futbol"
+Text: "Bugün 14:00 İngiltere vs Türkiye (TRT Spor)"
+
+MatchType: "Futbol"
+Text: "Bugün 14:00 Batman Petrol vs Sarıyer (HT Spor)"
+
+MatchType: "Futbol"
+Text: "Bugün 14:00 Fenerbahçe vs Amedspor (FB TV)"
+
+MatchType: "Basketbol"
+Text: "Bugün 15:30 Manisa BB vs Türk Telekom (beIN Sports 5)"
+
+MatchType: "Futbol"
+Text: "Bugün 17:00 Lihtenştayn vs Kuzey Makedonya (CBC Sport)"
+
+MatchType: "Tenis"
+Text: "Bugün 17:00 Martin/Fallada vs Sanchez/Fernandez (beIN Sports Max 2)"
+
+MatchType: "Basketbol"
+Text: "Bugün 18:00 Petkimspor vs Tofaş (beIN Sports 5)"
+
+MatchType: "Basketbol"
+Text: "Bugün 18:00 Petkimspor vs Tofaş (beIN Sports Haber)"
+
+MatchType: "Tenis"
+Text: "Bugün 18:00 O.Jabeur vs J.Paolini (beIN Sports Max 1)"
+
+MatchType: "Tenis"
+Text: "Bugün 19:00 Yanguas/Nieto vs Chingotto/Galan (beIN Sports Max 2)"
+
+MatchType: "Basketbol"
+Text: "Bugün 20:00 Valencia Basket vs Leyma Coruna (Spor Smart)"
+
+MatchType: "Basketbol"
+Text: "Bugün 20:30 Büyükçekmece vs Beşiktaş Fibabanka (beIN Sports 5)"
+
+MatchType: "Tenis"
+Text: "Bugün 20:30 A.Sabalenka vs E.G.Ruse (beIN Sports Max 1)"
+
+MatchType: "Futbol"
+Text: "Bugün 20:30 Mirandes vs Racing Santander (S Sport)"
+
+MatchType: "Futbol"
+Text: "Bugün 20:45 Azerbaycan vs Haiti (CBC Sport)"
+
+MatchType: "Tenis"
+Text: "Bugün 21:00 Gallego/Araujo vs Senesi/Pons (beIN Sports Max 2)"
+
+MatchType: "Tenis"
+Text: "Bugün 22:00 C.Gauff vs M.Sakkari (beIN Sports Max 1)"
+
+MatchType: "Basketbol"
+Text: "Bugün 22:45 Baskonia vs Manresa (Spor Smart)"
+
+MatchType: "Futbol"
+Text: "Bugün 22:45 Galler vs Kazakistan (CBC Sport)"
+
+MatchType: "Basketbol"
+Text: "Yarın 00:00 Indiana Pacers vs Brooklyn Nets (S Sport)"
+
+MatchType: "Basketbol"
+Text: "Yarın 03:00 New York Knicks vs Washington Wizards (S Sport)"
+
+MatchType: "Tenis"
+Text: "Yarın 03:30 Q.Zheng vs T.Townsend (beIN Sports Max 1)"
+
+MatchType: "Basketbol"
+Text: "Yarın 05:30 LA Lakers vs Chicago Bulls (NBA TV)"
+
+MatchType: "Basketbol"
+Text: "Yarın 14:00 Trapani vs Basket Brescia (sportstv)"
+
+MatchType: "Basketbol"
+Text: "Yarın 15:00 Iberostar Tenerife vs Morabanc Andorra (Spor Smart)"
+
+MatchType: "Basketbol"
+Text: "Yarın 15:30 Yalovaspor vs Karşıyaka (beIN Sports 5)"
+
+MatchType: "Basketbol"
+Text: "Yarın 16:00 ÇBK Mersin vs Emlak Konut (TRT Spor)"
+
+MatchType: "Futbol"
+Text: "Yarın 17:00 Spurs Legends vs AC Milan Glorie (S Sport 2)"
+
+MatchType: "Basketbol"
+Text: "Yarın 18:00 Bursaspor vs Merkezefendi Bld. (beIN Sports 5)"
+
+MatchType: "Basketbol"
+Text: "Yarın 18:00 Bursaspor vs Merkezefendi Bld. (beIN Sports Haber)"
+
+MatchType: "Basketbol"
+Text: "Yarın 19:00 Barcelona vs Zaragoza (Spor Smart 2)"
+
+MatchType: "Futbol"
+Text: "Yarın 20:00 Macaristan vs Türkiye (TV8)"
+
+MatchType: "Basketbol"
+Text: "Yarın 20:00 Maine Celtics vs Delaware Blue Coats (NBA TV)"
+
+MatchType: "Futbol"
+Text: "Yarın 20:00 Macaristan vs Türkiye (CBC Sport)"
+
+MatchType: "Basketbol"
+Text: "Yarın 20:15 Olimpia Milano vs Energia Trento (sportstv)"
+
+MatchType: "Basketbol"
+Text: "Yarın 20:30 Unicaja Malaga vs Real Madrid (Spor Smart)"
+
+MatchType: "Basketbol"
+Text: "Yarın 20:30 Anadolu Efes vs Fenerbahçe Beko (beIN Sports 5)"
+
+MatchType: "Basketbol"
+Text: "Yarın 22:30 Utah Jazz vs Cleveland Cavaliers (S Sport)"
+
+MatchType: "Futbol"
+Text: "Yarın 22:45 Almanya vs İtalya (CBC Sport)"
+
+MatchType: "CANLI"
+Text: "beIN Sports 1"
+
+MatchType: "CANLI"
+Text: "S Sport"
+
+MatchType: "CANLI"
+Text: "Spor Smart"
+
+MatchType: "CANLI"
+Text: "Tivibu Spor 1"
+
+MatchType: "CANLI"
+Text: "tabii Spor 1"
+
+MatchType: "CANLI"
+Text: "TRT Spor"
+
+MatchType: "CANLI"
+Text: "beIN Sports Haber"
+
+MatchType: "CANLI"
+Text: "tabii Spor"
+
+MatchType: "CANLI"
+Text: "A Spor"
+
+MatchType: "CANLI"
+Text: "Tivibu Spor"
+
+MatchType: "CANLI"
+Text: "TV8,5"
+
+MatchType: "CANLI"
+Text: "S Sport 2"
+
+MatchType: "CANLI"
+Text: "Spor Smart 2"
+
+MatchType: "CANLI"
+Text: "HT Spor"
+
+MatchType: "CANLI"
+Text: "beIN Sports 2"
+
+MatchType: "CANLI"
+Text: "beIN Sports 3"
+
+MatchType: "CANLI"
+Text: "beIN Sports 4"
+
+MatchType: "CANLI"
+Text: "beIN Sports 5"
+
+MatchType: "CANLI"
+Text: "beIN Sports Max 1"
+
+MatchType: "CANLI"
+Text: "beIN Sports Max 2"
+
+MatchType: "CANLI"
+Text: "TRT Spor Yıldız"
+
+MatchType: "CANLI"
+Text: "tabii Spor 2"
+
+MatchType: "CANLI"
+Text: "tabii Spor 3"
+
+MatchType: "CANLI"
+Text: "tabii Spor 4"
+
+MatchType: "CANLI"
+Text: "tabii Spor 5"
+
+MatchType: "CANLI"
+Text: "tabii Spor 6"
+
+MatchType: "CANLI"
+Text: "Tivibu Spor 2"
+
+MatchType: "CANLI"
+Text: "Tivibu Spor 3"
+
+MatchType: "CANLI"
+Text: "Tivibu Spor 4"
+
+MatchType: "CANLI"
+Text: "Eurosport 1"
+
+MatchType: "CANLI"
+Text: "Eurosport 2"
+
+MatchType: "CANLI"
+Text: "NBA TV"
+
+MatchType: "CANLI"
+Text: "TRT 1"
+
+MatchType: "CANLI"
+Text: "atv"
+
+MatchType: "CANLI"
+Text: "a2"
+
+MatchType: "CANLI"
+Text: "FB TV"
+
+MatchType: "CANLI"
+Text: "sportstv"
+
+MatchType: "CANLI"
+Text: "TV8"
+
+MatchType: "CANLI"
+Text: "CBC Sport"
+
+MatchType: "CANLI"
+Text: "İDMAN TV"
+
+MatchType: "CANLI"
+Text: "İCTİMAİ TV"
 
