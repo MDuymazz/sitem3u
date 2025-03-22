@@ -1,14 +1,14 @@
+MatchType: "Futbol"
+Text: "Canlı (14:00) Fenerbahçe vs Amedspor (FB TV)"
+
+MatchType: "Futbol"
+Text: "Canlı (14:00) İngiltere vs Türkiye (TRT Spor)"
+
+MatchType: "Futbol"
+Text: "Canlı (14:00) Batman Petrol vs Sarıyer (HT Spor)"
+
 MatchType: "Basketbol"
 Text: "Canlı (13:00) Mersin Spor vs Galatasaray (beIN Sports 5)"
-
-MatchType: "Futbol"
-Text: "Bugün 14:00 İngiltere vs Türkiye (TRT Spor)"
-
-MatchType: "Futbol"
-Text: "Bugün 14:00 Batman Petrol vs Sarıyer (HT Spor)"
-
-MatchType: "Futbol"
-Text: "Bugün 14:00 Fenerbahçe vs Amedspor (FB TV)"
 
 MatchType: "Basketbol"
 Text: "Bugün 15:30 Manisa BB vs Türk Telekom (beIN Sports 5)"
@@ -34,14 +34,14 @@ Text: "Bugün 19:00 Yanguas/Nieto vs Chingotto/Galan (beIN Sports Max 2)"
 MatchType: "Basketbol"
 Text: "Bugün 20:00 Valencia Basket vs Leyma Coruna (Spor Smart)"
 
+MatchType: "Futbol"
+Text: "Bugün 20:30 Mirandes vs Racing Santander (S Sport)"
+
 MatchType: "Basketbol"
 Text: "Bugün 20:30 Büyükçekmece vs Beşiktaş Fibabanka (beIN Sports 5)"
 
 MatchType: "Tenis"
 Text: "Bugün 20:30 A.Sabalenka vs E.G.Ruse (beIN Sports Max 1)"
-
-MatchType: "Futbol"
-Text: "Bugün 20:30 Mirandes vs Racing Santander (S Sport)"
 
 MatchType: "Futbol"
 Text: "Bugün 20:45 Azerbaycan vs Haiti (CBC Sport)"
