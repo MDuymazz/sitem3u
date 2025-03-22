@@ -1,48 +1,46 @@
-from bs4 import BeautifulSoup
 import requests
+from bs4 import BeautifulSoup
 
 # Read the URL from ana_link.txt
-with open("ana_link.txt", "r", encoding="utf-8") as file:
-    url = file.read().strip()  # Strip to remove any extra spaces or newline characters
+with open('ana_link.txt', 'r', encoding='utf-8') as file:
+    url = file.readline().strip()  # Assuming the URL is on the first line
 
-# Send a GET request to fetch the HTML content
+# Send request to the website
 response = requests.get(url)
 
-# Parse the HTML content using BeautifulSoup
-soup = BeautifulSoup(response.content, "html.parser")
+# Parse the HTML content
+soup = BeautifulSoup(response.text, 'html.parser')
 
-# Find the div with the class "list-area"
-list_area_div = soup.find("div", class_="list-area")
-# Find the div with the class "channel-area"
-channel_area_div = soup.find("div", class_="channel-area")
+# Open the file to write the data
+with open('mac_verileri.txt', 'w', encoding='utf-8') as file:
 
-# Open mac_verileri.txt to write the extracted data
-with open("mac_verileri.txt", "w", encoding="utf-8") as output_file:
-    if list_area_div:
-        # Find all elements with the required attributes (data-matchtype) and get the text
-        matches = list_area_div.find_all(attrs={"data-matchtype": True})
+    # Find all elements with 'data-matchtype' and 'data-name' inside <div class="container-grid player-grid">
+    player_grid_elements = soup.find('div', class_='container-grid player-grid')
+    if player_grid_elements:
+        data_matchtype_elements = player_grid_elements.find_all(attrs={'data-matchtype': True})
+        data_name_elements = player_grid_elements.find_all(attrs={'data-name': True})
+        # Write the data in the requested format
+        for matchtype, name in zip(data_matchtype_elements, data_name_elements):
+            file.write(f'MatchType: "{matchtype["data-matchtype"]}"\n')
+            file.write(f'Text: "{name["data-name"]}"\n')
+            file.write('\n')  # Separate entries with a blank line
 
-        for match in matches:
-            # Extract the required data attributes
-            matchtype = match.get("data-matchtype")
-            txt = match.get_text(" ", strip=True).replace(",", "")  # Remove commas
-            
-            # Replace "-" with "vs"
-            txt = txt.replace("-", "vs")
+    # Find all elements with 'data-matchtype' and 'data-name' inside <div class="channel-area">
+    channel_area_elements = soup.find('div', class_='channel-area')
+    if channel_area_elements:
+        data_matchtype_elements = channel_area_elements.find_all(attrs={'data-matchtype': True})
+        data_name_elements = channel_area_elements.find_all(attrs={'data-name': True})
+        # Write the data in the requested format
+        for matchtype, name in zip(data_matchtype_elements, data_name_elements):
+            file.write(f'MatchType: "{matchtype["data-matchtype"]}"\n')
+            file.write(f'Text: "{name["data-name"]}"\n')
+            file.write('\n')  # Separate entries with a blank line
 
-            # Write match data
-            output_file.write(f'MatchType: "{matchtype}"\n')
-            output_file.write(f'Text: "{txt}"\n')
-            output_file.write("\n")  # Add a space between matches
-    
-    if channel_area_div:
-        # Find all elements with data-name attribute inside channel-area
-        channels = channel_area_div.find_all(attrs={"data-name": True})
-
-        for channel in channels:
-            data_name = channel.get("data-name")
-            output_file.write(f'MatchType: "CANLI"\n')
-            output_file.write(f'Text: "{data_name}"\n')
-            output_file.write("\n")  # Add a space between channels
-
-print("Data has been extracted and saved to mac_verileri.txt")
+    # Now find the <div class="channel-area"> again and write only 'data-name' with "CANLI" as MatchType
+    channel_area_elements = soup.find_all('div', class_='channel-area')
+    for area in channel_area_elements:
+        data_name_elements = area.find_all(attrs={'data-name': True})
+        for name in data_name_elements:
+            file.write(f'MatchType: "CANLI"\n')
+            file.write(f'Text: "{name["data-name"]}"\n')
+            file.write('\n')  # Separate entries with a blank line
