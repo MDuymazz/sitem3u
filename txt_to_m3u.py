@@ -45,7 +45,7 @@ while i < len(lines):
                 continue
 
             formatted_entry = f"""
-#EXTINF:-1 tvg-name=\"{text.upper()}\" tvg-language=\"Turkish\" tvg-country=\"TR\" group-title=\"{match_type.upper()}\",{text.upper()}
+#EXTINF:-1 tvg-name=\"{text}\" tvg-language=\"Turkish\" tvg-country=\"TR\" group-title=\"{match_type.upper()}\",{text}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer={referrer_url}
 {url}
@@ -59,10 +59,16 @@ while i < len(lines):
         print("⚠️ Beklenmeyen veri formatı, işleme devam ediliyor...")
         break
 
+# tvg-name'e göre sıralama (ilk 14 harf üzerinden)
+formatted_data_sorted = sorted(formatted_data[1:], key=lambda entry: entry.split('tvg-name="')[1][:14])
+
+# Sıralı verileri başlık ile birleştiriyoruz
+final_data = formatted_data[:1] + formatted_data_sorted
+
 # Dosyaya yazma işlemi
 try:
     with open(output_file, "w", encoding="utf-8") as file:
-        file.writelines(formatted_data)
+        file.writelines(final_data)
     print(f"✅ M3U dosyası başarıyla oluşturuldu: {output_file}")
 except Exception as e:
     print(f"❌ Hata: M3U dosyası oluşturulurken bir hata oluştu: {e}")
