@@ -1,0 +1,77 @@
+name: Run encode.py script
+
+on:
+  workflow_run:
+    workflows: ["Run encode.py script"]  # Ana Domain workflow'u tamamlandığında çalışacak
+    types:
+      - completed
+  workflow_dispatch:  # Manuel olarak çalıştırılabilir
+jobs:
+  run_base_url_script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python environment
+        uses: actions/setup-python@v3  # Daha güncel versiyon kullanıyoruz
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+
+      - name: Run encode.py
+        run: |
+          python encode.py
+
+      # Ana link dosyasını kontrol ediyoruz
+      - name: Check if final_url.txt is updated
+        id: check_update
+        run: |
+          echo "Checking if final_url.txt was updated:"
+          cat final_url.txt  # Dosyanın içeriğini kontrol ediyoruz
+          
+          OLD_URL=$(cat final_url.txt)
+          NEW_URL=$(python encode.py)  # Yeni URL'yi almak için scripti çalıştırıyoruz
+          
+          if [ "$OLD_URL" == "$NEW_URL" ]; then
+            echo "URL güncellemeye gerek yoktur"
+            echo "no_update=true" >> $GITHUB_ENV  # URL değişmemişse environment variable set ediyoruz
+          else
+            echo "URL başarıyla final_url.txt dosyasına güncellendi"
+            echo "no_update=false" >> $GITHUB_ENV  # URL güncellenmişse farklı bir variable set ediyoruz
+          fi
+
+      # GitHub Actions'a yapılan değişiklikleri commit ediyoruz
+      - name: Commit updated final_url.txt
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+
+          # Değişiklik olup olmadığını kontrol et
+          git pull  # Güncel değişiklikleri almak için ekledik
+          if git diff --quiet; then
+            echo "No changes detected. Skipping commit."
+          else
+            git add final_url.txt
+            if [ "${{ env.no_update }}" == "true" ]; then
+              git commit -m "Mac Verileri güncellenmeye gerek yoktur"
+            else
+              git commit -m "Tüm linkler güncellendi ve alındı."
+            fi
+            git push
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # verileri-birlestir.yml workflow'unu tetiklemek
+      - name: Trigger verileri-birlestir.yml workflow
+        if: ${{ success() }}  # Bu adımdan önce başarılı olursa tetiklenir
+        run: |
+          curl -X POST \
+            -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+            -d '{"ref": "main"}' \
+            https://api.github.com/repos/${{ github.repository }}/actions/workflows/verileri-birlestir.yml/dispatches
