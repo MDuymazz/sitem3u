@@ -1,212 +1,209 @@
-MatchType: "Futbol"
-Text: "Lihtenştayn - Kuzey Makedonya (CBC Sport)"
+MatchType: "Tenis"
+Text: "CANLI (19:00) YANGUAS/NIETO – CHINGOTTO/GALAN (BEIN SPORTS MAX 2)"
+
+MatchType: "Basketbol"
+Text: "CANLI (18:00) PETKIMSPOR – TOFAŞ (BEIN SPORTS 5)"
+
+MatchType: "Basketbol"
+Text: "CANLI (18:00) PETKIMSPOR – TOFAŞ (BEIN SPORTS HABER)"
 
 MatchType: "Tenis"
-Text: "Martin/Fallada - Sanchez/Fernandez (beIN Sports Max 2)"
-
-MatchType: "Basketbol"
-Text: "Manisa BB - Türk Telekom (beIN Sports 5)"
-
-MatchType: "Basketbol"
-Text: "Petkimspor - Tofaş (beIN Sports 5)"
-
-MatchType: "Basketbol"
-Text: "Petkimspor - Tofaş (beIN Sports Haber)"
-
-MatchType: "Tenis"
-Text: "O.Jabeur - J.Paolini (beIN Sports Max 1)"
-
-MatchType: "Tenis"
-Text: "Yanguas/Nieto - Chingotto/Galan (beIN Sports Max 2)"
-
-MatchType: "Basketbol"
-Text: "Valencia Basket - Leyma Coruna (Spor Smart)"
+Text: "CANLI (18:00) O.JABEUR – J.PAOLINI (BEIN SPORTS MAX 1)"
 
 MatchType: "Futbol"
-Text: "Mirandes - Racing Santander (S Sport)"
+Text: "CANLI (17:00) LIHTENŞTAYN – KUZEY MAKEDONYA (CBC SPORT)"
 
 MatchType: "Tenis"
-Text: "A.Sabalenka - E.G.Ruse (beIN Sports Max 1)"
+Text: "CANLI (17:00) MARTIN/FALLADA – SANCHEZ/FERNANDEZ (BEIN SPORTS MAX 2)"
 
 MatchType: "Basketbol"
-Text: "Büyükçekmece - Beşiktaş Fibabanka (beIN Sports 5)"
+Text: "BUGÜN 20:00 VALENCIA BASKET – LEYMA CORUNA (SPOR SMART)"
 
-MatchType: "Futbol"
-Text: "Azerbaycan - Haiti (CBC Sport)"
+MatchType: "Basketbol"
+Text: "BUGÜN 20:30 BÜYÜKÇEKMECE – BEŞIKTAŞ FIBABANKA (BEIN SPORTS 5)"
 
 MatchType: "Tenis"
-Text: "Gallego/Araujo - Senesi/Pons (beIN Sports Max 2)"
+Text: "BUGÜN 20:30 A.SABALENKA – E.G.RUSE (BEIN SPORTS MAX 1)"
+
+MatchType: "Futbol"
+Text: "BUGÜN 20:30 MIRANDES – RACING SANTANDER (S SPORT)"
+
+MatchType: "Futbol"
+Text: "BUGÜN 20:45 AZERBAYCAN – HAITI (CBC SPORT)"
 
 MatchType: "Tenis"
-Text: "Coello/Tapia - Stupaczuk/Lebron (beIN Sports Max 2)"
-
-MatchType: "Basketbol"
-Text: "St.Johns - Arkansas (S Sport 2)"
+Text: "BUGÜN 21:00 GALLEGO/ARAUJO – SENESI/PONS (BEIN SPORTS MAX 2)"
 
 MatchType: "Tenis"
-Text: "C.Gauff - M.Sakkari (beIN Sports Max 1)"
+Text: "BUGÜN 21:00 COELLO/TAPIA – STUPACZUK/LEBRON (BEIN SPORTS MAX 2)"
 
 MatchType: "Basketbol"
-Text: "Baskonia - Manresa (Spor Smart)"
-
-MatchType: "Futbol"
-Text: "Galler - Kazakistan (CBC Sport)"
-
-MatchType: "Basketbol"
-Text: "Indiana Pacers - Brooklyn Nets (S Sport)"
-
-MatchType: "Basketbol"
-Text: "New York Knicks - Washington Wizards (S Sport)"
+Text: "BUGÜN 21:40 ST.JOHNS – ARKANSAS (S SPORT 2)"
 
 MatchType: "Tenis"
-Text: "Q.Zheng - T.Townsend (beIN Sports Max 1)"
-
-MatchType: "Basketbol"
-Text: "LA Lakers - Chicago Bulls (NBA TV)"
-
-MatchType: "Basketbol"
-Text: "Trapani - Basket Brescia (sportstv)"
-
-MatchType: "Basketbol"
-Text: "Iberostar Tenerife - Morabanc Andorra (Spor Smart)"
-
-MatchType: "Basketbol"
-Text: "Yalovaspor - Karşıyaka (beIN Sports 5)"
-
-MatchType: "Basketbol"
-Text: "ÇBK Mersin - Emlak Konut (TRT Spor)"
+Text: "BUGÜN 22:00 C.GAUFF – M.SAKKARI (BEIN SPORTS MAX 1)"
 
 MatchType: "Futbol"
-Text: "Spurs Legends - AC Milan Glorie (S Sport 2)"
+Text: "BUGÜN 22:45 GALLER – KAZAKISTAN (CBC SPORT)"
 
 MatchType: "Basketbol"
-Text: "Bursaspor - Merkezefendi Bld. (beIN Sports Haber)"
+Text: "BUGÜN 22:45 BASKONIA – MANRESA (SPOR SMART)"
 
 MatchType: "Basketbol"
-Text: "Bursaspor - Merkezefendi Bld. (beIN Sports 5)"
+Text: "YARIN 00:00 INDIANA PACERS – BROOKLYN NETS (S SPORT)"
 
 MatchType: "Basketbol"
-Text: "Barcelona - Zaragoza (Spor Smart 2)"
+Text: "YARIN 03:00 NEW YORK KNICKS – WASHINGTON WIZARDS (S SPORT)"
+
+MatchType: "Tenis"
+Text: "YARIN 03:30 Q.ZHENG – T.TOWNSEND (BEIN SPORTS MAX 1)"
 
 MatchType: "Basketbol"
-Text: "Florida - Uconn (S Sport 2)"
+Text: "YARIN 05:30 LA LAKERS – CHICAGO BULLS (NBA TV)"
+
+MatchType: "Basketbol"
+Text: "YARIN 14:00 TRAPANI – BASKET BRESCIA (SPORTSTV)"
+
+MatchType: "Basketbol"
+Text: "YARIN 15:00 IBEROSTAR TENERIFE – MORABANC ANDORRA (SPOR SMART)"
+
+MatchType: "Basketbol"
+Text: "YARIN 15:30 YALOVASPOR – KARŞIYAKA (BEIN SPORTS 5)"
+
+MatchType: "Basketbol"
+Text: "YARIN 16:00 ÇBK MERSIN – EMLAK KONUT (TRT SPOR)"
 
 MatchType: "Futbol"
-Text: "Macaristan - Türkiye (TV8)"
+Text: "YARIN 17:00 SPURS LEGENDS – AC MILAN GLORIE (S SPORT 2)"
 
 MatchType: "Basketbol"
-Text: "Maine Celtics - Delaware Blue Coats (NBA TV)"
+Text: "YARIN 18:00 BURSASPOR – MERKEZEFENDI BLD. (BEIN SPORTS 5)"
+
+MatchType: "Basketbol"
+Text: "YARIN 18:00 BURSASPOR – MERKEZEFENDI BLD. (BEIN SPORTS HABER)"
+
+MatchType: "Basketbol"
+Text: "YARIN 19:00 BARCELONA – ZARAGOZA (SPOR SMART 2)"
+
+MatchType: "Basketbol"
+Text: "YARIN 19:10 FLORIDA – UCONN (S SPORT 2)"
 
 MatchType: "Futbol"
-Text: "Macaristan - Türkiye (CBC Sport)"
-
-MatchType: "Basketbol"
-Text: "Olimpia Milano - Energia Trento (sportstv)"
-
-MatchType: "Basketbol"
-Text: "Unicaja Malaga - Real Madrid (Spor Smart)"
-
-MatchType: "Basketbol"
-Text: "Anadolu Efes - Fenerbahçe Beko (beIN Sports 5)"
-
-MatchType: "Basketbol"
-Text: "Utah Jazz - Cleveland Cavaliers (S Sport)"
+Text: "YARIN 20:00 MACARISTAN – TÜRKIYE (CBC SPORT)"
 
 MatchType: "Futbol"
-Text: "Almanya - İtalya (CBC Sport)"
+Text: "YARIN 20:00 MACARISTAN – TÜRKIYE (TV8)"
+
+MatchType: "Basketbol"
+Text: "YARIN 20:00 MAINE CELTICS – DELAWARE BLUE COATS (NBA TV)"
+
+MatchType: "Basketbol"
+Text: "YARIN 20:15 OLIMPIA MILANO – ENERGIA TRENTO (SPORTSTV)"
+
+MatchType: "Basketbol"
+Text: "YARIN 20:30 UNICAJA MALAGA – REAL MADRID (SPOR SMART)"
+
+MatchType: "Basketbol"
+Text: "YARIN 20:30 ANADOLU EFES – FENERBAHÇE BEKO (BEIN SPORTS 5)"
+
+MatchType: "Basketbol"
+Text: "YARIN 22:30 UTAH JAZZ – CLEVELAND CAVALIERS (S SPORT)"
+
+MatchType: "Futbol"
+Text: "YARIN 22:45 ALMANYA – İTALYA (CBC SPORT)"
 
 MatchType: "CANLI"
-Text: "beIN Sports 1"
+Text: "BEIN SPORTS 1"
 
 MatchType: "CANLI"
-Text: "S Sport"
+Text: "S SPORT"
 
 MatchType: "CANLI"
-Text: "Spor Smart"
+Text: "SPOR SMART"
 
 MatchType: "CANLI"
-Text: "Tivibu Spor 1"
+Text: "TIVIBU SPOR 1"
 
 MatchType: "CANLI"
-Text: "tabii Spor 1"
+Text: "TABII SPOR 1"
 
 MatchType: "CANLI"
-Text: "TRT Spor"
+Text: "TRT SPOR"
 
 MatchType: "CANLI"
-Text: "beIN Sports Haber"
+Text: "BEIN SPORTS HABER"
 
 MatchType: "CANLI"
-Text: "tabii Spor"
+Text: "TABII SPOR"
 
 MatchType: "CANLI"
-Text: "A Spor"
+Text: "A SPOR"
 
 MatchType: "CANLI"
-Text: "Tivibu Spor"
+Text: "TIVIBU SPOR"
 
 MatchType: "CANLI"
 Text: "TV8,5"
 
 MatchType: "CANLI"
-Text: "S Sport 2"
+Text: "S SPORT 2"
 
 MatchType: "CANLI"
-Text: "Spor Smart 2"
+Text: "SPOR SMART 2"
 
 MatchType: "CANLI"
-Text: "HT Spor"
+Text: "HT SPOR"
 
 MatchType: "CANLI"
-Text: "beIN Sports 2"
+Text: "BEIN SPORTS 2"
 
 MatchType: "CANLI"
-Text: "beIN Sports 3"
+Text: "BEIN SPORTS 3"
 
 MatchType: "CANLI"
-Text: "beIN Sports 4"
+Text: "BEIN SPORTS 4"
 
 MatchType: "CANLI"
-Text: "beIN Sports 5"
+Text: "BEIN SPORTS 5"
 
 MatchType: "CANLI"
-Text: "beIN Sports Max 1"
+Text: "BEIN SPORTS MAX 1"
 
 MatchType: "CANLI"
-Text: "beIN Sports Max 2"
+Text: "BEIN SPORTS MAX 2"
 
 MatchType: "CANLI"
-Text: "TRT Spor Yıldız"
+Text: "TRT SPOR YILDIZ"
 
 MatchType: "CANLI"
-Text: "tabii Spor 2"
+Text: "TABII SPOR 2"
 
 MatchType: "CANLI"
-Text: "tabii Spor 3"
+Text: "TABII SPOR 3"
 
 MatchType: "CANLI"
-Text: "tabii Spor 4"
+Text: "TABII SPOR 4"
 
 MatchType: "CANLI"
-Text: "tabii Spor 5"
+Text: "TABII SPOR 5"
 
 MatchType: "CANLI"
-Text: "tabii Spor 6"
+Text: "TABII SPOR 6"
 
 MatchType: "CANLI"
-Text: "Tivibu Spor 2"
+Text: "TIVIBU SPOR 2"
 
 MatchType: "CANLI"
-Text: "Tivibu Spor 3"
+Text: "TIVIBU SPOR 3"
 
 MatchType: "CANLI"
-Text: "Tivibu Spor 4"
+Text: "TIVIBU SPOR 4"
 
 MatchType: "CANLI"
-Text: "Eurosport 1"
+Text: "EUROSPORT 1"
 
 MatchType: "CANLI"
-Text: "Eurosport 2"
+Text: "EUROSPORT 2"
 
 MatchType: "CANLI"
 Text: "NBA TV"
@@ -215,22 +212,22 @@ MatchType: "CANLI"
 Text: "TRT 1"
 
 MatchType: "CANLI"
-Text: "atv"
+Text: "ATV"
 
 MatchType: "CANLI"
-Text: "a2"
+Text: "A2"
 
 MatchType: "CANLI"
 Text: "FB TV"
 
 MatchType: "CANLI"
-Text: "sportstv"
+Text: "SPORTSTV"
 
 MatchType: "CANLI"
 Text: "TV8"
 
 MatchType: "CANLI"
-Text: "CBC Sport"
+Text: "CBC SPORT"
 
 MatchType: "CANLI"
 Text: "İDMAN TV"
