@@ -2,7 +2,7 @@ name: Run link_hazırlama.py script
 
 on:
   workflow_run:
-    workflows: ["Run link_hazırlama.py script"]  # Ana Domain workflow'u tamamlandığında çalışacak
+    workflows: ["Run kod_alma.py script"]  # Ana Domain workflow'u tamamlandığında çalışacak
     types:
       - completed
   workflow_dispatch:  # Manuel olarak çalıştırılabilir
