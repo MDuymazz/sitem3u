@@ -1,0 +1,77 @@
+name: Run Monitor URL
+
+on:
+   workflow_dispatch:  # Manuel olarak çalıştırılabilir
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest  # GitHub Actions'ı çalıştıracak ortam
+
+    steps:
+      # Python ortamını kuruyoruz
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'  # Python 3.x sürümünü kullanıyoruz
+
+      # Selenium ve diğer gerekli bağımlılıkları yüklüyoruz
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      # Reponun içeriğini çekiyoruz
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      # Python scriptini çalıştırıyoruz
+      - name: Run ana_domain.py script
+        run: |
+          python ana_domain.py
+
+      # Ana link dosyasını kontrol ediyoruz
+      - name: Check if ana_link.txt is updated
+        id: check_update
+        run: |
+          echo "Checking if ana_link.txt was updated:"
+          cat ana_link.txt  # Dosyanın içeriğini kontrol ediyoruz
+          
+          # Dosya güncellenmemişse hata veriyoruz
+          OLD_URL=$(cat ana_link.txt)
+          NEW_URL=$(python ana_domain.py)  # Yeni URL'yi almak için scripti çalıştırıyoruz
+          
+          if [ "$OLD_URL" == "$NEW_URL" ]; then
+            echo "URL güncellemeye gerek yoktur"  # URL değişmemişse mesaj yazdırıyoruz
+            echo "no_update=true" >> $GITHUB_ENV  # URL değişmemişse bir environment variable set ediyoruz
+          else
+            echo "URL başarıyla ana_link.txt dosyasına güncellendi"
+            echo "no_update=false" >> $GITHUB_ENV  # URL güncellenmişse farklı bir variable set ediyoruz
+          fi
+
+      # GitHub Actions'a yapılan değişiklikleri commit ediyoruz
+      - name: Commit updated ana_link.txt
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          
+          # Değişiklik olup olmadığını kontrol et
+          if git diff --quiet; then
+            echo "No changes detected. Skipping commit."
+          else
+            git add ana_link.txt
+            if [ "${{ env.no_update }}" == "true" ]; then
+              git commit -m "Domain URL güncellemeye gerek yoktur"  # URL değişmemişse özel mesaj
+            else
+              git commit -m "Domain URL güncellendi. "  # URL güncellenmişse normal mesaj
+            fi
+            git push
+          fi
+
+      # mac-verileri.yml workflow'unu tetiklemek
+      - name: Trigger mac-verileri.yml workflow
+        if: success()  # Bu adımdan önce başarılı olursa tetiklenir
+        run: |
+          curl -X POST \
+            -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+            -d '{"ref": "main"}' \
+            https://api.github.com/repos/${{ github.repository }}/actions/workflows/mac-verileri.yml/dispatches
