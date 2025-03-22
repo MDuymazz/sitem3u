@@ -61,11 +61,11 @@ while i < len(lines):
 
 # tvg-name'e göre sıralama ve CANLI olanları en üste taşıma
 def custom_sort(entry):
-    # Eğer tvg-name içinde "CANLI" varsa, bu öğeyi öncelikli yapmak için -1 döndür
+    # Eğer tvg-name içinde "CANLI" varsa, bu öğeyi öncelikli yapmak için 0 döndür
     if 'CANLI' in entry:
-        return -1
+        return (0, entry)
     # Diğer öğeleri tvg-name'in ilk 14 harfine göre sıralıyoruz
-    return entry.split('tvg-name="')[1][:14]
+    return (1, entry.split('tvg-name="')[1][:14])
 
 # Sıralı verileri başlık ile birleştiriyoruz
 formatted_data_sorted = sorted(formatted_data[1:], key=custom_sort)
