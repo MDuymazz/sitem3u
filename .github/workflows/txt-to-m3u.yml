@@ -67,4 +67,13 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+          # birlestir.yml workflow'unu tetiklemek
+      - name: Trigger birlestir.yml workflow
+        if: ${{ success() }}  # Bu adımdan önce başarılı olursa tetiklenir
+        run: |
+          curl -X POST \
+            -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+            -d '{"ref": "main"}' \
+            https://api.github.com/repos/${{ github.repository }}/actions/workflows/birlestir.yml/dispatches
+
       
