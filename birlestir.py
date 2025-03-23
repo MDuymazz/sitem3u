@@ -36,7 +36,15 @@ def merge_m3u(url1, url2, output_file="playlist.m3u"):
     vavoo_m3u = download_m3u(url2)
     
     merged_content = ["#EXTM3U"]
-    merged_content.extend(sort_m3u(gol_m3u))
+    
+    sorted_gol = sort_m3u(gol_m3u)
+    if sorted_gol and sorted_gol[0] == "#EXTM3U":
+        sorted_gol = sorted_gol[1:]
+    
+    if vavoo_m3u and vavoo_m3u[0] == "#EXTM3U":
+        vavoo_m3u = vavoo_m3u[1:]
+    
+    merged_content.extend(sorted_gol)
     merged_content.extend(vavoo_m3u)
     
     with open(output_file, "w", encoding="utf-8") as f:
