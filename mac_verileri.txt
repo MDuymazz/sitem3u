@@ -1,7 +1,4 @@
 MatchType: "Basketbol"
-Text: "CANLI (05:30) LA LAKERS – CHICAGO BULLS (NBA TV)"
-
-MatchType: "Basketbol"
 Text: "BUGÜN 14:00 TRAPANI – BASKET BRESCIA (SPORTSTV)"
 
 MatchType: "Basketbol"
