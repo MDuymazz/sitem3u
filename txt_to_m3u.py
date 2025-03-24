@@ -72,7 +72,7 @@ while i < len(lines):
 
             # TV8,5 ismini 8-5 olarak değiştirme
             if text == "TV8,5":
-                text = "8-5"
+                text = "TV 8-5"
 
             formatted_entry = f"""
 #EXTINF:-1 tvg-name="{text}"{logo_part} tvg-language="Turkish" tvg-country="TR" group-title="{match_type.upper()}",{text}
