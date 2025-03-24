@@ -4,7 +4,7 @@ ATV = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN0p6z3kOBR2kgTOT4g
 BEIN SPORTS 1 = "https://logowik.com/content/uploads/images/bein-sports-13097.logowik.com.webp"
 BEIN SPORTS 2 = "https://logowik.com/content/uploads/images/bein-sports-25584.logowik.com.webp"
 BEIN SPORTS 3 = "https://seeklogo.com/images/B/bein-sports-3-logo-42227D7D66-seeklogo.com.png"
-BEIN SPORTS 4 = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL7ZfLhHsAgzlp6hrWSDGZxVVSk3mCV0jQyw&s"
+BEIN SPORTS 4 = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR23zwpLxrwIOHHi94U_KYjHsCZvsfZf1F1ZDxnYHBU76fjJrXgzKtSTKYT&s=10"
 BEIN SPORTS 5 = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUQFeNVDh8-PJHWL3BaC-qM6f9pczlHXJCFQ&s"
 BEIN SPORTS HABER = "https://image.fanatik.com.tr/i/fanatik/75/1200x695/628241ec45d2a051587c9db2.jpg"
 BEIN SPORTS MAX 1 = "https://upload.wikimedia.org/wikipedia/commons/9/9c/The_new_logo_of_beIN_MAX_1_at_2017.png"
