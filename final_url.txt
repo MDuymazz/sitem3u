@@ -1,4 +1,3 @@
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/-/5102/playlist.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/-/5067/playlist.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/-/5131/playlist.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/-/5067/playlist.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
