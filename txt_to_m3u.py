@@ -70,6 +70,10 @@ while i < len(lines):
             # Logo URL varsa M3U satırına ekle
             logo_part = f' tvg-logo="{logo_url}"' if logo_url else ""
 
+            # TV8,5 ismini 8-5 olarak değiştirme
+            if text == "TV8,5":
+                text = "8-5"
+
             formatted_entry = f"""
 #EXTINF:-1 tvg-name="{text}"{logo_part} tvg-language="Turkish" tvg-country="TR" group-title="{match_type.upper()}",{text}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
