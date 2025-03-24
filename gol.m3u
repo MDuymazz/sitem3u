@@ -285,10 +285,10 @@ https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-b3b0eb3f3e.work
 #EXTVLCOPT:http-referrer=https://golvar2014.sbs/
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/-/5091/playlist.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
-#EXTINF:-1 tvg-name="YARIN 20:30 GALATASARAY – MANISA BB (TIVIBU SPOR)" tvg-language="Turkish" tvg-country="TR" group-title="BASKETBOL",YARIN 20:30 GALATASARAY – MANISA BB (TIVIBU SPOR)
+#EXTINF:-1 tvg-name="YARIN 20:30 GALATASARAY – MANISA BB (TIVIBU SPOR 1)" tvg-language="Turkish" tvg-country="TR" group-title="BASKETBOL",YARIN 20:30 GALATASARAY – MANISA BB (TIVIBU SPOR 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2014.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/-/5081/playlist.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/-/5082/playlist.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 #EXTINF:-1 tvg-name="YARIN 20:30 TÜRKIYE – KOSOVA (A SPOR)" tvg-language="Turkish" tvg-country="TR" group-title="FUTBOL",YARIN 20:30 TÜRKIYE – KOSOVA (A SPOR)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -310,10 +310,10 @@ https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-b3b0eb3f3e.work
 #EXTVLCOPT:http-referrer=https://golvar2014.sbs/
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/-/5092/playlist.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
-#EXTINF:-1 tvg-name="YARIN 22:00 REGGIANA – PETKIMSPOR (TIVIBU SPOR)" tvg-language="Turkish" tvg-country="TR" group-title="BASKETBOL",YARIN 22:00 REGGIANA – PETKIMSPOR (TIVIBU SPOR)
+#EXTINF:-1 tvg-name="YARIN 22:00 REGGIANA – PETKIMSPOR (TIVIBU SPOR 2)" tvg-language="Turkish" tvg-country="TR" group-title="BASKETBOL",YARIN 22:00 REGGIANA – PETKIMSPOR (TIVIBU SPOR 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2014.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/-/5081/playlist.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/-/5083/playlist.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 #EXTINF:-1 tvg-name="YARIN 22:00 TÜRKIYE – GALLER (TRT SPOR)" tvg-language="Turkish" tvg-country="TR" group-title="FUTBOL",YARIN 22:00 TÜRKIYE – GALLER (TRT SPOR)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
