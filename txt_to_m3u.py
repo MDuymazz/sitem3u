@@ -2,6 +2,7 @@
 input_file = "son_m3u.txt"
 output_file = "gol.m3u"
 link_file = "ana_link.txt"
+logo_file = "logo.txt"  # Logo verisinin olduğu dosya
 
 try:
     # ana_link.txt dosyasındaki ana URL'yi alıyoruz
@@ -29,6 +30,25 @@ if not lines:
     print("❌ Hata: 'son_m3u.txt' dosyası boş!")
     exit()
 
+# Logo verilerini içeren sözlük oluştur
+logo_dict = {}
+baska_logo = ""  # Varsayılan logo için boş değişken
+
+try:
+    with open(logo_file, "r", encoding="utf-8") as file:
+        for line in file:
+            if "=" in line:
+                key, value = line.strip().split("=", 1)
+                key = key.strip()
+                value = value.strip().replace('"', '')  # Gereksiz tırnakları kaldır
+
+                if key == "BASKA":
+                    baska_logo = value  # Varsayılan logo olarak kaydet
+                else:
+                    logo_dict[key] = value  # Normal logoları kaydet
+except FileNotFoundError:
+    print("⚠️ Uyarı: 'logo.txt' dosyası bulunamadı! Logolar eklenmeyecek.")
+
 formatted_data = ["#EXTM3U\n"]  # M3U başlığı ekle
 
 i = 0
@@ -44,8 +64,14 @@ while i < len(lines):
                 i += 3
                 continue
 
+            # tvg-name'e göre logo belirle, eşleşme yoksa BASKA kullan
+            logo_url = logo_dict.get(text, baska_logo)
+
+            # Logo URL varsa M3U satırına ekle
+            logo_part = f' tvg-logo="{logo_url}"' if logo_url else ""
+
             formatted_entry = f"""
-#EXTINF:-1 tvg-name=\"{text}\" tvg-language=\"Turkish\" tvg-country=\"TR\" group-title=\"{match_type.upper()}\",{text}
+#EXTINF:-1 tvg-name="{text}"{logo_part} tvg-language="Turkish" tvg-country="TR" group-title="{match_type.upper()}",{text}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer={referrer_url}
 {url}
@@ -61,13 +87,10 @@ while i < len(lines):
 
 # tvg-name'e göre sıralama ve CANLI olanları en üste taşıma
 def custom_sort(entry):
-    # Eğer tvg-name içinde "CANLI" varsa, bu öğeyi öncelikli yapmak için 0 döndür
     if 'CANLI' in entry:
         return (0, entry)
-    # Diğer öğeleri tvg-name'in ilk 14 harfine göre sıralıyoruz
     return (1, entry.split('tvg-name="')[1][:14])
 
-# Sıralı verileri başlık ile birleştiriyoruz
 formatted_data_sorted = sorted(formatted_data[1:], key=custom_sort)
 
 # Sıralı verileri başlık ile birleştiriyoruz
