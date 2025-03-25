@@ -1,50 +1,41 @@
+MatchType: "Futbol"
+Text: "CANLI (22:00) TÜRKIYE – GALLER (TRT SPOR)"
+
+MatchType: "Basketbol"
+Text: "CANLI (22:00) REGGIANA – PETKIMSPOR (TIVIBU SPOR 2)"
+
+MatchType: "Futbol"
+Text: "CANLI (21:15) FILISTIN – IRAK (SPOR SMART 2)"
+
+MatchType: "Tenis"
+Text: "CANLI (21:00) M.LINETTE – J.PAOLINI (BEIN SPORTS MAX 1)"
+
+MatchType: "Futbol"
+Text: "CANLI (20:45) AZERBAYCAN – BELARUS (CBC SPORT)"
+
+MatchType: "Basketbol"
+Text: "CANLI (20:45) FENERBAHÇE BEKO – PARIS (S SPORT)"
+
+MatchType: "Futbol"
+Text: "CANLI (20:30) TÜRKIYE – KOSOVA (A SPOR)"
+
+MatchType: "Basketbol"
+Text: "CANLI (20:30) GALATASARAY – MANISA BB (TRT SPOR)"
+
+MatchType: "Basketbol"
+Text: "CANLI (20:30) GALATASARAY – MANISA BB (TIVIBU SPOR 1)"
+
 MatchType: "Tenis"
 Text: "CANLI (20:00) LOPEZ/ULRICH – SOTO/MARCHETTI (BEIN SPORTS MAX 2)"
-
-MatchType: "Futbol"
-Text: "CANLI (19:00) İRAN – ÖZBEKISTAN (SPOR SMART)"
-
-MatchType: "Futbol"
-Text: "CANLI (18:30) ROMANYA – TÜRKIYE (TRT SPOR)"
-
-MatchType: "Tenis"
-Text: "CANLI (18:00) TALAVAN/SHARIFOVA – BENGOECHEA/VIRSEDA (BEIN SPORTS MAX 2)"
-
-MatchType: "Basketbol"
-Text: "BUGÜN 20:30 GALATASARAY – MANISA BB (TRT SPOR)"
-
-MatchType: "Basketbol"
-Text: "BUGÜN 20:30 GALATASARAY – MANISA BB (TIVIBU SPOR 1)"
-
-MatchType: "Futbol"
-Text: "BUGÜN 20:30 TÜRKIYE – KOSOVA (A SPOR)"
-
-MatchType: "Futbol"
-Text: "BUGÜN 20:45 AZERBAYCAN – BELARUS (CBC SPORT)"
-
-MatchType: "Basketbol"
-Text: "BUGÜN 20:45 FENERBAHÇE BEKO – PARIS (S SPORT)"
-
-MatchType: "Tenis"
-Text: "BUGÜN 21:00 M.LINETTE – J.PAOLINI (BEIN SPORTS MAX 1)"
-
-MatchType: "Futbol"
-Text: "BUGÜN 21:15 FILISTIN – IRAK (SPOR SMART 2)"
-
-MatchType: "Futbol"
-Text: "BUGÜN 22:00 TÜRKIYE – GALLER (TRT SPOR)"
-
-MatchType: "Basketbol"
-Text: "BUGÜN 22:00 REGGIANA – PETKIMSPOR (TIVIBU SPOR 2)"
 
 MatchType: "Basketbol"
 Text: "BUGÜN 22:30 BARCELONA – BAYERN MÜNIH (S SPORT 2)"
 
-MatchType: "Basketbol"
-Text: "BUGÜN 22:45 REAL MADRID – OLIMPIA MILANO (S SPORT)"
-
 MatchType: "Futbol"
 Text: "BUGÜN 22:45 İSRAIL – NORVEÇ (CBC SPORT)"
+
+MatchType: "Basketbol"
+Text: "BUGÜN 22:45 REAL MADRID – OLIMPIA MILANO (S SPORT)"
 
 MatchType: "Basketbol"
 Text: "YARIN 02:00 DETROIT PISTONS – SA SPURS (NBA TV)"
