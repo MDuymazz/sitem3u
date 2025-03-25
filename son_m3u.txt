@@ -1,30 +1,18 @@
-MatchType: "Futbol"
-Text: "CANLI (16:45) ENDONEZYA – BAHREYN (SPOR SMART)"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/-/5091/playlist.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
-
-MatchType: "Futbol"
-Text: "CANLI (16:45) KIRGIZISTAN – KATAR (SPOR SMART 2)"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/-/5092/playlist.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
-
 MatchType: "Tenis"
-Text: "BUGÜN 18:00 TALAVAN/SHARIFOVA – BENGOECHEA/VIRSEDA (BEIN SPORTS MAX 2)"
+Text: "CANLI (20:00) LOPEZ/ULRICH – SOTO/MARCHETTI (BEIN SPORTS MAX 2)"
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/-/5068/playlist.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "Futbol"
-Text: "BUGÜN 18:30 ROMANYA – TÜRKIYE (TRT SPOR)"
+Text: "CANLI (19:00) İRAN – ÖZBEKISTAN (SPOR SMART)"
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/-/5091/playlist.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+
+MatchType: "Futbol"
+Text: "CANLI (18:30) ROMANYA – TÜRKIYE (TRT SPOR)"
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/-/5032/playlist.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
-MatchType: "Futbol"
-Text: "BUGÜN 19:00 İRAN – ÖZBEKISTAN (SPOR SMART)"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/-/5091/playlist.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
-
 MatchType: "Tenis"
-Text: "BUGÜN 20:00 LOPEZ/ULRICH – SOTO/MARCHETTI (BEIN SPORTS MAX 2)"
+Text: "CANLI (18:00) TALAVAN/SHARIFOVA – BENGOECHEA/VIRSEDA (BEIN SPORTS MAX 2)"
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/-/5068/playlist.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
-
-MatchType: "Futbol"
-Text: "BUGÜN 20:30 TÜRKIYE – KOSOVA (A SPOR)"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/-/5003/playlist.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "Basketbol"
 Text: "BUGÜN 20:30 GALATASARAY – MANISA BB (TRT SPOR)"
@@ -33,6 +21,10 @@ https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-b3b0eb3f3e.work
 MatchType: "Basketbol"
 Text: "BUGÜN 20:30 GALATASARAY – MANISA BB (TIVIBU SPOR 1)"
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/-/5082/playlist.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+
+MatchType: "Futbol"
+Text: "BUGÜN 20:30 TÜRKIYE – KOSOVA (A SPOR)"
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/-/5003/playlist.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "Futbol"
 Text: "BUGÜN 20:45 AZERBAYCAN – BELARUS (CBC SPORT)"
