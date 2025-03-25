@@ -1,11 +1,9 @@
 name: Run Birlestir URL
 
 on:
-  workflow_run:
-    workflows: ["Run txt_to_m3u.py script"]  # Ana Domain workflow'u tamamlandığında çalışacak
-    types:
-      - completed
-  workflow_dispatch:  # Manuel olarak çalıştırılabilir
+   workflow_dispatch:  # Manuel olarak çalıştırılabilir
+   schedule:
+    - cron: '30 0 * * *'  # Her gün gece 00:30'te çalışacak
     
 jobs:
   run-script:
