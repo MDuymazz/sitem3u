@@ -1,29 +1,23 @@
-MatchType: "Futbol"
-Text: "CANLI (16:45) ENDONEZYA – BAHREYN (SPOR SMART)"
+MatchType: "Tenis"
+Text: "CANLI (20:00) LOPEZ/ULRICH – SOTO/MARCHETTI (BEIN SPORTS MAX 2)"
 
 MatchType: "Futbol"
-Text: "CANLI (16:45) KIRGIZISTAN – KATAR (SPOR SMART 2)"
+Text: "CANLI (19:00) İRAN – ÖZBEKISTAN (SPOR SMART)"
+
+MatchType: "Futbol"
+Text: "CANLI (18:30) ROMANYA – TÜRKIYE (TRT SPOR)"
 
 MatchType: "Tenis"
-Text: "BUGÜN 18:00 TALAVAN/SHARIFOVA – BENGOECHEA/VIRSEDA (BEIN SPORTS MAX 2)"
-
-MatchType: "Futbol"
-Text: "BUGÜN 18:30 ROMANYA – TÜRKIYE (TRT SPOR)"
-
-MatchType: "Futbol"
-Text: "BUGÜN 19:00 İRAN – ÖZBEKISTAN (SPOR SMART)"
-
-MatchType: "Tenis"
-Text: "BUGÜN 20:00 LOPEZ/ULRICH – SOTO/MARCHETTI (BEIN SPORTS MAX 2)"
-
-MatchType: "Futbol"
-Text: "BUGÜN 20:30 TÜRKIYE – KOSOVA (A SPOR)"
+Text: "CANLI (18:00) TALAVAN/SHARIFOVA – BENGOECHEA/VIRSEDA (BEIN SPORTS MAX 2)"
 
 MatchType: "Basketbol"
 Text: "BUGÜN 20:30 GALATASARAY – MANISA BB (TRT SPOR)"
 
 MatchType: "Basketbol"
 Text: "BUGÜN 20:30 GALATASARAY – MANISA BB (TIVIBU SPOR 1)"
+
+MatchType: "Futbol"
+Text: "BUGÜN 20:30 TÜRKIYE – KOSOVA (A SPOR)"
 
 MatchType: "Futbol"
 Text: "BUGÜN 20:45 AZERBAYCAN – BELARUS (CBC SPORT)"
