@@ -1,14 +1,11 @@
 MatchType: "Futbol"
-Text: "BUGÜN 13:35 JAPONYA – SUUDI ARABISTAN (SPOR SMART)"
+Text: "CANLI (16:45) ENDONEZYA – BAHREYN (SPOR SMART)"
 
 MatchType: "Futbol"
-Text: "BUGÜN 14:00 GÜNEY KORE – ÜRDÜN (SPOR SMART 2)"
+Text: "CANLI (16:45) KIRGIZISTAN – KATAR (SPOR SMART 2)"
 
-MatchType: "Futbol"
-Text: "BUGÜN 16:45 ENDONEZYA – BAHREYN (SPOR SMART)"
-
-MatchType: "Futbol"
-Text: "BUGÜN 16:45 KIRGIZISTAN – KATAR (SPOR SMART 2)"
+MatchType: "Tenis"
+Text: "BUGÜN 18:00 TALAVAN/SHARIFOVA – BENGOECHEA/VIRSEDA (BEIN SPORTS MAX 2)"
 
 MatchType: "Futbol"
 Text: "BUGÜN 18:30 ROMANYA – TÜRKIYE (TRT SPOR)"
@@ -16,17 +13,26 @@ Text: "BUGÜN 18:30 ROMANYA – TÜRKIYE (TRT SPOR)"
 MatchType: "Futbol"
 Text: "BUGÜN 19:00 İRAN – ÖZBEKISTAN (SPOR SMART)"
 
-MatchType: "Basketbol"
-Text: "BUGÜN 20:30 GALATASARAY – MANISA BB (TIVIBU SPOR 1)"
+MatchType: "Tenis"
+Text: "BUGÜN 20:00 LOPEZ/ULRICH – SOTO/MARCHETTI (BEIN SPORTS MAX 2)"
 
 MatchType: "Futbol"
 Text: "BUGÜN 20:30 TÜRKIYE – KOSOVA (A SPOR)"
+
+MatchType: "Basketbol"
+Text: "BUGÜN 20:30 GALATASARAY – MANISA BB (TRT SPOR)"
+
+MatchType: "Basketbol"
+Text: "BUGÜN 20:30 GALATASARAY – MANISA BB (TIVIBU SPOR 1)"
 
 MatchType: "Futbol"
 Text: "BUGÜN 20:45 AZERBAYCAN – BELARUS (CBC SPORT)"
 
 MatchType: "Basketbol"
 Text: "BUGÜN 20:45 FENERBAHÇE BEKO – PARIS (S SPORT)"
+
+MatchType: "Tenis"
+Text: "BUGÜN 21:00 M.LINETTE – J.PAOLINI (BEIN SPORTS MAX 1)"
 
 MatchType: "Futbol"
 Text: "BUGÜN 21:15 FILISTIN – IRAK (SPOR SMART 2)"
@@ -40,14 +46,20 @@ Text: "BUGÜN 22:00 REGGIANA – PETKIMSPOR (TIVIBU SPOR 2)"
 MatchType: "Basketbol"
 Text: "BUGÜN 22:30 BARCELONA – BAYERN MÜNIH (S SPORT 2)"
 
+MatchType: "Basketbol"
+Text: "BUGÜN 22:45 REAL MADRID – OLIMPIA MILANO (S SPORT)"
+
 MatchType: "Futbol"
 Text: "BUGÜN 22:45 İSRAIL – NORVEÇ (CBC SPORT)"
 
 MatchType: "Basketbol"
-Text: "BUGÜN 22:45 REAL MADRID – OLIMPIA MILANO (S SPORT)"
+Text: "YARIN 02:00 DETROIT PISTONS – SA SPURS (NBA TV)"
+
+MatchType: "Tenis"
+Text: "YARIN 02:00 A.SABALENKA – Q.ZHENG (BEIN SPORTS MAX 1)"
 
 MatchType: "Basketbol"
-Text: "YARIN 02:00 DETROIT PISTONS – SA SPURS (NBA TV)"
+Text: "YARIN 02:30 MIAMI HEAT – GS WARRIORS (S SPORT)"
 
 MatchType: "Futbol"
 Text: "YARIN 14:00 BULVARSPOR – BURSASPOR (HT SPOR)"
