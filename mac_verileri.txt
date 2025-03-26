@@ -1,7 +1,4 @@
 MatchType: "Futbol"
-Text: "CANLI (03:00) ARJANTIN – BREZILYA (TABII SPOR 1)"
-
-MatchType: "Futbol"
 Text: "BUGÜN 14:00 BULVARSPOR – BURSASPOR (HT SPOR)"
 
 MatchType: "Basketbol"
