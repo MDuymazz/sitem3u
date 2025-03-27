@@ -1,5 +1,4 @@
 import requests
-import re
 
 def download_m3u(url):
     response = requests.get(url)
@@ -7,57 +6,26 @@ def download_m3u(url):
         return response.text.splitlines()
     return []
 
-def extract_tvg_name(line):
-    match = re.search(r'tvg-name="(.*?)"', line)
-    return match.group(1)[:14] if match else ""
-
-def sort_m3u(lines):
-    entries = []
-    buffer = []
-    for line in lines:
-        if line.startswith("#EXTINF"):
-            if buffer:
-                entries.append((extract_tvg_name(buffer[0]), buffer))
-            buffer = [line]
-        else:
-            buffer.append(line)
-    if buffer:
-        entries.append((extract_tvg_name(buffer[0]), buffer))
-    
-    entries.sort(key=lambda x: ("" if x[0].startswith("CANLI") else x[0]))
-    
-    sorted_lines = []
-    for _, entry in entries:
-        sorted_lines.extend(entry)
-    return sorted_lines
-
 def merge_m3u(url1, url2, url3, url4, output_file="playlist.m3u"):
     new_m3u = download_m3u(url3)  # En üste eklenecek dosya
-    gol_m3u = download_m3u(url1)
-    vavoo_m3u = download_m3u(url2)
-    diziler_m3u = download_m3u(url4)  # Diziler m3u dosyasını ekle
+    gol_m3u = download_m3u(url1)  # İkinci sırada olacak
+    diziler_m3u = download_m3u(url4)  # Üçüncü sırada olacak
+    vavoo_m3u = download_m3u(url2)  # En altta olacak
     
     merged_content = ["#EXTM3U"]
-    
-    if new_m3u and new_m3u[0] == "#EXTM3U":
-        new_m3u = new_m3u[1:]
-    
-    sorted_gol = sort_m3u(gol_m3u)
-    if sorted_gol and sorted_gol[0] == "#EXTM3U":
-        sorted_gol = sorted_gol[1:]
-    
-    if vavoo_m3u and vavoo_m3u[0] == "#EXTM3U":
-        vavoo_m3u = vavoo_m3u[1:]
-    
-    if diziler_m3u and diziler_m3u[0] == "#EXTM3U":
-        diziler_m3u = diziler_m3u[1:]
-    
-    # Diziler m3u en ikinci sırada olacak
-    merged_content.extend(new_m3u)
-    merged_content.extend(diziler_m3u)  # Diziler m3u ikinci sırada olacak
-    merged_content.extend(sorted_gol)
-    merged_content.extend(vavoo_m3u)
-    
+
+    # Eğer indirdiğimiz dosyaların ilk satırı #EXTM3U ise, onu kaldırıyoruz.
+    for m3u_list in [new_m3u, gol_m3u, diziler_m3u, vavoo_m3u]:
+        if m3u_list and m3u_list[0] == "#EXTM3U":
+            m3u_list.pop(0)  # İlk satırı sil
+
+    # Dosyaları sırayla ekle
+    merged_content.extend(new_m3u)   # new_m3u en üstte
+    merged_content.extend(gol_m3u)   # gol_m3u ikinci sırada
+    merged_content.extend(diziler_m3u)  # diziler_m3u üçüncü sırada
+    merged_content.extend(vavoo_m3u)  # vavoo_m3u en altta
+
+    # Dosyaya yaz
     with open(output_file, "w", encoding="utf-8") as f:
         f.write("\n".join(merged_content))
 
