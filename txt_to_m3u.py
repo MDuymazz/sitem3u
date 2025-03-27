@@ -93,7 +93,11 @@ while i < len(lines):
 def custom_sort(entry):
     if 'CANLI' in entry:
         return (0, entry)
-    return (1, entry.split('tvg-name="')[1][:14])
+    elif 'BUGÜN' in entry:
+        return (1, entry)
+    elif 'YARIN' in entry:
+        return (2, entry)
+    return (3, entry.split('tvg-name="')[1][:14])
 
 formatted_data_sorted = sorted(formatted_data[1:], key=custom_sort)
 
