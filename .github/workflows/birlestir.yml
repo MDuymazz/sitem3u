@@ -3,7 +3,7 @@ name: Run Birlestir URL
 on:
    workflow_dispatch:  # Manuel olarak çalıştırılabilir
    schedule:
-    - cron: '30 8,16,0 * * *'  # Her gün 08:30, 16:30 ve 00:30'da çalışacak
+      - cron: "15 21 * * *"
 
     
 jobs:
