@@ -75,7 +75,7 @@ while i < len(lines):
                 text = "TV 8-5"
 
             formatted_entry = f"""
-#EXTINF:-1 tvg-name="{text}"{logo_part} tvg-language="Turkish" tvg-country="TR" group-title="{match_type.upper()}",{text}
+#EXTINF:-1 tvg-name="{text}"{logo_part} tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",{text}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer={referrer_url}
 {url}
