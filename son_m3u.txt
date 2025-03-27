@@ -1,18 +1,18 @@
 MatchType: "Tenis"
-Text: "BUGÜN 19:00 BORRERO/SANTAMARIA – SENESI/PONS (BEIN SPORTS MAX 2)"
+Text: "CANLI (20:30) AGUIRRE/ALFONSO – STUPACZUK/LEBRON (BEIN SPORTS MAX 2)"
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/-/5068/playlist.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "Tenis"
-Text: "BUGÜN 21:00 AGUIRRE/ALFONSO – STUPACZUK/LEBRON (BEIN SPORTS MAX 2)"
+Text: "CANLI (19:00) BORRERO/SANTAMARIA – SENESI/PONS (BEIN SPORTS MAX 2)"
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/-/5068/playlist.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+
+MatchType: "Tenis"
+Text: "BUGÜN 22:00 A.SABALENKA – J.PAOLINI (BEIN SPORTS MAX 1)"
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/-/5067/playlist.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "Basketbol"
 Text: "BUGÜN 22:15 OLYMPIAKOS – MONACO (S SPORT)"
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/-/5101/playlist.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
-
-MatchType: "Tenis"
-Text: "BUGÜN 23:00 MARTIN/FALLADA – RODRIGUEZ/ORSI (BEIN SPORTS MAX 2)"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/-/5068/playlist.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "Basketbol"
 Text: "YARIN 02:00 CLEVELAND CAVALIERS – SA SPURS (S SPORT)"
@@ -21,6 +21,10 @@ https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-b3b0eb3f3e.work
 MatchType: "Basketbol"
 Text: "YARIN 03:00 OKC THUNDER – MEMPHIS GRIZZLIES (NBA TV)"
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/-/5121/playlist.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+
+MatchType: "Tenis"
+Text: "YARIN 03:30 J.PEGULA – A.EALA (BEIN SPORTS MAX 1)"
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/-/5067/playlist.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "Futbol"
 Text: "YARIN 03:35 CORINTHIANS – PALMEIRAS (SPOR SMART)"
@@ -31,48 +35,68 @@ Text: "YARIN 04:39 DUKE – ARIZONA WILDCATS (S SPORT 2)"
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/-/5102/playlist.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "Futbol"
-Text: "YARIN 16:00 ANTALYASPOR – ALANYASPOR (BEIN SPORTS 1)"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/-/5062/playlist.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+Text: "YARIN 16:00 BOLUSPOR – BANDIRMASPOR (TRT SPOR)"
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/-/5032/playlist.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "Futbol"
-Text: "YARIN 16:00 KAYSERISPOR – HATAYSPOR (BEIN SPORTS 2)"
+Text: "YARIN 16:00 ANTALYASPOR – ALANYASPOR (BEIN SPORTS 2)"
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/-/5063/playlist.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "Futbol"
-Text: "YARIN 16:00 BOLUSPOR – BANDIRMASPOR (BEIN SPORTS MAX 1)"
+Text: "YARIN 16:00 ERZURUMSPOR – MANISA FK (BEIN SPORTS MAX 1)"
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/-/5067/playlist.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
-
-MatchType: "Futbol"
-Text: "YARIN 16:00 BOLUSPOR – BANDIRMASPOR (TRT SPOR)"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/-/5032/playlist.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "Futbol"
 Text: "YARIN 16:00 ERZURUMSPOR – MANISA FK (TABII SPOR 6)"
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/-/5077/playlist.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "Futbol"
-Text: "YARIN 16:00 ERZURUMSPOR – MANISA FK (BEIN SPORTS MAX 2)"
+Text: "YARIN 16:00 BOLUSPOR – BANDIRMASPOR (BEIN SPORTS MAX 2)"
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/-/5068/playlist.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+
+MatchType: "Futbol"
+Text: "YARIN 16:00 KAYSERISPOR – HATAYSPOR (BEIN SPORTS 1)"
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/-/5062/playlist.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "Futbol"
 Text: "YARIN 18:30 TURAN – KARABAĞ (CBC SPORT)"
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/-/5131/playlist.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "Basketbol"
+Text: "YARIN 19:00 BEŞIKTAŞ FIBABANKA – YALOVASPOR (BEIN SPORTS HABER)"
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/-/5061/playlist.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+
+MatchType: "Basketbol"
 Text: "YARIN 19:00 BEŞIKTAŞ FIBABANKA – YALOVASPOR (BEIN SPORTS 5)"
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/-/5066/playlist.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+
+MatchType: "Futbol"
+Text: "YARIN 20:30 IĞDIRSPOR – ÜMRANIYESPOR (TABII SPOR 6)"
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/-/5077/playlist.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "Basketbol"
 Text: "YARIN 20:30 ANADOLU EFES – MACCABI PLAYTIKA (S SPORT)"
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/-/5101/playlist.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "Futbol"
+Text: "YARIN 20:30 KONYASPOR – GAZIANTEP FK (BEIN SPORTS 2)"
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/-/5063/playlist.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+
+MatchType: "Futbol"
 Text: "YARIN 20:30 BODRUMSPOR – FENERBAHÇE (BEIN SPORTS 1)"
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/-/5062/playlist.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "Futbol"
-Text: "YARIN 20:30 KONYASPOR – GAZIANTEP FK (BEIN SPORTS 2)"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/-/5063/playlist.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+Text: "YARIN 20:30 HAMBURG – ELVERSBERG (TIVIBU SPOR 2)"
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/-/5083/playlist.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+
+MatchType: "Futbol"
+Text: "YARIN 20:30 HAMBURG – ELVERSBERG (BEIN SPORTS 3)"
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/-/5064/playlist.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+
+MatchType: "Futbol"
+Text: "YARIN 20:30 ULM – DARMSTADT 98 (TIVIBU SPOR 3)"
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/-/5084/playlist.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "Futbol"
 Text: "YARIN 20:30 GENÇLERBIRLIĞI – ŞANLIURFASPOR (BEIN SPORTS MAX 1)"
@@ -83,24 +107,20 @@ Text: "YARIN 20:30 GENÇLERBIRLIĞI – ŞANLIURFASPOR (TRT SPOR)"
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/-/5032/playlist.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "Futbol"
-Text: "YARIN 20:30 IĞDIRSPOR – ÜMRANIYESPOR (TABII SPOR 6)"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/-/5077/playlist.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
-
-MatchType: "Futbol"
 Text: "YARIN 20:30 IĞDIRSPOR – ÜMRANIYESPOR (BEIN SPORTS MAX 2)"
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/-/5068/playlist.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "Futbol"
-Text: "YARIN 20:30 ULM – DARMSTADT 98 (TIVIBU SPOR 3)"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/-/5084/playlist.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
-
-MatchType: "Futbol"
-Text: "YARIN 20:30 HAMBURG – ELVERSBERG (TIVIBU SPOR 2)"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/-/5083/playlist.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+Text: "YARIN 22:30 BAYER LEVERKUSEN – BOCHUM (BEIN SPORTS 3)"
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/-/5064/playlist.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "Futbol"
 Text: "YARIN 22:30 BAYER LEVERKUSEN – BOCHUM (TIVIBU SPOR 1)"
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/-/5082/playlist.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+
+MatchType: "Futbol"
+Text: "YARIN 22:45 STRASBOURG – LYON (BEIN SPORTS 4)"
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-b3b0eb3f3e.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/-/5065/playlist.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "Futbol"
 Text: "YARIN 23:00 ATHLETIC BILBAO – OSASUNA (S SPORT)"
