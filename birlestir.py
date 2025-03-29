@@ -6,25 +6,23 @@ def download_m3u(url):
         return response.text.splitlines()
     return []
 
-def merge_m3u(url1, url2, url3, url4, url5, output_file="playlist.m3u"):
+def merge_m3u(url1, url2, url3, url4, output_file="playlist.m3u"):
     new_m3u = download_m3u(url3)  # En üste eklenecek dosya
     gol_m3u = download_m3u(url1)  # İkinci sırada olacak
-    diziler_m3u = download_m3u(url4)
-    belgesel_m3u = download_m3u(url5)# Üçüncü sırada olacak
+    programlar_m3u = download_m3u(url4)
     vavoo_m3u = download_m3u(url2)  # En altta olacak
     
     merged_content = ["#EXTM3U"]
 
     # Eğer indirdiğimiz dosyaların ilk satırı #EXTM3U ise, onu kaldırıyoruz.
-    for m3u_list in [new_m3u, gol_m3u, diziler_m3u, vavoo_m3u, belgesel_m3u]:
+    for m3u_list in [new_m3u, gol_m3u, programlar_m3u, vavoo_m3u]:
         if m3u_list and m3u_list[0] == "#EXTM3U":
             m3u_list.pop(0)  # İlk satırı sil
 
     # Dosyaları sırayla ekle
     merged_content.extend(new_m3u)   # new_m3u en üstte
     merged_content.extend(gol_m3u)   # gol_m3u ikinci sırada
-    merged_content.extend(diziler_m3u)  # diziler_m3u üçüncü sırada
-    merged_content.extend(belgesel_m3u)
+    merged_content.extend(programlar_m3u)  # diziler_m3u üçüncü sırada
     merged_content.extend(vavoo_m3u)  # vavoo_m3u en altta
 
     # Dosyaya yaz
@@ -35,6 +33,5 @@ merge_m3u(
     "https://raw.githubusercontent.com/MDuymazz/sitem3u/refs/heads/main/gol.m3u",
     "https://raw.githubusercontent.com/MDuymazz/efendikaptan/refs/heads/main/vavoo.m3u",
     "https://raw.githubusercontent.com/MDuymazz/efendikaptan/refs/heads/main/new_m3u.m3u",
-    "https://raw.githubusercontent.com/MDuymazz/efendikaptan/refs/heads/main/diziler.m3u",
-    "https://raw.githubusercontent.com/MDuymazz/efendikaptan/refs/heads/main/belgesel.m3u"
+    "https://raw.githubusercontent.com/MDuymazz/efendikaptan/refs/heads/main/programlar.m3u"
 )
