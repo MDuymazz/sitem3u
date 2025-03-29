@@ -71,10 +71,18 @@ def merge_m3u(url1, url2, url3, url4, url5, output_file="playlist.m3u"):
         belgesel_time = extract_start_time_from_m3u(sorted_belgesel_m3u[i])
         diziler_time = extract_start_time_from_m3u(sorted_diziler_m3u[j])
         
-        if belgesel_time <= diziler_time:
+        # Eğer belgesel_time geçerli değilse, diziler_time'ı alıyoruz ve tam tersini yapıyoruz
+        if belgesel_time and diziler_time:
+            if belgesel_time <= diziler_time:
+                combined_m3u.append(sorted_belgesel_m3u[i])
+                i += 1
+            else:
+                combined_m3u.append(sorted_diziler_m3u[j])
+                j += 1
+        elif belgesel_time:  # Eğer sadece belgesel_time geçerliyse
             combined_m3u.append(sorted_belgesel_m3u[i])
             i += 1
-        else:
+        elif diziler_time:  # Eğer sadece diziler_time geçerliyse
             combined_m3u.append(sorted_diziler_m3u[j])
             j += 1
     
