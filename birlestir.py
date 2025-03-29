@@ -17,31 +17,30 @@ def extract_time_from_m3u(line):
 
 def sort_m3u_by_time(m3u_list):
     """M3U dosyasını saat bilgilerine göre sıralar."""
-    # Saat bilgilerini çıkarıp, sıralama yapıyoruz.
     m3u_with_times = []
     current_entry = []
     
     for line in m3u_list:
-        # Saat bilgisini içeren satırları buluyoruz.
         if line.startswith("#EXTINF:"):
             time = extract_time_from_m3u(line)
+            # Saat bilgisi mevcutsa, grubu ekliyoruz
             if time:
                 if current_entry:
-                    m3u_with_times.append((current_entry, current_entry[0]))
+                    m3u_with_times.append((current_entry, time))
                 current_entry = [line]
             else:
                 current_entry.append(line)
         else:
             current_entry.append(line)
-    
-    # Sonuncu grubu da ekliyoruz.
-    if current_entry:
-        m3u_with_times.append((current_entry, current_entry[0]))
 
-    # Saat bilgisi ile sıralama yapıyoruz.
-    m3u_with_times.sort(key=lambda x: extract_time_from_m3u(x[1]))
+    # Sonuncu grubu da ekliyoruz
+    if current_entry:
+        m3u_with_times.append((current_entry, extract_time_from_m3u(current_entry[0])))
+
+    # Saat bilgisi ile sıralama yapıyoruz, ancak None değerleri olanları en sona ekliyoruz
+    m3u_with_times.sort(key=lambda x: x[1] if x[1] is not None else datetime.max)
     
-    # Sıralanmış içerikleri birleştiriyoruz.
+    # Sıralanmış içerikleri birleştiriyoruz
     sorted_m3u = []
     for entry, _ in m3u_with_times:
         sorted_m3u.extend(entry)
