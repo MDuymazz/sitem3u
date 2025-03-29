@@ -16,22 +16,37 @@ def extract_time_from_extinf(line):
         return datetime.strptime(start_time, "%H:%M")  # Saat bilgisini datetime formatında döndür
     return None
 
-def sort_by_time(m3u_list):
-    # #EXTINF satırındaki zaman dilimlerine göre sıralama
-    m3u_with_time = []
-    for i, line in enumerate(m3u_list):
+def sort_m3u_blocks(m3u_list):
+    # #EXTINF satırları ve ilgili video/stream URL'leri birlikte sıralanacak
+    blocks = []
+    current_block = []
+    
+    for line in m3u_list:
         if line.startswith("#EXTINF"):
-            time = extract_time_from_extinf(line)
-            if time:
-                m3u_with_time.append((time, i, line))
+            if current_block:
+                blocks.append(current_block)  # Önceki blok ekleniyor
+            current_block = [line]  # Yeni bir blok başlıyor
+        else:
+            current_block.append(line)  # Satır, mevcut bloğa ekleniyor
+
+    if current_block:
+        blocks.append(current_block)  # Son bloğu da ekleyelim
+
+    # Blokları sıralama: her bloktaki #EXTINF satırının zaman dilimine göre sıralama
+    sorted_blocks = []
+    for block in blocks:
+        extinf_line = block[0]
+        time = extract_time_from_extinf(extinf_line)
+        if time:
+            sorted_blocks.append((time, block))
     
-    # Saat bilgisine göre sıralama (en küçük saat önce gelsin)
-    m3u_with_time.sort(key=lambda x: x[0])
-    
-    # Sıralanmış öğeleri m3u_list'ten alarak yeni liste oluşturma
+    sorted_blocks.sort(key=lambda x: x[0])  # Saat bilgisine göre sıralama
+
+    # Sıralanmış blokları geri al
     sorted_m3u = []
-    for time, i, line in m3u_with_time:
-        sorted_m3u.append(m3u_list[i])
+    for _, block in sorted_blocks:
+        sorted_m3u.extend(block)
+
     return sorted_m3u
 
 def merge_m3u(url1, url2, url3, url4, url5, output_file="playlist.m3u"):
@@ -48,9 +63,11 @@ def merge_m3u(url1, url2, url3, url4, url5, output_file="playlist.m3u"):
         if m3u_list and m3u_list[0] == "#EXTM3U":
             m3u_list.pop(0)  # İlk satırı sil
 
-    # Diziler.m3u ve Belgesel.m3u'yu zaman dilimlerine göre sırala
-    diziler_m3u = sort_by_time(diziler_m3u)
-    belgesel_m3u = sort_by_time(belgesel_m3u)
+    # Dosyaları bloklar halinde sıralayıp birleştir
+    gol_m3u = sort_m3u_blocks(gol_m3u)
+    diziler_m3u = sort_m3u_blocks(diziler_m3u)
+    belgesel_m3u = sort_m3u_blocks(belgesel_m3u)
+    vavoo_m3u = sort_m3u_blocks(vavoo_m3u)
 
     # Dosyaları sırayla ekle
     merged_content.extend(new_m3u)   # new_m3u en üstte
