@@ -1,185 +1,71 @@
-MatchType: "Futbol"
-Text: "CANLI (23:05) MONACO – NICE (BEIN SPORTS 3)"
+MatchType: "Basketbol"
+Text: "CANLI (00:00) MICHIGAN STATE – AUBURN (S SPORT 2)"
 
-MatchType: "Futbol"
-Text: "CANLI (22:45) LECCE – ROMA (S SPORT 2)"
-
-MatchType: "Futbol"
-Text: "CANLI (22:45) LECCE – ROMA (CBC SPORT)"
+MatchType: "Tenis"
+Text: "CANLI (00:00) MARTIN/FALLADA – SENESI/PONS (BEIN SPORTS MAX 1)"
 
 MatchType: "Basketbol"
-Text: "CANLI (22:45) ZARAGOZA – IBEROSTAR TENERIFE (SPOR SMART)"
+Text: "BUGÜN 01:00 NEW YORK KNICKS – PORTLAND TB (S SPORT)"
 
-MatchType: "Futbol"
-Text: "CANLI (22:30) KAISERSLAUTERN – FORTUNA DÜSSELDORF (BEIN SPORTS 4)"
-
-MatchType: "Futbol"
-Text: "CANLI (22:30) KAISERSLAUTERN – FORTUNA DÜSSELDORF (TIVIBU SPOR 2)"
+MatchType: "Tenis"
+Text: "BUGÜN 02:00 STUPACZUK/LEBRON – CHINGOTTO/GALAN (BEIN SPORTS MAX 1)"
 
 MatchType: "Basketbol"
-Text: "BUGÜN 03:00 OKC THUNDER – INDIANA PACERS (NBA TV)"
+Text: "BUGÜN 02:00 MILWAUKEE BUCKS – ATLANTA HAWKS (NBA TV)"
+
+MatchType: "Futbol"
+Text: "BUGÜN 17:00 ESENLER EROKSPOR – ANKARAGÜCÜ (BEIN SPORTS 2)"
+
+MatchType: "Futbol"
+Text: "BUGÜN 17:00 ESENLER EROKSPOR – ANKARAGÜCÜ (TRT SPOR)"
 
 MatchType: "Basketbol"
-Text: "BUGÜN 03:00 MEMPHIS GRIZZLIES – LA LAKERS (S SPORT)"
+Text: "BUGÜN 18:00 TÜRK TELEKOM – ANADOLU EFES (BEIN SPORTS 5)"
+
+MatchType: "Futbol"
+Text: "BUGÜN 19:30 VERONA – PARMA (S SPORT 2)"
+
+MatchType: "Futbol"
+Text: "BUGÜN 20:00 KOCAELISPOR – SAKARYASPOR (BEIN SPORTS 2)"
+
+MatchType: "Futbol"
+Text: "BUGÜN 20:00 KOCAELISPOR – SAKARYASPOR (TRT SPOR)"
+
+MatchType: "Futbol"
+Text: "BUGÜN 20:00 EYÜPSPOR – RAMS BAŞAKŞEHIR (BEIN SPORTS 1)"
 
 MatchType: "Basketbol"
-Text: "BUGÜN 13:00 FENERBAHÇE BEKO – MERSIN SPOR (BEIN SPORTS 5)"
+Text: "BUGÜN 20:45 VIRTUS BOLOGNA – REGGIANA (SPORTSTV)"
 
 MatchType: "Futbol"
-Text: "BUGÜN 13:30 CAGLIARI – MONZA (S SPORT 2)"
+Text: "BUGÜN 21:45 LAZIO – TORINO (S SPORT 2)"
 
 MatchType: "Futbol"
-Text: "BUGÜN 14:30 GREUTHER FÜRTH – SCHALKE 04 (BEIN SPORTS 3)"
+Text: "BUGÜN 21:45 PARIS FC – CAEN (BEIN SPORTS 4)"
 
 MatchType: "Futbol"
-Text: "BUGÜN 14:30 JAHN REGENSBURG – NÜRNBERG (TIVIBU SPOR 4)"
-
-MatchType: "Futbol"
-Text: "BUGÜN 14:30 PREUSSEN MÜNSTER – BRAUNSCHWEIG (TIVIBU SPOR 3)"
-
-MatchType: "Futbol"
-Text: "BUGÜN 14:30 JAHN REGENSBURG – NÜRNBERG (BEIN SPORTS MAX 1)"
-
-MatchType: "Futbol"
-Text: "BUGÜN 14:30 PREUSSEN MÜNSTER – BRAUNSCHWEIG (BEIN SPORTS 2)"
-
-MatchType: "Futbol"
-Text: "BUGÜN 14:30 GREUTHER FÜRTH – SCHALKE 04 (TIVIBU SPOR 2)"
-
-MatchType: "Futbol"
-Text: "BUGÜN 15:00 GETAFE – VILLARREAL (S SPORT)"
-
-MatchType: "Futbol"
-Text: "BUGÜN 15:00 KAPAZ – SEBAIL (CBC SPORT)"
-
-MatchType: "Futbol"
-Text: "BUGÜN 15:30 PSV – AJAX (TV85)"
+Text: "BUGÜN 22:00 CELTA VIGO – LAS PALMAS (S SPORT)"
 
 MatchType: "Basketbol"
-Text: "BUGÜN 15:30 GALATASARAY – BÜYÜKÇEKMECE (BEIN SPORTS 5)"
+Text: "YARIN 02:00 ORLANDO MAGIC – LA CLIPPERS (NBA TV)"
 
 MatchType: "Basketbol"
-Text: "BUGÜN 15:30 GALATASARAY – BÜYÜKÇEKMECE (BEIN SPORTS HABER)"
+Text: "YARIN 05:00 LA LAKERS – HOUSTON ROCKETS (S SPORT)"
 
 MatchType: "Futbol"
-Text: "BUGÜN 16:00 FIORENTINA – ATALANTA (S SPORT 2)"
+Text: "YARIN 14:00 KARŞIYAKA – KUŞADASISPOR (HT SPOR)"
 
 MatchType: "Futbol"
-Text: "BUGÜN 16:00 TOULOUSE – BREST (BEIN SPORTS 4)"
+Text: "YARIN 17:00 TRABZONSPOR – INTER (TRT SPOR)"
 
 MatchType: "Futbol"
-Text: "BUGÜN 16:30 FREIBURG – UNION BERLIN (BEIN SPORTS 3)"
+Text: "YARIN 20:30 KONYASPOR – İSKENDERUNSPOR (A SPOR)"
 
 MatchType: "Futbol"
-Text: "BUGÜN 16:30 FREIBURG – UNION BERLIN (TIVIBU SPOR 1)"
+Text: "YARIN 22:00 EMPOLI – BOLOGNA (TRT SPOR)"
 
 MatchType: "Futbol"
-Text: "BUGÜN 16:30 ROSS COUNTY – DUNDEE UNITED (TRT SPOR)"
-
-MatchType: "Futbol"
-Text: "BUGÜN 17:00 ZIRA – SHAMAKHI (CBC SPORT)"
-
-MatchType: "Futbol"
-Text: "BUGÜN 17:15 BARCELONA – GIRONA (S SPORT)"
-
-MatchType: "Futbol"
-Text: "BUGÜN 17:45 FEYENOORD – G.A. EAGLES (TV85)"
-
-MatchType: "Basketbol"
-Text: "BUGÜN 18:00 REAL MADRID – BILBAO BASKET (SPOR SMART)"
-
-MatchType: "Futbol"
-Text: "BUGÜN 18:15 LE HAVRE – NANTES (BEIN SPORTS 4)"
-
-MatchType: "Futbol"
-Text: "BUGÜN 18:15 AUXERRE – MONTPELLIER (BEIN SPORTS 5)"
-
-MatchType: "Futbol"
-Text: "BUGÜN 18:15 ANGERS – RENNES (BEIN SPORTS 2)"
-
-MatchType: "Futbol"
-Text: "BUGÜN 18:30 B.DORTMUND – MAINZ (TIVIBU SPOR 2)"
-
-MatchType: "Futbol"
-Text: "BUGÜN 18:30 B.DORTMUND – MAINZ (BEIN SPORTS 3)"
-
-MatchType: "Futbol"
-Text: "BUGÜN 19:00 INTER – UDINESE (CBC SPORT)"
-
-MatchType: "Futbol"
-Text: "BUGÜN 19:00 INTER – UDINESE (S SPORT 2)"
-
-MatchType: "Basketbol"
-Text: "BUGÜN 19:15 ENERGIA TRENTO – BASKET BRESCIA (SPORTSTV)"
-
-MatchType: "Basketbol"
-Text: "BUGÜN 19:30 JOVENTUT BADALONA – BARCELONA (SPOR SMART)"
-
-MatchType: "Futbol"
-Text: "BUGÜN 19:30 GENK – KAA GENT (TV85)"
-
-MatchType: "Futbol"
-Text: "BUGÜN 19:30 VALENCIA – MALLORCA (S SPORT)"
-
-MatchType: "Futbol"
-Text: "BUGÜN 19:30 ATHLETIC BILBAO – OSASUNA (S SPORT)"
-
-MatchType: "Futbol"
-Text: "BUGÜN 20:00 ESTORIL – PORTO (TRT SPOR)"
-
-MatchType: "Futbol"
-Text: "BUGÜN 21:45 NAPOLI – MILAN (CBC SPORT)"
-
-MatchType: "Futbol"
-Text: "BUGÜN 21:45 NAPOLI – MILAN (S SPORT 2)"
-
-MatchType: "Futbol"
-Text: "BUGÜN 21:45 LILLE – LENS (BEIN SPORTS 3)"
-
-MatchType: "Futbol"
-Text: "BUGÜN 22:00 REAL BETIS – SEVILLA (S SPORT)"
-
-MatchType: "Basketbol"
-Text: "YARIN 01:00 NEW YORK KNICKS – PORTLAND TB (S SPORT)"
-
-MatchType: "Basketbol"
-Text: "YARIN 02:00 MILWAUKEE BUCKS – ATLANTA HAWKS (NBA TV)"
-
-MatchType: "Futbol"
-Text: "YARIN 17:00 ESENLER EROKSPOR – ANKARAGÜCÜ (TRT SPOR)"
-
-MatchType: "Futbol"
-Text: "YARIN 17:00 ESENLER EROKSPOR – ANKARAGÜCÜ (BEIN SPORTS 2)"
-
-MatchType: "Basketbol"
-Text: "YARIN 18:00 TÜRK TELEKOM – ANADOLU EFES (BEIN SPORTS 5)"
-
-MatchType: "Futbol"
-Text: "YARIN 19:30 VERONA – PARMA (S SPORT 2)"
-
-MatchType: "Futbol"
-Text: "YARIN 20:00 KOCAELISPOR – SAKARYASPOR (TRT SPOR)"
-
-MatchType: "Futbol"
-Text: "YARIN 20:00 EYÜPSPOR – RAMS BAŞAKŞEHIR (BEIN SPORTS 1)"
-
-MatchType: "Futbol"
-Text: "YARIN 20:00 KOCAELISPOR – SAKARYASPOR (BEIN SPORTS 2)"
-
-MatchType: "Basketbol"
-Text: "YARIN 20:30 BAHÇEŞEHIR KLJ – PETKIMSPOR (BEIN SPORTS 5)"
-
-MatchType: "Basketbol"
-Text: "YARIN 20:45 VIRTUS BOLOGNA – REGGIANA (SPORTSTV)"
-
-MatchType: "Futbol"
-Text: "YARIN 21:45 LAZIO – TORINO (S SPORT 2)"
-
-MatchType: "Futbol"
-Text: "YARIN 21:45 PARIS FC – CAEN (BEIN SPORTS 4)"
-
-MatchType: "Futbol"
-Text: "YARIN 22:00 CELTA VIGO – LAS PALMAS (S SPORT)"
+Text: "YARIN 22:30 REAL MADRID – REAL SOCIEDAD (TIVIBU SPOR 1)"
 
 MatchType: "CANLI"
 Text: "BEIN SPORTS 1"
