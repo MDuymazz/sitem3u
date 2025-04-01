@@ -13,6 +13,9 @@ def update_m3u_links(m3u_data, new_url):
     # URL'nin genel yapısını tanımlamak için dinamik bir regex
     pattern = r"(https://a\.strmrdr-cf-worker-[\w-]+\.workers\.dev)/([\w-]+)/([\w-]+)/(\d+)/a\.strmrdr-cf-worker-[\w-]+\.workers\.dev/chunklist_hd\.m3u8"
     
+    # Başlangıçta updated_m3u'yu başlatıyoruz
+    updated_m3u = m3u_data
+
     # Yeni URL'den dinamik kısımları ayıklıyoruz
     match = re.search(pattern, new_url)
     if match:
@@ -25,6 +28,7 @@ def update_m3u_links(m3u_data, new_url):
         updated_m3u = re.sub(r"(https://a\.strmrdr-cf-worker-[\w-]+\.workers\.dev)/([\w-]+)/([\w-]+)/(\d+)/a\.strmrdr-cf-worker-[\w-]+\.workers\.dev/chunklist_hd\.m3u8", 
                              lambda x: f"{base_url}/{dynamic_part1}/{dynamic_part2}/{static_part}/a.strmrdr-cf-worker-{dynamic_part1}.workers.dev/chunklist_hd.m3u8", 
                              m3u_data)
+
     return updated_m3u
 
 # Güncellenmiş m3u verisini al
