@@ -30,7 +30,7 @@ def merge_m3u(url1, url2, url3, url4, output_file="playlist.m3u"):
         f.write("\n".join(merged_content))
 
 merge_m3u(
-    "https://raw.githubusercontent.com/MDuymazz/sitem3u/refs/heads/main/gol.m3u",
+    "https://raw.githubusercontent.com/MDuymazz/sitem3u/refs/heads/main/updated_gol.m3u",
     "https://raw.githubusercontent.com/MDuymazz/efendikaptan/refs/heads/main/vavoo.m3u",
     "https://raw.githubusercontent.com/MDuymazz/efendikaptan/refs/heads/main/new_m3u.m3u",
     "https://raw.githubusercontent.com/MDuymazz/efendikaptan/refs/heads/main/programlar.m3u"
