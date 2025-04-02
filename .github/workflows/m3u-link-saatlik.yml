@@ -65,11 +65,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # kod-alma.yml workflow'unu tetiklemek
-      - name: Trigger kod-alma.yml workflow
+      # gol-guncel.yml workflow'unu tetiklemek
+      - name: Trigger gol-guncel.yml workflow
         if: ${{ success() }}  # Bu adımdan önce başarılı olursa tetiklenir
         run: |
           curl -X POST \
             -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
             -d '{"ref": "main"}' \
-            https://api.github.com/repos/${{ github.repository }}/actions/workflows/kod-alma.yml/dispatches
+            https://api.github.com/repos/${{ github.repository }}/actions/workflows/gol-guncel.yml/dispatches
