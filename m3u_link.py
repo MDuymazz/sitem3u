@@ -1,4 +1,5 @@
 from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
 import time
@@ -10,8 +11,9 @@ options.add_argument("--headless")  # Tarayıcıyı başsız çalıştır
 options.add_argument("--no-sandbox")
 options.add_argument("--disable-dev-shm-usage")
 
-# Doğru ChromeDriver sürümünü otomatik indiriyoruz
-driver = webdriver.Chrome(executable_path=ChromeDriverManager().install(), options=options)
+# Doğru ChromeDriver sürümünü otomatik indirip başlatıyoruz
+service = Service(ChromeDriverManager().install())
+driver = webdriver.Chrome(service=service, options=options)
 
 # Hata mesajlarını bastırıyoruz
 warnings.filterwarnings("ignore", category=UserWarning, message=".*undetected_chromedriver.*")
