@@ -1,5 +1,6 @@
-import undetected_chromedriver as uc
+from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
+from webdriver_manager.chrome import ChromeDriverManager
 import time
 import warnings
 
@@ -9,31 +10,28 @@ options.add_argument("--headless")  # Tarayıcıyı başsız çalıştır
 options.add_argument("--no-sandbox")
 options.add_argument("--disable-dev-shm-usage")
 
-# Tarayıcıyı başlatıyoruz
-driver = uc.Chrome(options=options)
+# Doğru ChromeDriver sürümünü otomatik indiriyoruz
+driver = webdriver.Chrome(executable_path=ChromeDriverManager().install(), options=options)
 
 # Hata mesajlarını bastırıyoruz
 warnings.filterwarnings("ignore", category=UserWarning, message=".*undetected_chromedriver.*")
 
 # m3u_link.txt dosyasındaki ilk URL'yi okuma
 with open("m3u_link.txt", "r", encoding="utf-8") as file:
-    url = file.readline().strip()  # İlk satırı okuyoruz
+    url = file.readline().strip()
 
-# URL kontrolü
 video_url = "https://LİNK BULUNAMADI.m3u8"
 if url:
     try:
         print(f"🔍 {url} sayfası açılıyor...")
-        driver.get(url)  # URL'yi açıyoruz
+        driver.get(url)
 
-        # Sayfanın yüklenmesi için bekleme süresi
         time.sleep(5)
 
         # Ağ isteklerini takip ederek video URL'lerini alma
         logs = driver.execute_script("return performance.getEntriesByType('resource');")
         video_urls = [log['name'] for log in logs if log['name'].endswith(('.m3u8', '.mp4'))]
 
-        # Eğer video URL'leri varsa en uzun olanı seçiyoruz
         if video_urls:
             video_url = max(video_urls, key=len)
             print(f"🎥 En uzun video URL'si bulundu: {video_url}")
