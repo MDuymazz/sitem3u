@@ -54,7 +54,7 @@ def merge_m3u(url1, url2, url3, url4, url5, output_file="playlist.m3u"):
         (gol_m3u, None),
         (programlar_m3u, None),
         (vavoo_m3u, None),
-        (neon_m3u, "SPOR YAYINLARI 2")  # NeonSpor.m3u8 içeriği bu grup başlığına atanacak
+        (neon_m3u, "SPOR YAYINLARI 2 (MAC SAATİ)")  # NeonSpor.m3u8 içeriği bu grup başlığına atanacak
     ]:
         if m3u_list and m3u_list[0] == "#EXTM3U\n\n":
             m3u_list.pop(0)  # İlk satırı sil
@@ -65,7 +65,7 @@ def merge_m3u(url1, url2, url3, url4, url5, output_file="playlist.m3u"):
         "GÜNLÜK SPOR AKIŞI": 1,
         "GÜNLÜK SPOR AKIŞI 2": 2,
         "SPOR YAYINLARI": 3,
-        "SPOR YAYINLARI 2": 4,  # Yeni eklenen kategori
+        "SPOR YAYINLARI 2 (MAC SAATİ)": 4,  # Yeni eklenen kategori
         "HAFTANIN FUTBOL FİKSTÜRÜ": 5,
         "HAFTANIN BASKETBOL FİKSTÜRÜ": 6,
     }
