@@ -50,7 +50,9 @@ def merge_m3u(url1, url2, url3, url4, output_file="playlist.m3u"):
     group_priority = {
         "GÜNLÜK SPOR AKIŞI": 1,
         "GÜNLÜK SPOR AKIŞI 2": 2,
-        "SPOR YAYINLARI": 3
+        "SPOR YAYINLARI": 3,
+        "HAFTANIN FUTBOL FİKSTÜRÜ": 4,
+        "HAFTANIN BASKETBOL FİKSTÜRÜ": 5,
     }
     
     all_entries.sort(key=lambda x: group_priority.get(x[0], 99))
