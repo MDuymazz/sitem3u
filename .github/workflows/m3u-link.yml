@@ -7,21 +7,20 @@ on:
       - completed
  
 jobs:
-  run_base_url_script:
+  run-script:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
+      - name: 📥 Repository'yi Kopyala
+        uses: actions/checkout@v4
 
-      - name: Set up Python environment
-        uses: actions/setup-python@v3  # Daha güncel versiyon kullanıyoruz
-        with:
-          python-version: '3.9'
-
-      - name: Install dependencies
+      - name: 🛠️ Python ve Chrome Bağımlılıklarını Yükle
         run: |
-          pip install undetected-chromedriver selenium
+          sudo apt update
+          sudo apt install -y google-chrome-stable
+          python -m pip install --upgrade pip
+          pip install selenium webdriver-manager
+
 
       - name: Run m3u_link.py
         run: |
