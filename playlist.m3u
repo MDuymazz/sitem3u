@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-id="None" tvg-name="A SPOR" tvg-logo="https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg" group-title="GÜNLÜK SPOR AKIŞI", 00:00 SON SAYFA GECE (A SPOR)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -355,7 +354,6 @@ https://vavoo.to/play/2781429267/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1159899920/index.m3u8
 
-
 #EXTINF:-1 tvg-name="BUGÜN 14:00 KAHRAMANMARAŞ – BURSASPOR (HT SPOR)" tvg-logo="https://thumbs.dreamstime.com/b/simple-clean-crisp-creative-md-logo-icon-design-vector-format-170813699.jpg" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",BUGÜN 14:00 KAHRAMANMARAŞ – BURSASPOR (HT SPOR)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2014.sbs/
@@ -670,6 +668,836 @@ https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-c5b2351d31.work
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2014.sbs/
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-c5b2351d31.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5132/a.strmrdr-cf-worker-c5b2351d31.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+
+#EXTINF:-1 tvg-id="None" tvg-name="4K TR: A SPOR HD" tvg-logo="" group-title="SPOR YAYINLARI", 4K TR: A SPOR HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1771137539/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="4K TR: EUROSPORT 1 HD" tvg-logo="" group-title="SPOR YAYINLARI", 4K TR: EUROSPORT 1 HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2078862937/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="4K TR: EUROSPORT 2 HD" tvg-logo="" group-title="SPOR YAYINLARI", 4K TR: EUROSPORT 2 HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/4117227962/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="4K TR: EXXEN TV" tvg-logo="" group-title="SPOR YAYINLARI", 4K TR: EXXEN TV
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/194469526/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="4K TR: S SPORT" tvg-logo="" group-title="SPOR YAYINLARI", 4K TR: S SPORT
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2123273598/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="4K TR: S SPORT 2" tvg-logo="" group-title="SPOR YAYINLARI", 4K TR: S SPORT 2
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/936908274/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="4K TR: SPOR SMART" tvg-logo="" group-title="SPOR YAYINLARI", 4K TR: SPOR SMART
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/31596047/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="4K TR: SPORTS TV HD" tvg-logo="" group-title="SPOR YAYINLARI", 4K TR: SPORTS TV HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2429298798/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="4K TR: TRT SPOR HD" tvg-logo="" group-title="SPOR YAYINLARI", 4K TR: TRT SPOR HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2262969938/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="4K TR: TRT SPOR YILDIZ" tvg-logo="" group-title="SPOR YAYINLARI", 4K TR: TRT SPOR YILDIZ
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2750507083/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="A SPOR" tvg-logo="" group-title="SPOR YAYINLARI", A SPOR
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1561958971/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="A SPOR" tvg-logo="" group-title="SPOR YAYINLARI", A SPOR
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/819272696/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="A SPOR FHD" tvg-logo="" group-title="SPOR YAYINLARI", A SPOR FHD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/911836506/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="A SPOR HD" tvg-logo="" group-title="SPOR YAYINLARI", A SPOR HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2556711030/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="A SPOR HEVC" tvg-logo="" group-title="SPOR YAYINLARI", A SPOR HEVC
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2880529208/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="A SPOR RAW" tvg-logo="" group-title="SPOR YAYINLARI", A SPOR RAW
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2777121053/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 1" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 1
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2233066433/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 1" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 1
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/300113394/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 1" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 1
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3840475653/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 1 50 FPS" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 1 50 FPS
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1352421053/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 1 H265" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 1 H265
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2403425031/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 1 HD" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 1 HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/662179620/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 1 +" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 1 +
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2576216897/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 1 HD" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 1 HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/593493860/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 1 [LIVE DURING EVENTS ONLY]" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 1 [LIVE DURING EVENTS ONLY]
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3428984703/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 2" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 2
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1447241506/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 2" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 2
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2509466191/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 2 UHD" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 2 UHD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3694662475/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 2 SD" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 2 SD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3236362911/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 2 HD" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 2 HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2851539143/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 3" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 3
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2834514943/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 3" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 3
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1797459602/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 3 UHD" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 3 UHD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3410167560/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 3 HD" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 3 HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1700595801/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 3 SD" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 3 SD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/206371329/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 4" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 4
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/450076655/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 4" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 4
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3640906370/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 4 UHD" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 4 UHD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2938268353/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 4 HD" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 4 HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1872232768/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 4K FEED" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 4K FEED
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/267105889/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 4K FEED" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 4K FEED
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1536730627/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 5" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 5
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3831757618/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 5" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 5
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1230448192/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 5 HD" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 5 HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2737963486/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 5 FHD" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 5 FHD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/4000315601/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 720P FEED" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 720P FEED
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/499485497/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 8K FEED" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 8K FEED
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2113462398/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS FEED" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS FEED
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1453692314/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS HABER" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS HABER
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2806079612/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS HABER HD" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS HABER HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3989995533/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS HABER RAW" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS HABER RAW
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1646632825/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS HABER" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS HABER
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1197336000/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS MAX 1" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS MAX 1
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1221587067/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS MAX 1" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS MAX 1
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2832430535/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS MAX 2" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS MAX 2
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/4017295127/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS MAX 1 HD" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS MAX 1 HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/225281423/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS MAX 2 FHD" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS MAX 2 FHD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3407936242/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS MAX 1 FHD" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS MAX 1 FHD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/4071474743/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS MAX 2" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS MAX 2
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/258968235/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS MAX 2 HD" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS MAX 2 HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2212659820/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="EUROSPORT 1" tvg-logo="" group-title="SPOR YAYINLARI", EUROSPORT 1
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3458631461/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="EUROSPORT 1" tvg-logo="" group-title="SPOR YAYINLARI", EUROSPORT 1
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3271328843/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="EUROSPORT 2" tvg-logo="" group-title="SPOR YAYINLARI", EUROSPORT 2
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2307325429/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="EUROSPORT 2 [LIVE DURING EVENTS ONLY]" tvg-logo="" group-title="SPOR YAYINLARI", EUROSPORT 2 [LIVE DURING EVENTS ONLY]
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1309778674/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="EUROSPORT1 HD" tvg-logo="" group-title="SPOR YAYINLARI", EUROSPORT1 HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3793200644/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="EUROSPORT2 HD" tvg-logo="" group-title="SPOR YAYINLARI", EUROSPORT2 HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1821942247/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="EXXEN SPOR 1 SD" tvg-logo="" group-title="SPOR YAYINLARI", EXXEN SPOR 1 SD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2024568982/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="EXXEN SPORTS 1" tvg-logo="" group-title="SPOR YAYINLARI", EXXEN SPORTS 1
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1842018252/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="EXXEN SPORTS 2" tvg-logo="" group-title="SPOR YAYINLARI", EXXEN SPORTS 2
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/24320962/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="EXXEN SPORTS 2 [LIVE DURING EVENTS ONLY]" tvg-logo="" group-title="SPOR YAYINLARI", EXXEN SPORTS 2 [LIVE DURING EVENTS ONLY]
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3961480108/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="EXXEN SPORTS 3 [LIVE DURING EVENTS ONLY]" tvg-logo="" group-title="SPOR YAYINLARI", EXXEN SPORTS 3 [LIVE DURING EVENTS ONLY]
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3807939453/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="EXXEN SPORTS 4" tvg-logo="" group-title="SPOR YAYINLARI", EXXEN SPORTS 4
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2771024060/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="EXXEN SPORTS 5" tvg-logo="" group-title="SPOR YAYINLARI", EXXEN SPORTS 5
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2555007244/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="EXXEN SPORTS 6 [LIVE DURING EVENTS ONLY]" tvg-logo="" group-title="SPOR YAYINLARI", EXXEN SPORTS 6 [LIVE DURING EVENTS ONLY]
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3615539432/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="EXXEN SPORTS 7" tvg-logo="" group-title="SPOR YAYINLARI", EXXEN SPORTS 7
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3800695404/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="EXXEN SPORTS 8" tvg-logo="" group-title="SPOR YAYINLARI", EXXEN SPORTS 8
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1624937917/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="EXXEN TV" tvg-logo="" group-title="SPOR YAYINLARI", EXXEN TV
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2426097659/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="EXXEN TV SPOR 1 720P" tvg-logo="" group-title="SPOR YAYINLARI", EXXEN TV SPOR 1 720P
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3333902867/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="EXXEN TV SPOR 1 FEED" tvg-logo="" group-title="SPOR YAYINLARI", EXXEN TV SPOR 1 FEED
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1091403912/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="EXXEN TV SPOR 1" tvg-logo="" group-title="SPOR YAYINLARI", EXXEN TV SPOR 1
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1208369995/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="EXXEN TV SPOR 3" tvg-logo="" group-title="SPOR YAYINLARI", EXXEN TV SPOR 3
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/851841067/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="EXXEN TV SPOR 2 HD" tvg-logo="" group-title="SPOR YAYINLARI", EXXEN TV SPOR 2 HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3377046146/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="EXXEN TV SPOR 1 HD" tvg-logo="" group-title="SPOR YAYINLARI", EXXEN TV SPOR 1 HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1204200801/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="EXXEN TV SPOR 1 UHD" tvg-logo="" group-title="SPOR YAYINLARI", EXXEN TV SPOR 1 UHD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3814925371/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="EXXEN TV SPOR 4" tvg-logo="" group-title="SPOR YAYINLARI", EXXEN TV SPOR 4
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2162609211/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="EXXEN TV SPOR 8" tvg-logo="" group-title="SPOR YAYINLARI", EXXEN TV SPOR 8
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1159078202/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="EXXEN TV SPOR 2 UHD" tvg-logo="" group-title="SPOR YAYINLARI", EXXEN TV SPOR 2 UHD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3673037054/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="EXXEN TV SPOR 5" tvg-logo="" group-title="SPOR YAYINLARI", EXXEN TV SPOR 5
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3179734411/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="EXXEN TV SPOR 7" tvg-logo="" group-title="SPOR YAYINLARI", EXXEN TV SPOR 7
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3343300331/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="EXXEN TV SPOR 6" tvg-logo="" group-title="SPOR YAYINLARI", EXXEN TV SPOR 6
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/4196835163/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="FILBOX SPOR 1 MACZAMANI" tvg-logo="" group-title="SPOR YAYINLARI", FILBOX SPOR 1 MACZAMANI
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/407612267/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="FILBOX SPOR 2 MACZAMANI" tvg-logo="" group-title="SPOR YAYINLARI", FILBOX SPOR 2 MACZAMANI
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/154583314/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="FILBOX SPOR 3 MACZAMANI" tvg-logo="" group-title="SPOR YAYINLARI", FILBOX SPOR 3 MACZAMANI
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2966231802/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="HT SPOR HD" tvg-logo="" group-title="SPOR YAYINLARI", HT SPOR HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2773338492/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="S SPORT" tvg-logo="" group-title="SPOR YAYINLARI", S SPORT
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3718336295/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="S SPORT" tvg-logo="" group-title="SPOR YAYINLARI", S SPORT
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3346549722/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="S SPORT 2" tvg-logo="" group-title="SPOR YAYINLARI", S SPORT 2
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1313768516/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="S SPORT 2" tvg-logo="" group-title="SPOR YAYINLARI", S SPORT 2
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1234604880/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="S SPORT+3 MAC SAATI" tvg-logo="" group-title="SPOR YAYINLARI", S SPORT+3 MAC SAATI
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3269372326/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="S SPORT+4 MAC SAATI" tvg-logo="" group-title="SPOR YAYINLARI", S SPORT+4 MAC SAATI
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1507829436/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="S SPORT+5 MAC SAATI" tvg-logo="" group-title="SPOR YAYINLARI", S SPORT+5 MAC SAATI
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3760487764/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="S-SPORT 1 UHD" tvg-logo="" group-title="SPOR YAYINLARI", S-SPORT 1 UHD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3531762195/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="S-SPORT 2 HD" tvg-logo="" group-title="SPOR YAYINLARI", S-SPORT 2 HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1183409452/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="S-SPORT 2 UHD" tvg-logo="" group-title="SPOR YAYINLARI", S-SPORT 2 UHD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3943651030/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="S-SPORT HD" tvg-logo="" group-title="SPOR YAYINLARI", S-SPORT HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/919993168/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="S-SPORT PLUS FHD" tvg-logo="" group-title="SPOR YAYINLARI", S-SPORT PLUS FHD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/4036046219/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="S-SPORT+1 MAC SAATI" tvg-logo="" group-title="SPOR YAYINLARI", S-SPORT+1 MAC SAATI
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2559756791/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="S-SPORT+2 MAC SAATI" tvg-logo="" group-title="SPOR YAYINLARI", S-SPORT+2 MAC SAATI
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2314183566/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="S-SPORTS 1 SD" tvg-logo="" group-title="SPOR YAYINLARI", S-SPORTS 1 SD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/320290523/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="S-SPORTS 2 SD" tvg-logo="" group-title="SPOR YAYINLARI", S-SPORTS 2 SD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2643999032/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="SARAN SPORT 1" tvg-logo="" group-title="SPOR YAYINLARI", SARAN SPORT 1
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3962972352/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="SARAN SPORT 2" tvg-logo="" group-title="SPOR YAYINLARI", SARAN SPORT 2
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2878755344/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="SMART SPOR 1" tvg-logo="" group-title="SPOR YAYINLARI", SMART SPOR 1
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/4137962062/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="SPOR SMART" tvg-logo="" group-title="SPOR YAYINLARI", SPOR SMART
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1771511397/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="SPOR SMART 2" tvg-logo="" group-title="SPOR YAYINLARI", SPOR SMART 2
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/907165095/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="SPOR SMART 2 HD" tvg-logo="" group-title="SPOR YAYINLARI", SPOR SMART 2 HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2726496671/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="SPOR SMART FHD" tvg-logo="" group-title="SPOR YAYINLARI", SPOR SMART FHD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3763931520/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="SPOR SMART HD" tvg-logo="" group-title="SPOR YAYINLARI", SPOR SMART HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1313563350/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="SPOR SMART HEVC" tvg-logo="" group-title="SPOR YAYINLARI", SPOR SMART HEVC
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3445708926/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="SPOR SMART SD" tvg-logo="" group-title="SPOR YAYINLARI", SPOR SMART SD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/660246670/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="SPORTS TV" tvg-logo="" group-title="SPOR YAYINLARI", SPORTS TV
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3422827985/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="SPORTSTV HD" tvg-logo="" group-title="SPOR YAYINLARI", SPORTSTV HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2611296981/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="TABII SPOR 1 4K" tvg-logo="" group-title="SPOR YAYINLARI", TABII SPOR 1 4K
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3830691316/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="TABII SPOR 1 720P" tvg-logo="" group-title="SPOR YAYINLARI", TABII SPOR 1 720P
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3665914763/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="TABII SPOR 1 UHD" tvg-logo="" group-title="SPOR YAYINLARI", TABII SPOR 1 UHD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3107708522/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="TABII SPOR 2 HD" tvg-logo="" group-title="SPOR YAYINLARI", TABII SPOR 2 HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2490165372/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="TABII SPOR 2 UHD" tvg-logo="" group-title="SPOR YAYINLARI", TABII SPOR 2 UHD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2159469231/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="TABII SPOR 3 HD" tvg-logo="" group-title="SPOR YAYINLARI", TABII SPOR 3 HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1489430754/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="TABII SPOR 3 UHD" tvg-logo="" group-title="SPOR YAYINLARI", TABII SPOR 3 UHD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2546857708/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="TABII SPOR 4 HD" tvg-logo="" group-title="SPOR YAYINLARI", TABII SPOR 4 HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1375986171/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="TABII SPOR 4 UHD" tvg-logo="" group-title="SPOR YAYINLARI", TABII SPOR 4 UHD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/4088175397/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="TABII SPOR 5 HD" tvg-logo="" group-title="SPOR YAYINLARI", TABII SPOR 5 HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2661933413/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="TABII SPOR 5 UHD" tvg-logo="" group-title="SPOR YAYINLARI", TABII SPOR 5 UHD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3839332198/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="TABII SPOR 6 HD" tvg-logo="" group-title="SPOR YAYINLARI", TABII SPOR 6 HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/270984838/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="TABII SPOR 6 UHD" tvg-logo="" group-title="SPOR YAYINLARI", TABII SPOR 6 UHD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3713708963/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="TABII SPOR HD" tvg-logo="" group-title="SPOR YAYINLARI", TABII SPOR HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2259480087/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="TABII SPOR SD" tvg-logo="" group-title="SPOR YAYINLARI", TABII SPOR SD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/4022148175/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="TIVIBU SPOR" tvg-logo="" group-title="SPOR YAYINLARI", TIVIBU SPOR
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1159899920/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="TIVIBU SPOR 1" tvg-logo="" group-title="SPOR YAYINLARI", TIVIBU SPOR 1
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1528949791/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="TIVIBU SPOR 1" tvg-logo="" group-title="SPOR YAYINLARI", TIVIBU SPOR 1
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2565972338/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="TIVIBU SPOR 2" tvg-logo="" group-title="SPOR YAYINLARI", TIVIBU SPOR 2
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/478254799/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="TIVIBU SPOR 2" tvg-logo="" group-title="SPOR YAYINLARI", TIVIBU SPOR 2
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3746683810/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="TIVIBU SPOR 3" tvg-logo="" group-title="SPOR YAYINLARI", TIVIBU SPOR 3
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/568442751/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="TIVIBU SPOR 3" tvg-logo="" group-title="SPOR YAYINLARI", TIVIBU SPOR 3
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3794924050/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="TIVIBU SPOR 4" tvg-logo="" group-title="SPOR YAYINLARI", TIVIBU SPOR 4
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1343303170/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="TIVIBU SPOR 4 HD" tvg-logo="" group-title="SPOR YAYINLARI", TIVIBU SPOR 4 HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3307062704/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="TIVIBU SPOR 5 HD" tvg-logo="" group-title="SPOR YAYINLARI", TIVIBU SPOR 5 HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/163038510/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="TIVIBU SPOR RAW" tvg-logo="" group-title="SPOR YAYINLARI", TIVIBU SPOR RAW
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1406262118/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="TIVIBUSPOR 1 FHD" tvg-logo="" group-title="SPOR YAYINLARI", TIVIBUSPOR 1 FHD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2896658744/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="TIVIBUSPOR 1 HD" tvg-logo="" group-title="SPOR YAYINLARI", TIVIBUSPOR 1 HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3654518007/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="TIVIBUSPOR 2 FHD" tvg-logo="" group-title="SPOR YAYINLARI", TIVIBUSPOR 2 FHD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2502606333/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="TIVIBUSPOR 2 HD" tvg-logo="" group-title="SPOR YAYINLARI", TIVIBUSPOR 2 HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1465680660/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="TIVIBUSPOR 3 FHD" tvg-logo="" group-title="SPOR YAYINLARI", TIVIBUSPOR 3 FHD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2186389950/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="TIVIBUSPOR 3 HD" tvg-logo="" group-title="SPOR YAYINLARI", TIVIBUSPOR 3 HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2616624010/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="TIVIBUSPOR SPOR HD" tvg-logo="" group-title="SPOR YAYINLARI", TIVIBUSPOR SPOR HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3653515858/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="TRT 3 SPOR" tvg-logo="" group-title="SPOR YAYINLARI", TRT 3 SPOR
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/719664723/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="TRT SPOR" tvg-logo="" group-title="SPOR YAYINLARI", TRT SPOR
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2781429267/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="TRT SPOR" tvg-logo="" group-title="SPOR YAYINLARI", TRT SPOR
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2114335424/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="TRT SPOR FHD" tvg-logo="" group-title="SPOR YAYINLARI", TRT SPOR FHD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2952828245/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="TRT SPOR HD" tvg-logo="" group-title="SPOR YAYINLARI", TRT SPOR HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/312904614/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="TRT SPOR RAW" tvg-logo="" group-title="SPOR YAYINLARI", TRT SPOR RAW
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/601788690/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="TRT SPOR YILDIZ HD" tvg-logo="" group-title="SPOR YAYINLARI", TRT SPOR YILDIZ HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1423845809/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="TRT SPOR YILDIZ RAW" tvg-logo="" group-title="SPOR YAYINLARI", TRT SPOR YILDIZ RAW
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2689297527/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="TRT SPOR YILDIZ" tvg-logo="" group-title="SPOR YAYINLARI", TRT SPOR YILDIZ
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2081577417/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="TRT SPOR YILDIZ" tvg-logo="" group-title="SPOR YAYINLARI", TRT SPOR YILDIZ
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/93054202/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="TRT SPOR YILDIZ HEVC" tvg-logo="" group-title="SPOR YAYINLARI", TRT SPOR YILDIZ HEVC
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/114501523/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="SHOW TV" tvg-logo="https://gbzottvsc16.tvplus.com.tr:33207/CPS/images/universal/film/poster/20160607/001300/001300000008478870/27965d46-2678-4234-8c8e-b8af4facfbe3.png" group-title="BUGÜNÜN DİZİLERİ", 00:45 - 03:15 BAHAR
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -4241,8 +5069,6 @@ https://vavoo.to/play/3164514696/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3982787280/index.m3u8
 
-
-
 #EXTINF:-1 tvg-id="None" tvg-name="24" tvg-logo="" group-title="TURKEY", 24
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -4312,11 +5138,6 @@ https://vavoo.to/play/473300573/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1064954896/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="4K TR: A SPOR HD" tvg-logo="" group-title="SPOR YAYINLARI", 4K TR: A SPOR HD
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1771137539/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="4K TR: A2 HD" tvg-logo="" group-title="TURKEY", 4K TR: A2 HD
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -4412,21 +5233,6 @@ https://vavoo.to/play/925055356/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/678261693/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="4K TR: EUROSPORT 1 HD" tvg-logo="" group-title="SPOR YAYINLARI", 4K TR: EUROSPORT 1 HD
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2078862937/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="4K TR: EUROSPORT 2 HD" tvg-logo="" group-title="SPOR YAYINLARI", 4K TR: EUROSPORT 2 HD
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/4117227962/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="4K TR: EXXEN TV" tvg-logo="" group-title="SPOR YAYINLARI", 4K TR: EXXEN TV
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/194469526/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="4K TR: FB TV" tvg-logo="" group-title="TURKEY", 4K TR: FB TV
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -4608,16 +5414,6 @@ https://vavoo.to/play/295060524/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/440774949/index.m3u8
 
-#EXTINF:-1 tvg-id="None" tvg-name="4K TR: S SPORT" tvg-logo="" group-title="SPOR YAYINLARI", 4K TR: S SPORT
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2123273598/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="4K TR: S SPORT 2" tvg-logo="" group-title="SPOR YAYINLARI", 4K TR: S SPORT 2
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/936908274/index.m3u8
-
 #EXTINF:-1 tvg-id="None" tvg-name="4K TR: SHOW TV HD" tvg-logo="" group-title="TURKEY", 4K TR: SHOW TV HD
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -4627,16 +5423,6 @@ https://vavoo.to/play/879588960/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/960578312/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="4K TR: SPOR SMART" tvg-logo="" group-title="SPOR YAYINLARI", 4K TR: SPOR SMART
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/31596047/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="4K TR: SPORTS TV HD" tvg-logo="" group-title="SPOR YAYINLARI", 4K TR: SPORTS TV HD
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2429298798/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="4K TR: STAR TV HD" tvg-logo="" group-title="TURKEY", 4K TR: STAR TV HD
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -4707,16 +5493,6 @@ https://vavoo.to/play/970382162/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3029180506/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="4K TR: TRT SPOR HD" tvg-logo="" group-title="SPOR YAYINLARI", 4K TR: TRT SPOR HD
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2262969938/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="4K TR: TRT SPOR YILDIZ" tvg-logo="" group-title="SPOR YAYINLARI", 4K TR: TRT SPOR YILDIZ
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2750507083/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="4K TR: TRT T RK" tvg-logo="" group-title="TURKEY", 4K TR: TRT T RK
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -4817,36 +5593,6 @@ https://vavoo.to/play/2318923445/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/4202445834/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="A SPOR" tvg-logo="" group-title="SPOR YAYINLARI", A SPOR
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1561958971/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="A SPOR" tvg-logo="" group-title="SPOR YAYINLARI", A SPOR
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/819272696/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="A SPOR FHD" tvg-logo="" group-title="SPOR YAYINLARI", A SPOR FHD
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/911836506/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="A SPOR HD" tvg-logo="" group-title="SPOR YAYINLARI", A SPOR HD
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2556711030/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="A SPOR HEVC" tvg-logo="" group-title="SPOR YAYINLARI", A SPOR HEVC
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2880529208/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="A SPOR RAW" tvg-logo="" group-title="SPOR YAYINLARI", A SPOR RAW
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2777121053/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="A2" tvg-logo="" group-title="TURKEY", A2
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -5422,226 +6168,6 @@ https://vavoo.to/play/3016529666/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1125523262/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 1" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 1
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2233066433/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 1" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 1
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/300113394/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 1" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 1
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3840475653/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 1 50 FPS" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 1 50 FPS
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1352421053/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 1 H265" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 1 H265
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2403425031/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 1 HD" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 1 HD
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/662179620/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 1 +" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 1 +
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2576216897/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 1 HD" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 1 HD
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/593493860/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 1 [LIVE DURING EVENTS ONLY]" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 1 [LIVE DURING EVENTS ONLY]
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3428984703/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 2" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 2
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1447241506/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 2" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 2
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2509466191/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 2 UHD" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 2 UHD
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3694662475/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 2 SD" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 2 SD
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3236362911/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 2 HD" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 2 HD
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2851539143/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 3" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 3
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2834514943/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 3" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 3
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1797459602/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 3 UHD" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 3 UHD
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3410167560/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 3 HD" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 3 HD
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1700595801/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 3 SD" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 3 SD
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/206371329/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 4" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 4
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/450076655/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 4" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 4
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3640906370/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 4 UHD" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 4 UHD
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2938268353/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 4 HD" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 4 HD
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1872232768/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 4K FEED" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 4K FEED
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/267105889/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 4K FEED" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 4K FEED
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1536730627/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 5" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 5
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3831757618/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 5" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 5
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1230448192/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 5 HD" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 5 HD
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2737963486/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 5 FHD" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 5 FHD
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/4000315601/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 720P FEED" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 720P FEED
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/499485497/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 8K FEED" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 8K FEED
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2113462398/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS FEED" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS FEED
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1453692314/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS HABER" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS HABER
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2806079612/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS HABER HD" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS HABER HD
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3989995533/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS HABER RAW" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS HABER RAW
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1646632825/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS HABER" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS HABER
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1197336000/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS MAX 1" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS MAX 1
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1221587067/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS MAX 1" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS MAX 1
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2832430535/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS MAX 2" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS MAX 2
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/4017295127/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS MAX 1 HD" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS MAX 1 HD
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/225281423/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS MAX 2 FHD" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS MAX 2 FHD
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3407936242/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS MAX 1 FHD" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS MAX 1 FHD
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/4071474743/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS MAX 2" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS MAX 2
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/258968235/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS MAX 2 HD" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS MAX 2 HD
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2212659820/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="BEIN SPOTS1 SD" tvg-logo="" group-title="TURKEY", BEIN SPOTS1 SD
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -6853,160 +7379,10 @@ https://vavoo.to/play/1827094680/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3814521935/index.m3u8
 
-#EXTINF:-1 tvg-id="None" tvg-name="EUROSPORT 1" tvg-logo="" group-title="SPOR YAYINLARI", EUROSPORT 1
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3458631461/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="EUROSPORT 1" tvg-logo="" group-title="SPOR YAYINLARI", EUROSPORT 1
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3271328843/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="EUROSPORT 2" tvg-logo="" group-title="SPOR YAYINLARI", EUROSPORT 2
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2307325429/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="EUROSPORT 2 [LIVE DURING EVENTS ONLY]" tvg-logo="" group-title="SPOR YAYINLARI", EUROSPORT 2 [LIVE DURING EVENTS ONLY]
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1309778674/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="EUROSPORT1 HD" tvg-logo="" group-title="SPOR YAYINLARI", EUROSPORT1 HD
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3793200644/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="EUROSPORT2 HD" tvg-logo="" group-title="SPOR YAYINLARI", EUROSPORT2 HD
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1821942247/index.m3u8
-
 #EXTINF:-1 tvg-id="None" tvg-name="EUROSTAR" tvg-logo="" group-title="TURKEY", EUROSTAR
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2147614081/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="EXXEN SPOR 1 SD" tvg-logo="" group-title="SPOR YAYINLARI", EXXEN SPOR 1 SD
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2024568982/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="EXXEN SPORTS 1" tvg-logo="" group-title="SPOR YAYINLARI", EXXEN SPORTS 1
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1842018252/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="EXXEN SPORTS 2" tvg-logo="" group-title="SPOR YAYINLARI", EXXEN SPORTS 2
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/24320962/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="EXXEN SPORTS 2 [LIVE DURING EVENTS ONLY]" tvg-logo="" group-title="SPOR YAYINLARI", EXXEN SPORTS 2 [LIVE DURING EVENTS ONLY]
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3961480108/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="EXXEN SPORTS 3 [LIVE DURING EVENTS ONLY]" tvg-logo="" group-title="SPOR YAYINLARI", EXXEN SPORTS 3 [LIVE DURING EVENTS ONLY]
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3807939453/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="EXXEN SPORTS 4" tvg-logo="" group-title="SPOR YAYINLARI", EXXEN SPORTS 4
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2771024060/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="EXXEN SPORTS 5" tvg-logo="" group-title="SPOR YAYINLARI", EXXEN SPORTS 5
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2555007244/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="EXXEN SPORTS 6 [LIVE DURING EVENTS ONLY]" tvg-logo="" group-title="SPOR YAYINLARI", EXXEN SPORTS 6 [LIVE DURING EVENTS ONLY]
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3615539432/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="EXXEN SPORTS 7" tvg-logo="" group-title="SPOR YAYINLARI", EXXEN SPORTS 7
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3800695404/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="EXXEN SPORTS 8" tvg-logo="" group-title="SPOR YAYINLARI", EXXEN SPORTS 8
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1624937917/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="EXXEN TV" tvg-logo="" group-title="SPOR YAYINLARI", EXXEN TV
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2426097659/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="EXXEN TV SPOR 1 720P" tvg-logo="" group-title="SPOR YAYINLARI", EXXEN TV SPOR 1 720P
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3333902867/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="EXXEN TV SPOR 1 FEED" tvg-logo="" group-title="SPOR YAYINLARI", EXXEN TV SPOR 1 FEED
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1091403912/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="EXXEN TV SPOR 1" tvg-logo="" group-title="SPOR YAYINLARI", EXXEN TV SPOR 1
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1208369995/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="EXXEN TV SPOR 3" tvg-logo="" group-title="SPOR YAYINLARI", EXXEN TV SPOR 3
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/851841067/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="EXXEN TV SPOR 2 HD" tvg-logo="" group-title="SPOR YAYINLARI", EXXEN TV SPOR 2 HD
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3377046146/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="EXXEN TV SPOR 1 HD" tvg-logo="" group-title="SPOR YAYINLARI", EXXEN TV SPOR 1 HD
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1204200801/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="EXXEN TV SPOR 1 UHD" tvg-logo="" group-title="SPOR YAYINLARI", EXXEN TV SPOR 1 UHD
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3814925371/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="EXXEN TV SPOR 4" tvg-logo="" group-title="SPOR YAYINLARI", EXXEN TV SPOR 4
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2162609211/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="EXXEN TV SPOR 8" tvg-logo="" group-title="SPOR YAYINLARI", EXXEN TV SPOR 8
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1159078202/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="EXXEN TV SPOR 2 UHD" tvg-logo="" group-title="SPOR YAYINLARI", EXXEN TV SPOR 2 UHD
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3673037054/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="EXXEN TV SPOR 5" tvg-logo="" group-title="SPOR YAYINLARI", EXXEN TV SPOR 5
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3179734411/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="EXXEN TV SPOR 7" tvg-logo="" group-title="SPOR YAYINLARI", EXXEN TV SPOR 7
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3343300331/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="EXXEN TV SPOR 6" tvg-logo="" group-title="SPOR YAYINLARI", EXXEN TV SPOR 6
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/4196835163/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="FASIL NEVIZADE GECELERI" tvg-logo="" group-title="TURKEY", FASIL NEVIZADE GECELERI
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -7047,21 +7423,6 @@ https://vavoo.to/play/2841738475/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2516942999/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="FILBOX SPOR 1 MACZAMANI" tvg-logo="" group-title="SPOR YAYINLARI", FILBOX SPOR 1 MACZAMANI
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/407612267/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="FILBOX SPOR 2 MACZAMANI" tvg-logo="" group-title="SPOR YAYINLARI", FILBOX SPOR 2 MACZAMANI
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/154583314/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="FILBOX SPOR 3 MACZAMANI" tvg-logo="" group-title="SPOR YAYINLARI", FILBOX SPOR 3 MACZAMANI
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2966231802/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="FILMBOX AKSIYON" tvg-logo="" group-title="SİNEMA YAYINLARI", FILMBOX AKSIYON
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -7502,11 +7863,6 @@ https://vavoo.to/play/2119436951/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/4223430509/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="HT SPOR HD" tvg-logo="" group-title="SPOR YAYINLARI", HT SPOR HD
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2773338492/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="HUNAT TV" tvg-logo="" group-title="TURKEY", HUNAT TV
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -8908,90 +9264,10 @@ https://vavoo.to/play/2898013627/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/460410710/index.m3u8
 
-#EXTINF:-1 tvg-id="None" tvg-name="S SPORT" tvg-logo="" group-title="SPOR YAYINLARI", S SPORT
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3718336295/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="S SPORT" tvg-logo="" group-title="SPOR YAYINLARI", S SPORT
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3346549722/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="S SPORT 2" tvg-logo="" group-title="SPOR YAYINLARI", S SPORT 2
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1313768516/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="S SPORT 2" tvg-logo="" group-title="SPOR YAYINLARI", S SPORT 2
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1234604880/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="S SPORT+3 MAC SAATI" tvg-logo="" group-title="SPOR YAYINLARI", S SPORT+3 MAC SAATI
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3269372326/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="S SPORT+4 MAC SAATI" tvg-logo="" group-title="SPOR YAYINLARI", S SPORT+4 MAC SAATI
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1507829436/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="S SPORT+5 MAC SAATI" tvg-logo="" group-title="SPOR YAYINLARI", S SPORT+5 MAC SAATI
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3760487764/index.m3u8
-
 #EXTINF:-1 tvg-id="None" tvg-name="S ZC SZC TV" tvg-logo="" group-title="TURKEY", S ZC SZC TV
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2466905700/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="S-SPORT 1 UHD" tvg-logo="" group-title="SPOR YAYINLARI", S-SPORT 1 UHD
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3531762195/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="S-SPORT 2 HD" tvg-logo="" group-title="SPOR YAYINLARI", S-SPORT 2 HD
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1183409452/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="S-SPORT 2 UHD" tvg-logo="" group-title="SPOR YAYINLARI", S-SPORT 2 UHD
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3943651030/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="S-SPORT HD" tvg-logo="" group-title="SPOR YAYINLARI", S-SPORT HD
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/919993168/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="S-SPORT PLUS FHD" tvg-logo="" group-title="SPOR YAYINLARI", S-SPORT PLUS FHD
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/4036046219/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="S-SPORT+1 MAC SAATI" tvg-logo="" group-title="SPOR YAYINLARI", S-SPORT+1 MAC SAATI
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2559756791/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="S-SPORT+2 MAC SAATI" tvg-logo="" group-title="SPOR YAYINLARI", S-SPORT+2 MAC SAATI
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2314183566/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="S-SPORTS 1 SD" tvg-logo="" group-title="SPOR YAYINLARI", S-SPORTS 1 SD
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/320290523/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="S-SPORTS 2 SD" tvg-logo="" group-title="SPOR YAYINLARI", S-SPORTS 2 SD
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2643999032/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="SALON 1" tvg-logo="" group-title="TURKEY", SALON 1
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -9007,16 +9283,6 @@ https://vavoo.to/play/3280579549/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/915717266/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="SARAN SPORT 1" tvg-logo="" group-title="SPOR YAYINLARI", SARAN SPORT 1
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3962972352/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="SARAN SPORT 2" tvg-logo="" group-title="SPOR YAYINLARI", SARAN SPORT 2
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2878755344/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="SAT 7 TURK" tvg-logo="" group-title="TURKEY", SAT 7 TURK
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -9343,11 +9609,6 @@ https://vavoo.to/play/4277750275/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/813574895/index.m3u8
 
-#EXTINF:-1 tvg-id="None" tvg-name="SMART SPOR 1" tvg-logo="" group-title="SPOR YAYINLARI", SMART SPOR 1
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/4137962062/index.m3u8
-
 #EXTINF:-1 tvg-id="None" tvg-name="SON C BOOM" tvg-logo="" group-title="TURKEY", SON C BOOM
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -9362,51 +9623,6 @@ https://vavoo.to/play/1098172953/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2478813774/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="SPOR SMART" tvg-logo="" group-title="SPOR YAYINLARI", SPOR SMART
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1771511397/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="SPOR SMART 2" tvg-logo="" group-title="SPOR YAYINLARI", SPOR SMART 2
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/907165095/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="SPOR SMART 2 HD" tvg-logo="" group-title="SPOR YAYINLARI", SPOR SMART 2 HD
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2726496671/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="SPOR SMART FHD" tvg-logo="" group-title="SPOR YAYINLARI", SPOR SMART FHD
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3763931520/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="SPOR SMART HD" tvg-logo="" group-title="SPOR YAYINLARI", SPOR SMART HD
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1313563350/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="SPOR SMART HEVC" tvg-logo="" group-title="SPOR YAYINLARI", SPOR SMART HEVC
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3445708926/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="SPOR SMART SD" tvg-logo="" group-title="SPOR YAYINLARI", SPOR SMART SD
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/660246670/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="SPORTS TV" tvg-logo="" group-title="SPOR YAYINLARI", SPORTS TV
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3422827985/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="SPORTSTV HD" tvg-logo="" group-title="SPOR YAYINLARI", SPORTSTV HD
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2611296981/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="STANBUL FM T RK E POP" tvg-logo="" group-title="TURKEY", STANBUL FM T RK E POP
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -9487,81 +9703,6 @@ https://vavoo.to/play/2786853104/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3633765645/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="TABII SPOR 1 4K" tvg-logo="" group-title="SPOR YAYINLARI", TABII SPOR 1 4K
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3830691316/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="TABII SPOR 1 720P" tvg-logo="" group-title="SPOR YAYINLARI", TABII SPOR 1 720P
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3665914763/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="TABII SPOR 1 UHD" tvg-logo="" group-title="SPOR YAYINLARI", TABII SPOR 1 UHD
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3107708522/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="TABII SPOR 2 HD" tvg-logo="" group-title="SPOR YAYINLARI", TABII SPOR 2 HD
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2490165372/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="TABII SPOR 2 UHD" tvg-logo="" group-title="SPOR YAYINLARI", TABII SPOR 2 UHD
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2159469231/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="TABII SPOR 3 HD" tvg-logo="" group-title="SPOR YAYINLARI", TABII SPOR 3 HD
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1489430754/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="TABII SPOR 3 UHD" tvg-logo="" group-title="SPOR YAYINLARI", TABII SPOR 3 UHD
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2546857708/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="TABII SPOR 4 HD" tvg-logo="" group-title="SPOR YAYINLARI", TABII SPOR 4 HD
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1375986171/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="TABII SPOR 4 UHD" tvg-logo="" group-title="SPOR YAYINLARI", TABII SPOR 4 UHD
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/4088175397/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="TABII SPOR 5 HD" tvg-logo="" group-title="SPOR YAYINLARI", TABII SPOR 5 HD
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2661933413/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="TABII SPOR 5 UHD" tvg-logo="" group-title="SPOR YAYINLARI", TABII SPOR 5 UHD
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3839332198/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="TABII SPOR 6 HD" tvg-logo="" group-title="SPOR YAYINLARI", TABII SPOR 6 HD
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/270984838/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="TABII SPOR 6 UHD" tvg-logo="" group-title="SPOR YAYINLARI", TABII SPOR 6 UHD
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3713708963/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="TABII SPOR HD" tvg-logo="" group-title="SPOR YAYINLARI", TABII SPOR HD
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2259480087/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="TABII SPOR SD" tvg-logo="" group-title="SPOR YAYINLARI", TABII SPOR SD
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/4022148175/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="TARIH TV" tvg-logo="" group-title="TURKEY", TARIH TV
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -9743,96 +9884,6 @@ https://vavoo.to/play/2048436163/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/702157954/index.m3u8
 
-#EXTINF:-1 tvg-id="None" tvg-name="TIVIBU SPOR" tvg-logo="" group-title="SPOR YAYINLARI", TIVIBU SPOR
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1159899920/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="TIVIBU SPOR 1" tvg-logo="" group-title="SPOR YAYINLARI", TIVIBU SPOR 1
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1528949791/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="TIVIBU SPOR 1" tvg-logo="" group-title="SPOR YAYINLARI", TIVIBU SPOR 1
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2565972338/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="TIVIBU SPOR 2" tvg-logo="" group-title="SPOR YAYINLARI", TIVIBU SPOR 2
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/478254799/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="TIVIBU SPOR 2" tvg-logo="" group-title="SPOR YAYINLARI", TIVIBU SPOR 2
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3746683810/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="TIVIBU SPOR 3" tvg-logo="" group-title="SPOR YAYINLARI", TIVIBU SPOR 3
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/568442751/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="TIVIBU SPOR 3" tvg-logo="" group-title="SPOR YAYINLARI", TIVIBU SPOR 3
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3794924050/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="TIVIBU SPOR 4" tvg-logo="" group-title="SPOR YAYINLARI", TIVIBU SPOR 4
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1343303170/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="TIVIBU SPOR 4 HD" tvg-logo="" group-title="SPOR YAYINLARI", TIVIBU SPOR 4 HD
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3307062704/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="TIVIBU SPOR 5 HD" tvg-logo="" group-title="SPOR YAYINLARI", TIVIBU SPOR 5 HD
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/163038510/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="TIVIBU SPOR RAW" tvg-logo="" group-title="SPOR YAYINLARI", TIVIBU SPOR RAW
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1406262118/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="TIVIBUSPOR 1 FHD" tvg-logo="" group-title="SPOR YAYINLARI", TIVIBUSPOR 1 FHD
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2896658744/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="TIVIBUSPOR 1 HD" tvg-logo="" group-title="SPOR YAYINLARI", TIVIBUSPOR 1 HD
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3654518007/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="TIVIBUSPOR 2 FHD" tvg-logo="" group-title="SPOR YAYINLARI", TIVIBUSPOR 2 FHD
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2502606333/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="TIVIBUSPOR 2 HD" tvg-logo="" group-title="SPOR YAYINLARI", TIVIBUSPOR 2 HD
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1465680660/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="TIVIBUSPOR 3 FHD" tvg-logo="" group-title="SPOR YAYINLARI", TIVIBUSPOR 3 FHD
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2186389950/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="TIVIBUSPOR 3 HD" tvg-logo="" group-title="SPOR YAYINLARI", TIVIBUSPOR 3 HD
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2616624010/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="TIVIBUSPOR SPOR HD" tvg-logo="" group-title="SPOR YAYINLARI", TIVIBUSPOR SPOR HD
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3653515858/index.m3u8
-
 #EXTINF:-1 tvg-id="None" tvg-name="TJK TV" tvg-logo="" group-title="TURKEY", TJK TV
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -9957,11 +10008,6 @@ https://vavoo.to/play/1098827077/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2005305132/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="TRT 3 SPOR" tvg-logo="" group-title="SPOR YAYINLARI", TRT 3 SPOR
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/719664723/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="TRT 4K" tvg-logo="" group-title="TURKEY", TRT 4K
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -10107,56 +10153,6 @@ https://vavoo.to/play/433581315/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/550045102/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="TRT SPOR" tvg-logo="" group-title="SPOR YAYINLARI", TRT SPOR
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2781429267/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="TRT SPOR" tvg-logo="" group-title="SPOR YAYINLARI", TRT SPOR
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2114335424/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="TRT SPOR FHD" tvg-logo="" group-title="SPOR YAYINLARI", TRT SPOR FHD
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2952828245/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="TRT SPOR HD" tvg-logo="" group-title="SPOR YAYINLARI", TRT SPOR HD
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/312904614/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="TRT SPOR RAW" tvg-logo="" group-title="SPOR YAYINLARI", TRT SPOR RAW
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/601788690/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="TRT SPOR YILDIZ HD" tvg-logo="" group-title="SPOR YAYINLARI", TRT SPOR YILDIZ HD
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1423845809/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="TRT SPOR YILDIZ RAW" tvg-logo="" group-title="SPOR YAYINLARI", TRT SPOR YILDIZ RAW
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2689297527/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="TRT SPOR YILDIZ" tvg-logo="" group-title="SPOR YAYINLARI", TRT SPOR YILDIZ
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2081577417/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="TRT SPOR YILDIZ" tvg-logo="" group-title="SPOR YAYINLARI", TRT SPOR YILDIZ
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/93054202/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="TRT SPOR YILDIZ HEVC" tvg-logo="" group-title="SPOR YAYINLARI", TRT SPOR YILDIZ HEVC
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/114501523/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="TRT TURK" tvg-logo="" group-title="TURKEY", TRT TURK
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
