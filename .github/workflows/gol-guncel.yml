@@ -5,7 +5,7 @@ on:
     workflows: ["Run m3u_link_saatlik.py script"]  # Ana Domain workflow'u tamamlandığında çalışacak
     types:
       - completed
-  workflow_dispatch:  # Manuel olarak çalıştırılabilir
+
 jobs:
   run_base_url_script:
     runs-on: ubuntu-latest
