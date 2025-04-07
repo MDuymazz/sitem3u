@@ -1,264 +1,296 @@
 MatchType: "Futbol"
-Text: "CANLI (00:00) BOCA JUNIORS – BARRACAS CENTRAL (SPOR SMART)"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-43707ca08c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5091/a.strmrdr-cf-worker-43707ca08c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+Text: "CANLI (22:45) SPORTING LISBON – BRAGA (TABII SPOR 1)"
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5072/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "Basketbol"
-Text: "BUGÜN 03:30 NO PELICANS – MILWAUKEE BUCKS (NBA TV)"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-43707ca08c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5121/a.strmrdr-cf-worker-43707ca08c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+Text: "BUGÜN 02:30 MIAMI HEAT – PHILADELPHIA 76ERS (S SPORT)"
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5101/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "Basketbol"
-Text: "BUGÜN 03:30 GS WARRIORS – HOUSTON ROCKETS (S SPORT)"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-43707ca08c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5101/a.strmrdr-cf-worker-43707ca08c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+Text: "BUGÜN 03:50 HOUSTON COUGARS – FLORIDA (S SPORT 2)"
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5102/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "Futbol"
-Text: "BUGÜN 14:30 SHAMAKHI – NEFTÇI BAKÜ (CBC SPORT)"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-43707ca08c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5131/a.strmrdr-cf-worker-43707ca08c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+Text: "BUGÜN 14:00 KEÇIÖRENGÜCÜ – ŞANLIURFASPOR (BEIN SPORTS MAX 1)"
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5067/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "Futbol"
-Text: "BUGÜN 17:00 ARAZ – SUMQAYIT (CBC SPORT)"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-43707ca08c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5131/a.strmrdr-cf-worker-43707ca08c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+Text: "BUGÜN 14:00 KEÇIÖRENGÜCÜ – ŞANLIURFASPOR (TRT SPOR)"
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5032/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+
+MatchType: "Futbol"
+Text: "BUGÜN 17:00 IĞDIRSPOR – İSTANBULSPOR (TRT SPOR)"
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5032/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+
+MatchType: "Futbol"
+Text: "BUGÜN 17:00 IĞDIRSPOR – İSTANBULSPOR (BEIN SPORTS MAX 1)"
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5067/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+
+MatchType: "Futbol"
+Text: "BUGÜN 19:00 TÜRKIYE – SLOVENYA (TABII SPOR)"
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5071/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "Basketbol"
-Text: "BUGÜN 19:00 ANADOLU EFES – TOFAŞ (BEIN SPORTS 5)"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-43707ca08c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5066/a.strmrdr-cf-worker-43707ca08c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+Text: "BUGÜN 19:00 RIVERS HOOPERS – AL ITTIHAD ALEXANDRIA (NBA TV)"
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5121/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "Futbol"
-Text: "BUGÜN 20:00 KASIMPAŞA – BEŞIKTAŞ (BEIN SPORTS 1)"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-43707ca08c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5062/a.strmrdr-cf-worker-43707ca08c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+Text: "BUGÜN 20:00 MANISA FK – AMEDSPOR (TRT SPOR)"
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5032/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "Futbol"
-Text: "BUGÜN 20:00 GÖZTEPE – GAZIANTEP FK (BEIN SPORTS 2)"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-43707ca08c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5063/a.strmrdr-cf-worker-43707ca08c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+Text: "BUGÜN 20:00 MANISA FK – AMEDSPOR (BEIN SPORTS MAX 1)"
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5067/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+
+MatchType: "Futbol"
+Text: "BUGÜN 21:00 AL TAAWON – AL SHARJAH (SPOR SMART)"
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5091/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+
+MatchType: "Futbol"
+Text: "BUGÜN 22:00 ARSENAL – REAL MADRID (TABII SPOR)"
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5071/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+
+MatchType: "Futbol"
+Text: "BUGÜN 22:00 BAYERN MÜNIH – INTER (TRT SPOR)"
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5032/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "Basketbol"
-Text: "BUGÜN 21:00 DELONGHI TREVISO – VIRTUS BOLOGNA (SPORTSTV)"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-43707ca08c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5041/a.strmrdr-cf-worker-43707ca08c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
-
-MatchType: "Futbol"
-Text: "BUGÜN 21:45 BOLOGNA – NAPOLI (S SPORT 2)"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-43707ca08c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5102/a.strmrdr-cf-worker-43707ca08c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
-
-MatchType: "Futbol"
-Text: "BUGÜN 21:45 DUNKERQUE HB – GUINGAMP (BEIN SPORTS 4)"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-43707ca08c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5065/a.strmrdr-cf-worker-43707ca08c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
-
-MatchType: "Futbol"
-Text: "BUGÜN 22:00 LEICESTER CITY – NEWCASTLE (BEIN SPORTS 3)"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-43707ca08c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5064/a.strmrdr-cf-worker-43707ca08c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
-
-MatchType: "Futbol"
-Text: "BUGÜN 22:00 LEGANES – OSASUNA (S SPORT)"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-43707ca08c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5101/a.strmrdr-cf-worker-43707ca08c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+Text: "YARIN 03:00 MILWAUKEE BUCKS – MINNESOTA TW (NBA TV)"
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5121/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "Basketbol"
-Text: "YARIN 02:30 MIAMI HEAT – PHILADELPHIA 76ERS (S SPORT)"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-43707ca08c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5101/a.strmrdr-cf-worker-43707ca08c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+Text: "YARIN 03:00 OKC THUNDER – LA LAKERS (S SPORT)"
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5101/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "Futbol"
-Text: "YARIN 14:00 KEÇIÖRENGÜCÜ – ŞANLIURFASPOR (TRT SPOR)"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-43707ca08c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5032/a.strmrdr-cf-worker-43707ca08c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+Text: "YARIN 03:30 RIVER PLATE – BARCELONA SC (S SPORT 2)"
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5102/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "Futbol"
-Text: "YARIN 14:00 KEÇIÖRENGÜCÜ – ŞANLIURFASPOR (BEIN SPORTS MAX 1)"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-43707ca08c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5067/a.strmrdr-cf-worker-43707ca08c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+Text: "YARIN 14:00 ERZURUMSPOR – ÇORUM FK (TRT SPOR)"
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5032/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "Futbol"
-Text: "YARIN 17:00 IĞDIRSPOR – İSTANBULSPOR (TRT SPOR)"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-43707ca08c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5032/a.strmrdr-cf-worker-43707ca08c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+Text: "YARIN 14:00 ERZURUMSPOR – ÇORUM FK (BEIN SPORTS MAX 1)"
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5067/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "Futbol"
-Text: "YARIN 17:00 IĞDIRSPOR – İSTANBULSPOR (BEIN SPORTS MAX 1)"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-43707ca08c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5067/a.strmrdr-cf-worker-43707ca08c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+Text: "YARIN 15:00 LION CITY – SYDNEY FC (SPOR SMART)"
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5091/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "Futbol"
-Text: "YARIN 19:00 TÜRKIYE – SLOVENYA (TABII SPOR)"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-43707ca08c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5071/a.strmrdr-cf-worker-43707ca08c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+Text: "YARIN 17:00 ESENLER EROKSPOR – FATIH KARAGÜMRÜK (BEIN SPORTS MAX 1)"
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5067/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+
+MatchType: "Futbol"
+Text: "YARIN 17:00 ESENLER EROKSPOR – FATIH KARAGÜMRÜK (TRT SPOR)"
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5032/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "Basketbol"
-Text: "YARIN 19:00 RIVERS HOOPERS – AL ITTIHAD ALEXANDRIA (NBA TV)"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-43707ca08c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5121/a.strmrdr-cf-worker-43707ca08c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+Text: "YARIN 19:30 NYMBURK – GALATASARAY (TIVIBU SPOR 1)"
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5082/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+
+MatchType: "Basketbol"
+Text: "YARIN 19:30 AEK ATHENS – JSF NANTERRE (TIVIBU SPOR 2)"
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5083/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "Futbol"
-Text: "YARIN 20:00 MANISA FK – AMEDSPOR (TRT SPOR)"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-43707ca08c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5032/a.strmrdr-cf-worker-43707ca08c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+Text: "YARIN 20:00 BOLUSPOR – SAKARYASPOR (TRT SPOR)"
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5032/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "Futbol"
-Text: "YARIN 20:00 MANISA FK – AMEDSPOR (BEIN SPORTS MAX 1)"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-43707ca08c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5067/a.strmrdr-cf-worker-43707ca08c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+Text: "YARIN 20:00 BOLUSPOR – SAKARYASPOR (BEIN SPORTS MAX 1)"
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5067/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "Futbol"
-Text: "YARIN 21:00 AL TAAWON – AL SHARJAH (SPOR SMART)"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-43707ca08c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5091/a.strmrdr-cf-worker-43707ca08c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+Text: "YARIN 20:00 PENDIKSPOR – ANKARAGÜCÜ (BEIN SPORTS MAX 2)"
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5068/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "Futbol"
-Text: "YARIN 22:00 BAYERN MÜNIH – INTER (TRT SPOR)"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-43707ca08c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5032/a.strmrdr-cf-worker-43707ca08c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+Text: "YARIN 20:00 PENDIKSPOR – ANKARAGÜCÜ (TABII SPOR 6)"
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5077/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+
+MatchType: "Basketbol"
+Text: "YARIN 21:00 UNICAJA MALAGA – REGGIANA (TIVIBU SPOR 3)"
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5084/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "Futbol"
-Text: "YARIN 22:00 ARSENAL – REAL MADRID (TABII SPOR)"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-43707ca08c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5071/a.strmrdr-cf-worker-43707ca08c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+Text: "YARIN 22:00 PSG – ASTON VILLA (TRT 1)"
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5031/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+
+MatchType: "Futbol"
+Text: "YARIN 22:00 BARCELONA – B.DORTMUND (TABII SPOR)"
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5071/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+
+MatchType: "Futbol"
+Text: "YARIN 22:45 TIRSENSE – BENFICA (TRT SPOR)"
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5032/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+
+MatchType: "Basketbol"
+Text: "YARIN 22:45 IBEROSTAR TENERIFE – TORTONA (TIVIBU SPOR 1)"
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5082/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "CANLI"
 Text: "BEIN SPORTS 1"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-43707ca08c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5062/a.strmrdr-cf-worker-43707ca08c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5062/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "CANLI"
 Text: "S SPORT"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-43707ca08c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5101/a.strmrdr-cf-worker-43707ca08c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5101/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "CANLI"
 Text: "SPOR SMART"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-43707ca08c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5091/a.strmrdr-cf-worker-43707ca08c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5091/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "CANLI"
 Text: "TIVIBU SPOR 1"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-43707ca08c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5082/a.strmrdr-cf-worker-43707ca08c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5082/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "CANLI"
 Text: "TABII SPOR 1"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-43707ca08c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5072/a.strmrdr-cf-worker-43707ca08c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5072/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "CANLI"
 Text: "TRT SPOR"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-43707ca08c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5032/a.strmrdr-cf-worker-43707ca08c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5032/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "CANLI"
 Text: "BEIN SPORTS HABER"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-43707ca08c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5061/a.strmrdr-cf-worker-43707ca08c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5061/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "CANLI"
 Text: "TABII SPOR"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-43707ca08c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5071/a.strmrdr-cf-worker-43707ca08c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5071/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "CANLI"
 Text: "A SPOR"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-43707ca08c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5003/a.strmrdr-cf-worker-43707ca08c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5003/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "CANLI"
 Text: "TIVIBU SPOR"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-43707ca08c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5081/a.strmrdr-cf-worker-43707ca08c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5081/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "CANLI"
 Text: "TV8,5"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-43707ca08c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5052/a.strmrdr-cf-worker-43707ca08c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5052/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "CANLI"
 Text: "S SPORT 2"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-43707ca08c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5102/a.strmrdr-cf-worker-43707ca08c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5102/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "CANLI"
 Text: "SPOR SMART 2"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-43707ca08c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5092/a.strmrdr-cf-worker-43707ca08c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5092/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "CANLI"
 Text: "HT SPOR"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-43707ca08c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5021/a.strmrdr-cf-worker-43707ca08c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5021/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "CANLI"
 Text: "BEIN SPORTS 2"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-43707ca08c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5063/a.strmrdr-cf-worker-43707ca08c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5063/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "CANLI"
 Text: "BEIN SPORTS 3"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-43707ca08c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5064/a.strmrdr-cf-worker-43707ca08c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5064/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "CANLI"
 Text: "BEIN SPORTS 4"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-43707ca08c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5065/a.strmrdr-cf-worker-43707ca08c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5065/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "CANLI"
 Text: "BEIN SPORTS 5"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-43707ca08c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5066/a.strmrdr-cf-worker-43707ca08c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5066/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "CANLI"
 Text: "BEIN SPORTS MAX 1"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-43707ca08c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5067/a.strmrdr-cf-worker-43707ca08c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5067/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "CANLI"
 Text: "BEIN SPORTS MAX 2"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-43707ca08c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5068/a.strmrdr-cf-worker-43707ca08c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5068/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "CANLI"
 Text: "TRT SPOR YILDIZ"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-43707ca08c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5033/a.strmrdr-cf-worker-43707ca08c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5033/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "CANLI"
 Text: "TABII SPOR 2"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-43707ca08c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5073/a.strmrdr-cf-worker-43707ca08c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5073/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "CANLI"
 Text: "TABII SPOR 3"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-43707ca08c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5074/a.strmrdr-cf-worker-43707ca08c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5074/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "CANLI"
 Text: "TABII SPOR 4"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-43707ca08c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5075/a.strmrdr-cf-worker-43707ca08c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5075/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "CANLI"
 Text: "TABII SPOR 5"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-43707ca08c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5076/a.strmrdr-cf-worker-43707ca08c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5076/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "CANLI"
 Text: "TABII SPOR 6"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-43707ca08c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5077/a.strmrdr-cf-worker-43707ca08c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5077/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "CANLI"
 Text: "TIVIBU SPOR 2"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-43707ca08c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5083/a.strmrdr-cf-worker-43707ca08c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5083/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "CANLI"
 Text: "TIVIBU SPOR 3"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-43707ca08c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5084/a.strmrdr-cf-worker-43707ca08c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5084/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "CANLI"
 Text: "TIVIBU SPOR 4"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-43707ca08c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5085/a.strmrdr-cf-worker-43707ca08c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5085/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "CANLI"
 Text: "EUROSPORT 1"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-43707ca08c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5111/a.strmrdr-cf-worker-43707ca08c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5111/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "CANLI"
 Text: "EUROSPORT 2"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-43707ca08c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5112/a.strmrdr-cf-worker-43707ca08c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5112/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "CANLI"
 Text: "NBA TV"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-43707ca08c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5121/a.strmrdr-cf-worker-43707ca08c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5121/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "CANLI"
 Text: "TRT 1"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-43707ca08c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5031/a.strmrdr-cf-worker-43707ca08c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5031/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "CANLI"
 Text: "ATV"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-43707ca08c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5001/a.strmrdr-cf-worker-43707ca08c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5001/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "CANLI"
 Text: "A2"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-43707ca08c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5002/a.strmrdr-cf-worker-43707ca08c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5002/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "CANLI"
 Text: "FB TV"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-43707ca08c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5011/a.strmrdr-cf-worker-43707ca08c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5011/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "CANLI"
 Text: "SPORTSTV"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-43707ca08c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5041/a.strmrdr-cf-worker-43707ca08c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5041/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "CANLI"
 Text: "TV8"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-43707ca08c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5051/a.strmrdr-cf-worker-43707ca08c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5051/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "CANLI"
 Text: "CBC SPORT"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-43707ca08c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5131/a.strmrdr-cf-worker-43707ca08c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5131/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "CANLI"
 Text: "İDMAN TV"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-43707ca08c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5132/a.strmrdr-cf-worker-43707ca08c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5132/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "CANLI"
 Text: "İCTİMAİ TV"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-43707ca08c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5133/a.strmrdr-cf-worker-43707ca08c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5133/a.strmrdr-cf-worker-5059aab70c.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
