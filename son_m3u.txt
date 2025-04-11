@@ -1,15 +1,3 @@
-MatchType: "Basketbol"
-Text: "BUGÜN 02:00 INDIANA PACERS – CLEVELAND CAVALIERS (S SPORT)"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-55219e3d34.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5101/a.strmrdr-cf-worker-55219e3d34.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
-
-MatchType: "Basketbol"
-Text: "BUGÜN 02:30 BROOKLYN NETS – ATLANTA HAWKS (NBA TV)"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-55219e3d34.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5121/a.strmrdr-cf-worker-55219e3d34.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
-
-MatchType: "Futbol"
-Text: "BUGÜN 03:30 ATLETICO MINERIO – DEP. IQUIQUE (S SPORT 2)"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-55219e3d34.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5102/a.strmrdr-cf-worker-55219e3d34.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
-
 MatchType: "Futbol"
 Text: "BUGÜN 18:00 SEBAIL – KARABAĞ (CBC SPORT)"
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-55219e3d34.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5131/a.strmrdr-cf-worker-55219e3d34.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
@@ -23,19 +11,19 @@ Text: "BUGÜN 19:00 BEŞIKTAŞ FIBABANKA – DARÜŞŞAFAKA (BEIN SPORTS HABER)"
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-55219e3d34.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5061/a.strmrdr-cf-worker-55219e3d34.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "Futbol"
-Text: "BUGÜN 19:30 HAMBURG – BRAUNSCHWEIG (BEIN SPORTS 3)"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-55219e3d34.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5064/a.strmrdr-cf-worker-55219e3d34.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
-
-MatchType: "Futbol"
-Text: "BUGÜN 19:30 HAMBURG – BRAUNSCHWEIG (TIVIBU SPOR 2)"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-55219e3d34.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5083/a.strmrdr-cf-worker-55219e3d34.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
-
-MatchType: "Futbol"
-Text: "BUGÜN 19:30 GREUTHER FÜRTH – KÖLN (TIVIBU SPOR 3)"
+Text: "BUGÜN 19:30 GREUTHER FÜRTH – KÖLN (BEIN SPORTS MAX 1)"
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-55219e3d34.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5084/a.strmrdr-cf-worker-55219e3d34.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "Futbol"
-Text: "BUGÜN 19:30 GREUTHER FÜRTH – KÖLN (BEIN SPORTS MAX 1)"
+Text: "BUGÜN 19:30 GREUTHER FÜRTH – KÖLN (TIVIBU SPOR 3)"
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-55219e3d34.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5064/a.strmrdr-cf-worker-55219e3d34.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+
+MatchType: "Futbol"
+Text: "BUGÜN 19:30 HAMBURG – BRAUNSCHWEIG (BEIN SPORTS 3)"
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-55219e3d34.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5083/a.strmrdr-cf-worker-55219e3d34.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+
+MatchType: "Futbol"
+Text: "BUGÜN 19:30 HAMBURG – BRAUNSCHWEIG (TIVIBU SPOR 2)"
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-55219e3d34.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5067/a.strmrdr-cf-worker-55219e3d34.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "Futbol"
@@ -59,12 +47,12 @@ Text: "BUGÜN 21:30 WOLFSBURG – LEIPZIG (TIVIBU SPOR 1)"
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-55219e3d34.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5082/a.strmrdr-cf-worker-55219e3d34.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "Futbol"
-Text: "BUGÜN 21:45 UDINESE – MILAN (TIVIBU SPOR 2)"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-55219e3d34.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5083/a.strmrdr-cf-worker-55219e3d34.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
-
-MatchType: "Futbol"
 Text: "BUGÜN 21:45 LENS – REIMS (BEIN SPORTS 5)"
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-55219e3d34.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5066/a.strmrdr-cf-worker-55219e3d34.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+
+MatchType: "Futbol"
+Text: "BUGÜN 21:45 UDINESE – MILAN (TIVIBU SPOR 2)"
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-55219e3d34.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5083/a.strmrdr-cf-worker-55219e3d34.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "Futbol"
 Text: "BUGÜN 22:00 VALENCIA – SEVILLA (TIVIBU SPOR 3)"
@@ -143,16 +131,16 @@ Text: "YARIN 16:00 İSTANBULSPOR – KEÇIÖRENGÜCÜ (TRT SPOR)"
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-55219e3d34.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5032/a.strmrdr-cf-worker-55219e3d34.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "Futbol"
+Text: "YARIN 16:30 BAYER LEVERKUSEN – UNION BERLIN (BEIN SPORTS MAX 2)"
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-55219e3d34.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5068/a.strmrdr-cf-worker-55219e3d34.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+
+MatchType: "Futbol"
 Text: "YARIN 16:30 HOFFENHEIM – MAINZ (TIVIBU SPOR 2)"
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-55219e3d34.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5083/a.strmrdr-cf-worker-55219e3d34.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "Futbol"
 Text: "YARIN 16:30 HOLSTEIN KIEL – ST.PAULI (TIVIBU SPOR 4)"
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-55219e3d34.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5085/a.strmrdr-cf-worker-55219e3d34.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
-
-MatchType: "Futbol"
-Text: "YARIN 16:30 BAYER LEVERKUSEN – UNION BERLIN (BEIN SPORTS MAX 2)"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-55219e3d34.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5068/a.strmrdr-cf-worker-55219e3d34.workers.dev/chunklist_hd.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
 
 MatchType: "Futbol"
 Text: "YARIN 16:30 BAYER LEVERKUSEN – UNION BERLIN (TIVIBU SPOR 1)"
