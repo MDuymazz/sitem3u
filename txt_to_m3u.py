@@ -60,7 +60,7 @@ while i + 2 < len(lines):
 
     # Grup başlığı
     if match_type == "CANLI":
-        group_title = "SPOR YAYINLARI 2 (MAC SAATİ)"
+        group_title = "SPOR YAYINLARI (MAC SAATİ)"
     else:
         group_title = "GÜNLÜK SPOR AKIŞI 2"
 
