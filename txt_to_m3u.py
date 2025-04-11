@@ -1,96 +1,79 @@
-# Dosya adlarını tanımlıyoruz
+# Dosya adları
 input_file = "son_m3u.txt"
 output_file = "gol.m3u"
 link_file = "ana_link.txt"
-logo_file = "logo.txt"  # Logo verisinin olduğu dosya
+logo_file = "logo.txt"
 
+# Referrer URL'yi al
 try:
-    # ana_link.txt dosyasındaki ana URL'yi alıyoruz
     with open(link_file, "r", encoding="utf-8") as file:
         referrer_url = file.read().strip()
         if not referrer_url.startswith("http"):
-            raise ValueError("Ana link dosyasında geçerli bir URL bulunamadı.")
-except FileNotFoundError:
-    print("❌ Hata: 'ana_link.txt' dosyası bulunamadı!")
-    exit()
-except ValueError as e:
+            raise ValueError("Ana link dosyasında geçerli bir URL yok.")
+except Exception as e:
     print(f"❌ Hata: {e}")
     exit()
 
+# Giriş verisini oku
 try:
-    # son_m3u.txt dosyasındaki verileri okuyoruz
     with open(input_file, "r", encoding="utf-8") as file:
-        lines = [line.strip() for line in file if line.strip()]  # Boş satırları temizle
+        lines = [line.strip() for line in file if line.strip()]
 except FileNotFoundError:
-    print("❌ Hata: 'son_m3u.txt' dosyası bulunamadı!")
+    print("❌ Hata: 'son_m3u.txt' dosyası yok!")
     exit()
 
-# Eğer veri yoksa işlemi durdur
 if not lines:
     print("❌ Hata: 'son_m3u.txt' dosyası boş!")
     exit()
 
-# Logo verilerini içeren sözlük oluştur
+# Logo verisi
 logo_dict = {}
-baska_logo = ""  # Varsayılan logo için boş değişken
-
+baska_logo = ""
 try:
     with open(logo_file, "r", encoding="utf-8") as file:
         for line in file:
             if "=" in line:
                 key, value = line.strip().split("=", 1)
                 key = key.strip()
-                value = value.strip().replace('"', '')  # Gereksiz tırnakları kaldır
+                value = value.strip().replace('"', '')
                 if key == "BASKA":
-                    baska_logo = value  # Varsayılan logo olarak kaydet
+                    baska_logo = value
                 else:
-                    logo_dict[key] = value  # Normal logoları kaydet
+                    logo_dict[key] = value
 except FileNotFoundError:
-    print("⚠️ Uyarı: 'logo.txt' dosyası bulunamadı! Logolar eklenmeyecek.")
+    print("⚠️ Uyarı: 'logo.txt' dosyası bulunamadı! Logosuz devam.")
 
-formatted_data = ["#EXTM3U\n"]  # M3U başlığı ekle
+# Başlık
+formatted_data = ["#EXTM3U\n"]
 
 i = 0
-while i < len(lines):
-    try:
-        if lines[i].startswith("MatchType:") and i + 2 < len(lines):
-            match_type = lines[i].replace('MatchType: ', '').replace('"', '')
-            text = lines[i + 1].replace('Text: ', '').replace('"', '')
-            url = lines[i + 2]
+while i + 2 < len(lines):
+    match_type = lines[i].split(":", 1)[1].replace('"', '').strip().lower()
+    text = lines[i + 1].split(":", 1)[1].replace('"', '').strip()
+    url = lines[i + 2].strip()
 
-            if not url.startswith("http"):
-                print(f"⚠️ Geçersiz URL atlandı: {url}")
-                i += 3
-                continue
+    if not url.startswith("http"):
+        print(f"⚠️ Geçersiz URL atlandı: {url}")
+        i += 3
+        continue
 
-            # tvg-name'e göre logo belirle, eşleşme yoksa BASKA kullan
-            logo_url = logo_dict.get(text, baska_logo)
+    logo_url = logo_dict.get(text, baska_logo)
+    logo_part = f' tvg-logo="{logo_url}"' if logo_url else ""
 
-            # Logo URL varsa M3U satırına ekle
-            logo_part = f' tvg-logo="{logo_url}"' if logo_url else ""
+    if text == "TV8,5":
+        text = "TV 8-5"
 
-            # TV8,5 ismini 8-5 olarak değiştirme
-            if text == "TV8,5":
-                text = "TV 8-5"
+    group_title = "SPOR YAYINLARI 2 (MAC SAATİ)" if match_type == "CANLI" else "GÜNLÜK SPOR AKIŞI 2"
 
-            # group-title değerini MatchType'a göre belirle
-            group_title = 'SPOR YAYINLARI 2 (MAC SAATİ)' if match_type.lower() == 'canlı' else 'GÜNLÜK SPOR AKIŞI 2'
-
-            formatted_entry = f"""#EXTINF:-1 tvg-name="{text}"{logo_part} tvg-language="Turkish" tvg-country="TR" group-title="{group_title}",{text}
+    formatted_entry = f"""#EXTINF:-1 tvg-name="{text}"{logo_part} tvg-language="Turkish" tvg-country="TR" group-title="{group_title}",{text}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer={referrer_url}
 {url}
 """
-            formatted_data.append(formatted_entry)
-            i += 3
-        else:
-            print(f"⚠️ Eksik veya hatalı veri atlandı: {lines[i]}")
-            i += 1
-    except IndexError:
-        print("⚠️ Beklenmeyen veri formatı, işleme devam ediliyor...")
-        break
+    formatted_data.append(formatted_entry)
+    i += 3
 
-# tvg-name'e göre sıralama ve CANLI olanları en üste taşıma
+# CANLI olanları yukarı al
 def custom_sort(entry):
     if 'CANLI' in entry:
         return (0, entry)
@@ -98,17 +81,15 @@ def custom_sort(entry):
         return (1, entry)
     elif 'YARIN' in entry:
         return (2, entry)
-    return (3, entry.split('tvg-name="')[1][:14])
+    return (3, entry)
 
-formatted_data_sorted = sorted(formatted_data[1:], key=custom_sort)
+sorted_data = sorted(formatted_data[1:], key=custom_sort)
+final_data = formatted_data[:1] + sorted_data
 
-# Sıralı verileri başlık ile birleştiriyoruz
-final_data = formatted_data[:1] + formatted_data_sorted
-
-# Dosyaya yazma işlemi
+# Yaz
 try:
     with open(output_file, "w", encoding="utf-8") as file:
         file.writelines(final_data)
-    print(f"✅ M3U dosyası başarıyla oluşturuldu: {output_file}")
+    print(f"✅ M3U dosyası başarıyla yazıldı: {output_file}")
 except Exception as e:
-    print(f"❌ Hata: M3U dosyası oluşturulurken bir hata oluştu: {e}")
+    print(f"❌ Yazma hatası: {e}")
