@@ -3,7 +3,7 @@ name: Run Monitor URL
 on:
    workflow_dispatch:  # Manuel olarak çalıştırılabilir
    schedule:
-    - cron: "0 22 * * *"
+    - cron: "30 21 * * *"
     
 jobs:
   run-script:
