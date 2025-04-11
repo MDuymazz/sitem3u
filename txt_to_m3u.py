@@ -41,7 +41,6 @@ try:
                 key, value = line.strip().split("=", 1)
                 key = key.strip()
                 value = value.strip().replace('"', '')  # Gereksiz tırnakları kaldır
-
                 if key == "BASKA":
                     baska_logo = value  # Varsayılan logo olarak kaydet
                 else:
@@ -74,8 +73,10 @@ while i < len(lines):
             if text == "TV8,5":
                 text = "TV 8-5"
 
-            formatted_entry = f"""
-#EXTINF:-1 tvg-name="{text}"{logo_part} tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",{text}
+            # group-title değerini MatchType'a göre belirle
+            group_title = 'SPOR YAYINLARI 2 (MAC SAATİ)' if match_type.lower() == 'canlı' else 'GÜNLÜK SPOR AKIŞI 2'
+
+            formatted_entry = f"""#EXTINF:-1 tvg-name="{text}"{logo_part} tvg-language="Turkish" tvg-country="TR" group-title="{group_title}",{text}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer={referrer_url}
 {url}
