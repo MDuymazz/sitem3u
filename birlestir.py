@@ -65,9 +65,10 @@ def merge_m3u(url1, url2, url3, url4, url5, output_file="playlist.m3u"):
         "GÜNLÜK SPOR AKIŞI": 1,
         "GÜNLÜK SPOR AKIŞI 2": 2,
         "SPOR YAYINLARI": 3,
-        "SPOR YAYINLARI 2 (MAC SAATİ)": 4,  # Yeni eklenen kategori
-        "HAFTANIN FUTBOL FİKSTÜRÜ": 5,
-        "HAFTANIN BASKETBOL FİKSTÜRÜ": 6,
+        "SPOR YAYINLARI (MAC SAATİ)": 4,
+        "SPOR YAYINLARI 2 (MAC SAATİ)": 5,  # Yeni eklenen kategori
+        "HAFTANIN FUTBOL FİKSTÜRÜ": 6,
+        "HAFTANIN BASKETBOL FİKSTÜRÜ": 7,
     }
     
     all_entries.sort(key=lambda x: group_priority.get(x[0], 99))
