@@ -3,7 +3,7 @@ name: Run m3u_link_saatlik.py script
 on:
    workflow_dispatch:  # Manuel olarak çalıştırılabilir
    schedule:
-    - cron: "0 */3 * * * "
+    - cron: "5 */3 * * * "
  
 jobs:
   run-script:
