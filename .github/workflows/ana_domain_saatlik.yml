@@ -1,78 +1,80 @@
 name: Run Monitor URL Saatlik
 
 on:
-   workflow_dispatch:  # Manuel olarak çalıştırılabilir
-   schedule:
-    - cron: "5 */3 * * * "
- 
-    
+  workflow_dispatch:  # Manuel olarak çalıştırılabilir
+  schedule:
+    - cron: "5 */3 * * *"  # Her 3 saatte bir çalışır
+
 jobs:
   run-script:
-    runs-on: ubuntu-latest  # GitHub Actions'ı çalıştıracak ortam
+    runs-on: ubuntu-latest
 
     steps:
-      # Python ortamını kuruyoruz
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
-          python-version: '3.x'  # Python 3.x sürümünü kullanıyoruz
+          python-version: '3.x'
 
-      # Selenium ve diğer gerekli bağımlılıkları yüklüyoruz
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install requests
 
-      # Reponun içeriğini çekiyoruz
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      # Python scriptini çalıştırıyoruz
       - name: Run ana_domain.py script
         run: |
           python ana_domain.py
 
-      # Ana link dosyasını kontrol ediyoruz
       - name: Check if ana_link.txt is updated
         id: check_update
         run: |
           echo "Checking if ana_link.txt was updated:"
-          cat ana_link.txt  # Dosyanın içeriğini kontrol ediyoruz
-          
-          # Dosya güncellenmemişse hata veriyoruz
+          cat ana_link.txt
+
           OLD_URL=$(cat ana_link.txt)
-          NEW_URL=$(python ana_domain.py)  # Yeni URL'yi almak için scripti çalıştırıyoruz
-          
+          NEW_URL=$(python ana_domain.py)
+
           if [ "$OLD_URL" == "$NEW_URL" ]; then
-            echo "URL güncellemeye gerek yoktur"  # URL değişmemişse mesaj yazdırıyoruz
-            echo "no_update=true" >> $GITHUB_ENV  # URL değişmemişse bir environment variable set ediyoruz
+            echo "URL güncellemeye gerek yoktur"
+            echo "no_update=true" >> $GITHUB_ENV
           else
+            echo "$NEW_URL" > ana_link.txt
             echo "URL başarıyla ana_link.txt dosyasına güncellendi"
-            echo "no_update=false" >> $GITHUB_ENV  # URL güncellenmişse farklı bir variable set ediyoruz
+            echo "no_update=false" >> $GITHUB_ENV
           fi
 
-      # GitHub Actions'a yapılan değişiklikleri commit ediyoruz
-      - name: Commit updated ana_link.txt
+      - name: Update m3u_link.txt with new domain
+        run: |
+          NEW_DOMAIN=$(cat ana_link.txt | sed 's:/*$::')  # sondaki / işaretini temizle
+          echo "Yeni domain: $NEW_DOMAIN"
+
+          # m3u_link.txt dosyasındaki tüm linkleri yeni domainle güncelle
+          sed -i -E "s|https://[^/]+|$NEW_DOMAIN|g" m3u_link.txt
+
+          echo "m3u_link.txt dosyası güncellendi:"
+          cat m3u_link.txt
+
+      - name: Commit updated files
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          
-          # Değişiklik olup olmadığını kontrol et
+
           if git diff --quiet; then
             echo "No changes detected. Skipping commit."
           else
-            git add ana_link.txt
+            git add ana_link.txt m3u_link.txt
             if [ "${{ env.no_update }}" == "true" ]; then
-              git commit -m "Domain URL güncellemeye gerek yoktur"  # URL değişmemişse özel mesaj
+              git commit -m "Domain URL güncellemeye gerek yoktur"
             else
-              git commit -m "Domain URL güncellendi. "  # URL güncellenmişse normal mesaj
+              git commit -m "Domain URL ve m3u linkleri güncellendi"
             fi
             git push
           fi
 
-      # m3u-link-saatlik.yml workflow'unu tetiklemek
       - name: Trigger m3u-link-saatlik.yml workflow
-        if: success()  # Bu adımdan önce başarılı olursa tetiklenir
+        if: success()
         run: |
           curl -X POST \
             -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
