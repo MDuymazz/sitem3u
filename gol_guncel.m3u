@@ -1,16 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="BUGÜN 02:30 ORLANDO MAGIC – ATLANTA HAWKS (S SPORT)" tvg-logo="https://thumbs.dreamstime.com/b/simple-clean-crisp-creative-md-logo-icon-design-vector-format-170813699.jpg" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",BUGÜN 02:30 ORLANDO MAGIC – ATLANTA HAWKS (S SPORT)
+#EXTINF:-1 tvg-name="CANLI (13:30) M.ANDREEVA – E.ANDREEVA (BEIN SPORTS MAX 1)" tvg-logo="https://thumbs.dreamstime.com/b/simple-clean-crisp-creative-md-logo-icon-design-vector-format-170813699.jpg" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",CANLI (13:30) M.ANDREEVA – E.ANDREEVA (BEIN SPORTS MAX 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar4137.sbs//
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-22e39720eb.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/-/5101/playlist.m3u8&referer=https://golvar4137.sbs/&origin=https://golvar4137.sbs/
-#EXTINF:-1 tvg-name="BUGÜN 05:00 GS WARRIORS – MEMPHIS GRIZZLIES (S SPORT)" tvg-logo="https://thumbs.dreamstime.com/b/simple-clean-crisp-creative-md-logo-icon-design-vector-format-170813699.jpg" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",BUGÜN 05:00 GS WARRIORS – MEMPHIS GRIZZLIES (S SPORT)
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-22e39720eb.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/-/5067/playlist.m3u8&referer=https://golvar4137.sbs/&origin=https://golvar4137.sbs/
+#EXTINF:-1 tvg-name="BUGÜN 18:00 J.FETT – I.SWIATEK (BEIN SPORTS MAX 1)" tvg-logo="https://thumbs.dreamstime.com/b/simple-clean-crisp-creative-md-logo-icon-design-vector-format-170813699.jpg" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",BUGÜN 18:00 J.FETT – I.SWIATEK (BEIN SPORTS MAX 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar4137.sbs//
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-22e39720eb.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/-/5101/playlist.m3u8&referer=https://golvar4137.sbs/&origin=https://golvar4137.sbs/
-#EXTINF:-1 tvg-name="BUGÜN 13:00 SYDNEY FC – LION CITY (SPOR SMART)" tvg-logo="https://thumbs.dreamstime.com/b/simple-clean-crisp-creative-md-logo-icon-design-vector-format-170813699.jpg" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",BUGÜN 13:00 SYDNEY FC – LION CITY (SPOR SMART)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://golvar4137.sbs//
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-22e39720eb.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/-/5091/playlist.m3u8&referer=https://golvar4137.sbs/&origin=https://golvar4137.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-22e39720eb.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/-/5067/playlist.m3u8&referer=https://golvar4137.sbs/&origin=https://golvar4137.sbs/
 #EXTINF:-1 tvg-name="BUGÜN 19:00 FENERBAHÇE OPET – ÇBK MERSIN (TRT SPOR)" tvg-logo="https://thumbs.dreamstime.com/b/simple-clean-crisp-creative-md-logo-icon-design-vector-format-170813699.jpg" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",BUGÜN 19:00 FENERBAHÇE OPET – ÇBK MERSIN (TRT SPOR)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar4137.sbs//
@@ -23,6 +19,10 @@ https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-22e39720eb.work
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar4137.sbs//
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-22e39720eb.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/-/5083/playlist.m3u8&referer=https://golvar4137.sbs/&origin=https://golvar4137.sbs/
+#EXTINF:-1 tvg-name="BUGÜN 21:30 NEWCASTLE – CRYSTAL PALACE (BEIN SPORTS 3)" tvg-logo="https://thumbs.dreamstime.com/b/simple-clean-crisp-creative-md-logo-icon-design-vector-format-170813699.jpg" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",BUGÜN 21:30 NEWCASTLE – CRYSTAL PALACE (BEIN SPORTS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://golvar4137.sbs//
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-22e39720eb.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/-/5064/playlist.m3u8&referer=https://golvar4137.sbs/&origin=https://golvar4137.sbs/
 #EXTINF:-1 tvg-name="BUGÜN 22:00 REAL MADRID – ARSENAL (CBC SPORT)" tvg-logo="https://thumbs.dreamstime.com/b/simple-clean-crisp-creative-md-logo-icon-design-vector-format-170813699.jpg" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",BUGÜN 22:00 REAL MADRID – ARSENAL (CBC SPORT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar4137.sbs//
