@@ -60,8 +60,7 @@ jobs:
             git push
           fi
 
-      - name: Trigger m3u-link-saatlik.yml workflow (sadece domain değiştiyse)
-        if: env.no_update == 'false'
+      - name: Trigger m3u-link-saatlik.yml workflow (her durumda tetikle)
         run: |
           curl -X POST \
             -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
