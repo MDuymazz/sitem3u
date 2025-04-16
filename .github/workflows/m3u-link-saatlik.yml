@@ -2,7 +2,7 @@ name: Run m3u_link_saatlik.py script
 
 on:
   workflow_run:
-    workflows: ["Run m3u_link_saatlik.py script"]  # Ana Domain workflow'u tamamlandığında çalışacak
+    workflows: ["Run Monitor URL Saatlik"]  # Ana Domain workflow'u tamamlandığında çalışacak
     types:
       - completed
 
