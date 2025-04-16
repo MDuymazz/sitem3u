@@ -57,6 +57,9 @@ jobs:
     - name: Run txt_to_m3u.py
       run: python private_py/txt_to_m3u.py
 
+    - name: Run birlestir.py
+      run: python private_py/birlestir.py
+
     - name: Commit and push updated text files
       run: |
         git config user.name "GitHub Actions"
