@@ -3,7 +3,7 @@ name: Run Python Scripts from Private Repo - Saatlik
 on:
   workflow_dispatch:          # Manuel tetikleme için
   schedule:
-    - cron: '0 */2 * * *'     # Her 3 saatte bir çalıştırır
+    - cron: '0 */3* * *'     # Her 3 saatte bir çalıştırır
 
 jobs:
   run-python-scripts:
