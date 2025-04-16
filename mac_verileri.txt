@@ -1,7 +1,4 @@
 MatchType: "Tenis"
-Text: "CANLI (13:30) M.ANDREEVA – E.ANDREEVA (BEIN SPORTS MAX 1)"
-
-MatchType: "Tenis"
 Text: "BUGÜN 18:00 J.FETT – I.SWIATEK (BEIN SPORTS MAX 1)"
 
 MatchType: "Basketbol"
