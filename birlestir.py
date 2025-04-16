@@ -81,9 +81,9 @@ def merge_m3u(url1, url2, url3, url4, url5, output_file="playlist.m3u"):
 
 merge_m3u(
     "https://raw.githubusercontent.com/MDuymazz/sitem3u/refs/heads/main/gol_guncel.m3u",
-    "https://raw.githubusercontent.com/MDuymazz/efendikaptan/refs/heads/main/vavoo.m3u",
-    "https://raw.githubusercontent.com/MDuymazz/efendikaptan/refs/heads/main/new_m3u.m3u",
-    "https://raw.githubusercontent.com/MDuymazz/efendikaptan/refs/heads/main/programlar.m3u",
+    "https://raw.githubusercontent.com/MDuymazz/veriler/refs/heads/main/vavoo.m3u",
+    "https://raw.githubusercontent.com/MDuymazz/veriler/refs/heads/main/new_m3u.m3u",
+    "https://raw.githubusercontent.com/MDuymazz/veriler/refs/heads/main/programlar.m3u",
     "https://raw.githubusercontent.com/sarapcanagii/Pitipitii/refs/heads/master/NeonSpor/NeonSpor.m3u8",
     "playlist.m3u"
 )
