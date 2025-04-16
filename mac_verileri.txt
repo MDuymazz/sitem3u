@@ -1,11 +1,8 @@
-MatchType: "Basketbol"
-Text: "BUGÜN 02:30 ORLANDO MAGIC – ATLANTA HAWKS (S SPORT)"
+MatchType: "Tenis"
+Text: "CANLI (13:30) M.ANDREEVA – E.ANDREEVA (BEIN SPORTS MAX 1)"
 
-MatchType: "Basketbol"
-Text: "BUGÜN 05:00 GS WARRIORS – MEMPHIS GRIZZLIES (S SPORT)"
-
-MatchType: "Futbol"
-Text: "BUGÜN 13:00 SYDNEY FC – LION CITY (SPOR SMART)"
+MatchType: "Tenis"
+Text: "BUGÜN 18:00 J.FETT – I.SWIATEK (BEIN SPORTS MAX 1)"
 
 MatchType: "Basketbol"
 Text: "BUGÜN 19:00 FENERBAHÇE OPET – ÇBK MERSIN (TRT SPOR)"
@@ -15,6 +12,9 @@ Text: "BUGÜN 19:30 TORTONA – IBEROSTAR TENERIFE (TIVIBU SPOR 1)"
 
 MatchType: "Basketbol"
 Text: "BUGÜN 21:30 JSF NANTERRE – AEK ATHENS (TIVIBU SPOR 2)"
+
+MatchType: "Futbol"
+Text: "BUGÜN 21:30 NEWCASTLE – CRYSTAL PALACE (BEIN SPORTS 3)"
 
 MatchType: "Futbol"
 Text: "BUGÜN 22:00 REAL MADRID – ARSENAL (CBC SPORT)"
