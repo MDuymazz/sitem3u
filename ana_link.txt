@@ -1,1 +1,1 @@
-Yönlendirme yok. URL aynı kaldı.
+Hata oluştu: Failed to parse: Yönlendirme yok. URL aynı kaldı.
