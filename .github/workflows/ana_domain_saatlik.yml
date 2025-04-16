@@ -1,7 +1,7 @@
 name: Run Monitor URL Saatlik
 
 on:
-  workflow_dispatch:  # Manuel olarak çalıştırılabilir
+  workflow_dispatch:  # Manuel çalıştırma
   schedule:
     - cron: "5 */3 * * *"  # Her 3 saatte bir çalışır
 
@@ -45,15 +45,13 @@ jobs:
             echo "no_update=false" >> $GITHUB_ENV
           fi
 
-      - name: Update m3u_link.txt with new domain
+      - name: Update m3u_link.txt with new domain + path
         run: |
-          NEW_DOMAIN=$(cat ana_link.txt | sed 's:/*$::')  # sondaki / işaretini temizle
-          echo "Yeni domain: $NEW_DOMAIN"
+          BASE_URL=$(cat ana_link.txt | sed 's:/*$::')  # sondaki / işareti temizlenir
+          FULL_URL="$BASE_URL/tv/bein-sports-1/"
+          echo "$FULL_URL" > m3u_link.txt
 
-          # m3u_link.txt dosyasındaki tüm linkleri yeni domainle güncelle
-          sed -i -E "s|https://[^/]+|$NEW_DOMAIN|g" m3u_link.txt
-
-          echo "m3u_link.txt dosyası güncellendi:"
+          echo "Yeni m3u_link.txt içeriği:"
           cat m3u_link.txt
 
       - name: Commit updated files
@@ -68,7 +66,7 @@ jobs:
             if [ "${{ env.no_update }}" == "true" ]; then
               git commit -m "Domain URL güncellemeye gerek yoktur"
             else
-              git commit -m "Domain URL ve m3u linkleri güncellendi"
+              git commit -m "Domain URL ve m3u_link güncellendi"
             fi
             git push
           fi
