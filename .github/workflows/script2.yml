@@ -42,6 +42,9 @@ jobs:
     - name: Run guncel_gol.py
       run: python private_py/guncel_gol.py
 
+    - name: Run birlestir.py
+      run: python private_py/birlestir.py
+
     - name: Commit and push updated text files
       run: |
         git config user.name "GitHub Actions"
