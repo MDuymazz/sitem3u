@@ -1,9 +1,11 @@
 name: Run m3u_link_saatlik.py script
 
 on:
-   workflow_dispatch:  # Manuel olarak çalıştırılabilir
-   schedule:
-    - cron: "5 */3 * * * "
+  workflow_run:
+    workflows: ["Run m3u_link_saatlik.py script"]  # Ana Domain workflow'u tamamlandığında çalışacak
+    types:
+      - completed
+
  
 jobs:
   run-script:
