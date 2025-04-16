@@ -70,11 +70,11 @@ jobs:
             git push
           fi
 
-      # mac-verileri.yml workflow'unu tetiklemek
-      - name: Trigger mac-verileri.yml workflow
+      # m3u-link-saatlik.yml workflow'unu tetiklemek
+      - name: Trigger m3u-link-saatlik.yml workflow
         if: success()  # Bu adımdan önce başarılı olursa tetiklenir
         run: |
           curl -X POST \
             -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
             -d '{"ref": "main"}' \
-            https://api.github.com/repos/${{ github.repository }}/actions/workflows/mac-verileri.yml/dispatches
+            https://api.github.com/repos/${{ github.repository }}/actions/workflows/m3u-link-saatlik.yml/dispatches
