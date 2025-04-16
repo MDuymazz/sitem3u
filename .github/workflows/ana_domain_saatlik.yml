@@ -31,33 +31,36 @@ jobs:
 
           if [[ "$OUTPUT" == *"Yönlendirme yok"* ]]; then
             echo "no_update=true" >> $GITHUB_ENV
-            echo "Yönlendirme yok. ana_link.txt olduğu gibi kalacak."
+            echo "Yönlendirme yok. ana_link.txt değişmeyecek."
           else
             echo "$OUTPUT" > ana_link.txt
             echo "no_update=false" >> $GITHUB_ENV
             echo "Yeni domain ana_link.txt dosyasına yazıldı: $OUTPUT"
           fi
 
-      - name: Rebuild m3u_link.txt from ana_link.txt (her durumda)
+      - name: Rebuild m3u_link.txt from ana_link.txt (her zaman)
         run: |
-          BASE_URL=$(cat ana_link.txt | sed 's:/*$::')  # sondaki / varsa temizle
-          FULL_URL="$BASE_URL/tv/bein-sports-1/"
-          echo "$FULL_URL" > m3u_link.txt
+          BASE_URL=$(cat ana_link.txt | sed 's:/*$::')
+          echo "$BASE_URL/tv/bein-sports-1/" > m3u_link.txt
 
-          echo "Yeni m3u_link.txt içeriği:"
+          echo "m3u_link.txt güncellendi:"
           cat m3u_link.txt
 
-      - name: Commit updated files (sadece yönlendirme varsa)
-        if: env.no_update == 'false'
+      - name: Commit updated files if anything changed
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
 
-          git add ana_link.txt m3u_link.txt
-          git commit -m "Yönlendirme bulundu. Domain ve m3u_link güncellendi."
-          git push
+          # Eğer değişiklik varsa commit et
+          if git diff --quiet; then
+            echo "Değişiklik yok. Commit atlanıyor."
+          else
+            git add ana_link.txt m3u_link.txt
+            git commit -m "Dosyalar güncellendi. m3u_link.txt her zaman yeniden yazıldı."
+            git push
+          fi
 
-      - name: Trigger m3u-link-saatlik.yml workflow (sadece yönlendirme varsa)
+      - name: Trigger m3u-link-saatlik.yml workflow (sadece domain değiştiyse)
         if: env.no_update == 'false'
         run: |
           curl -X POST \
