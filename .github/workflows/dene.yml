@@ -1,4 +1,4 @@
-name: Run Python Scripts from Private Repo
+name: Run Python Script2s from Private Repo
 
 on:
   workflow_dispatch:          # Manuel tetikleme
@@ -28,17 +28,16 @@ jobs:
 
     - name: Run all Python scripts in order
       run: |
-        cd private_py
-        python ana_domain.py
-        python mac_verileri.py
-        python link_alma.py
-        python m3u_link.py
-        python kod_alma.py
-        python link_hazırlama.py
-        python encode.py
-        python verileri_birlestir.py
-        python txt_to_m3u.py
-        python birlestir.py
+        python private_py/ana_domain.py
+        python private_py/mac_verileri.py
+        python private_py/link_alma.py
+        python private_py/m3u_link.py
+        python private_py/kod_alma.py
+        python private_py/link_hazırlama.py
+        python private_py/encode.py
+        python private_py/verileri_birlestir.py
+        python private_py/txt_to_m3u.py
+        python private_py/birlestir.py
 
     - name: Commit and push updated text files
       run: |
