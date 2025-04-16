@@ -3,7 +3,7 @@ name: Run Python Scripts from Private Repo - Saatlik
 on:
   workflow_dispatch:          # Manuel tetikleme için
   schedule:
-    - cron: '0 */1 * * *'     # Her 3 saatte bir çalıştırır
+    - cron: '0 */2 * * *'     # Her 3 saatte bir çalıştırır
 
 jobs:
   run-python-scripts:
@@ -39,8 +39,20 @@ jobs:
     - name: Run m3u_link.py
       run: python private_py/m3u_link.py
 
-    - name: Run guncel_gol.py
-      run: python private_py/guncel_gol.py
+    - name: Run kod_alma.py
+      run: python private_py/kod_alma.py
+
+    - name: Run link_hazırlama.py
+      run: python private_py/link_hazırlama.py
+
+    - name: Run encode.py
+      run: python private_py/encode.py
+
+    - name: Run verileri_birlestir.py
+      run: python private_py/verileri_birlestir.py
+
+    - name: Run txt_to_m3u.py
+      run: python private_py/txt_to_m3u.py
 
     - name: Run birlestir.py
       run: python private_py/birlestir.py
