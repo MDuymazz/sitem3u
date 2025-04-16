@@ -1,9 +1,9 @@
 name: Run Monitor URL Saatlik
 
 on:
-  workflow_dispatch:  # Manuel çalıştırma
+  workflow_dispatch:
   schedule:
-    - cron: "5 */3 * * *"  # Her 3 saatte bir çalışır
+    - cron: "5 */3 * * *"
 
 jobs:
   run-script:
@@ -23,56 +23,42 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Run ana_domain.py script
+      - name: Run ana_domain.py and check redirect
+        id: check_redirect
         run: |
-          python ana_domain.py
+          OUTPUT=$(python ana_domain.py)
+          echo "Script çıktısı: $OUTPUT"
 
-      - name: Check if ana_link.txt is updated
-        id: check_update
-        run: |
-          echo "Checking if ana_link.txt was updated:"
-          cat ana_link.txt
-
-          OLD_URL=$(cat ana_link.txt)
-          NEW_URL=$(python ana_domain.py)
-
-          if [ "$OLD_URL" == "$NEW_URL" ]; then
-            echo "URL güncellemeye gerek yoktur"
+          if [[ "$OUTPUT" == *"Yönlendirme yok"* ]]; then
             echo "no_update=true" >> $GITHUB_ENV
+            echo "Yönlendirme yok. ana_link.txt olduğu gibi kalacak."
           else
-            echo "$NEW_URL" > ana_link.txt
-            echo "URL başarıyla ana_link.txt dosyasına güncellendi"
+            echo "$OUTPUT" > ana_link.txt
             echo "no_update=false" >> $GITHUB_ENV
+            echo "Yeni domain ana_link.txt dosyasına yazıldı: $OUTPUT"
           fi
 
-      - name: Update m3u_link.txt with new domain + path
+      - name: Rebuild m3u_link.txt from ana_link.txt (her durumda)
         run: |
-          BASE_URL=$(cat ana_link.txt | sed 's:/*$::')  # sondaki / işareti temizlenir
+          BASE_URL=$(cat ana_link.txt | sed 's:/*$::')  # sondaki / varsa temizle
           FULL_URL="$BASE_URL/tv/bein-sports-1/"
           echo "$FULL_URL" > m3u_link.txt
 
           echo "Yeni m3u_link.txt içeriği:"
           cat m3u_link.txt
 
-      - name: Commit updated files
+      - name: Commit updated files (sadece yönlendirme varsa)
+        if: env.no_update == 'false'
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
 
-          if git diff --quiet; then
-            echo "No changes detected. Skipping commit."
-          else
-            git add ana_link.txt m3u_link.txt
-            if [ "${{ env.no_update }}" == "true" ]; then
-              git commit -m "Domain URL güncellemeye gerek yoktur"
-            else
-              git commit -m "Domain URL ve m3u_link güncellendi"
-            fi
-            git push
-          fi
+          git add ana_link.txt m3u_link.txt
+          git commit -m "Yönlendirme bulundu. Domain ve m3u_link güncellendi."
+          git push
 
-      - name: Trigger m3u-link-saatlik.yml workflow
-        if: success()
+      - name: Trigger m3u-link-saatlik.yml workflow (sadece yönlendirme varsa)
+        if: env.no_update == 'false'
         run: |
           curl -X POST \
             -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
