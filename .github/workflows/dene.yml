@@ -1,0 +1,48 @@
+name: Run Python Scripts from Private Repo
+
+on:
+  workflow_dispatch:          # Manuel tetikleme
+  schedule:
+    - cron: '15 */21 * * *'   # Her 21 saatte bir çalışır
+
+jobs:
+  run-python-scripts:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Public Repository (veriler)
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Clone Private Repository (Py)
+      run: |
+        git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/MDuymazz/Py.git private_py
+
+    - name: Install Python dependencies from private repo
+      run: |
+        pip install -r private_py/requirements.txt
+
+    - name: Run all Python scripts in order
+      run: |
+        cd private_py
+        python ana_domain.py
+        python mac_verileri.py
+        python link_alma.py
+        python m3u_link.py
+        python kod_alma.py
+        python link_hazırlama.py
+        python encode.py
+        python verileri_birlestir.py
+        python txt_to_m3u.py
+        python birlestir.py
+
+    - name: Commit and push updated text files
+      run: |
+        git config user.name "GitHub Actions"
+        git config user.email "actions@github.com"
+        git add .
+        git diff --cached --quiet || (git commit -m "Update text files via workflow" && git push)
