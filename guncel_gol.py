@@ -23,10 +23,19 @@ def update_m3u_links(m3u_file, updated_link_file, output_file, base_url_file):
             old_segment = old_segment.group(0)
             updated_link = new_link.replace(old_segment, f"/{number}/")
             # Güncellenmiş referer ve origin değerlerini ekle
-            return f'https://playerpro.live/proxy.php?url={updated_link}&referer={base_url}&origin={base_url}'
+            updated_url = f'https://playerpro.live/proxy.php?url={updated_link}&referer={base_url}&origin={base_url}'
+            return updated_url
         return match.group(0)  # Eşleşme olmazsa değiştirme
-    
+
+    # `#EXTVLCOPT:http-referrer` kısmını da güncelle
+    def update_referrer(match):
+        return f'#EXTVLCOPT:http-referrer={base_url}/'
+
+    # Referer ve linki güncelle
     updated_content = pattern.sub(replace_link, content)
+    
+    # `#EXTVLCOPT:http-referrer`'ı güncelle
+    updated_content = re.sub(r'#EXTVLCOPT:http-referrer=[^\s]+', update_referrer, updated_content)
     
     # Güncellenmiş içeriği yeni dosyaya yaz
     with open(output_file, 'w', encoding='utf-8') as f:
