@@ -1,10 +1,10 @@
 MatchType: "Basketbol"
 Text: "CANLI (05:00) SACRAMENTO KINGS – DALLAS MAVERICKS (S SPORT)"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-6db90affb9.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5067/a.strmrdr-cf-worker-6db90affb9.workers.dev/chunklist_hd.m3u8&referer=https://golvar4045.sbs/&origin=https://golvar4045.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-6db90affb9.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5032/a.strmrdr-cf-worker-6db90affb9.workers.dev/chunklist_hd.m3u8&referer=https://golvar4045.sbs/&origin=https://golvar4045.sbs/
 
 MatchType: "Tenis"
 Text: "BUGÜN 12:30 S.LAMENS – L.NOSKOVA (BEIN SPORTS MAX 2)"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-6db90affb9.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5032/a.strmrdr-cf-worker-6db90affb9.workers.dev/chunklist_hd.m3u8&referer=https://golvar4045.sbs/&origin=https://golvar4045.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-6db90affb9.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5067/a.strmrdr-cf-worker-6db90affb9.workers.dev/chunklist_hd.m3u8&referer=https://golvar4045.sbs/&origin=https://golvar4045.sbs/
 
 MatchType: "Tenis"
 Text: "BUGÜN 13:30 M.ANDREEVA – E.ALEXANDROVA (BEIN SPORTS MAX 1)"
@@ -12,11 +12,11 @@ https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-6db90affb9.work
 
 MatchType: "Tenis"
 Text: "BUGÜN 15:00 J.NIEMEIER – J.PAOLINI (BEIN SPORTS MAX 1)"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-6db90affb9.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5071/a.strmrdr-cf-worker-6db90affb9.workers.dev/chunklist_hd.m3u8&referer=https://golvar4045.sbs/&origin=https://golvar4045.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-6db90affb9.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5031/a.strmrdr-cf-worker-6db90affb9.workers.dev/chunklist_hd.m3u8&referer=https://golvar4045.sbs/&origin=https://golvar4045.sbs/
 
 MatchType: "Tenis"
 Text: "BUGÜN 18:00 M.FRECH – J.PEGULA (BEIN SPORTS MAX 1)"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-6db90affb9.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5031/a.strmrdr-cf-worker-6db90affb9.workers.dev/chunklist_hd.m3u8&referer=https://golvar4045.sbs/&origin=https://golvar4045.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-6db90affb9.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5071/a.strmrdr-cf-worker-6db90affb9.workers.dev/chunklist_hd.m3u8&referer=https://golvar4045.sbs/&origin=https://golvar4045.sbs/
 
 MatchType: "Futbol"
 Text: "BUGÜN 18:50 AL HILAL – AL KHALEEJ (TRT SPOR)"
