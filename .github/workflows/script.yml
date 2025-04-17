@@ -3,7 +3,7 @@ name: Run Python Scripts from Private Repo
 on:
   workflow_dispatch:          # Manuel tetikleme için
   schedule:
-    - cron: '15 */21 * * *'     # Her 3 saatte bir çalıştırır
+    - cron: '15 21 * * *'     # Her 3 saatte bir çalıştırır
 
 jobs:
   run-python-scripts:
