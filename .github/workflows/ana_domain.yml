@@ -1,4 +1,4 @@
-name: Run Python Scripts from Private Repo
+name: Run Python Scripts from Private Repo ( Golvar ) 
 
 on:
   workflow_dispatch:          # Manuel tetikleme için
