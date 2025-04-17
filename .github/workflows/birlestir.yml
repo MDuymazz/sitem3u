@@ -1,36 +1,40 @@
-name: Merge M3U Playlists
+name: Merge and Deploy M3U
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */2 * * *'  # Her 2 saatte bir çalışır
+    - cron: "0 * * * *"  # Her saat başı çalışır (isteğe göre değiştir)
 
 jobs:
-  merge-playlists:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repo
-      uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.11'
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.10
 
-    - name: Install dependencies
-      run: pip install requests
+      - name: Install dependencies
+        run: pip install requests
 
-    - name: Run playlist merge script
-      run: |
-        python birlestir.py
+      - name: Run merge script
+        run: python birlestir.py
 
-    - name: Commit and push changes
-      run: |
-        git config user.name "GitHub Action"
-        git config user.email "action@github.com"
-        git add playlist.m3u
-        git commit -m "Update merged playlist [CI]"
-        git push
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Check for changes and commit
+        run: |
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+          
+          if git diff --quiet; then
+            echo "No changes to commit."
+          else
+            git add playlist.m3u
+            git commit -m "Update merged playlist [CI]"
+            git push
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
