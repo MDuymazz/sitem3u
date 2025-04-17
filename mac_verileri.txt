@@ -11,9 +11,6 @@ MatchType: "Futbol"
 Text: "CANLI (18:50) AL HILAL – AL KHALEEJ (TRT SPOR)"
 
 MatchType: "Tenis"
-Text: "CANLI (18:00) M.FRECH – J.PEGULA (BEIN SPORTS MAX 1)"
-
-MatchType: "Tenis"
 Text: "BUGÜN 21:00 E.NAVARRO – J.OSTAPENKO (BEIN SPORTS MAX 1)"
 
 MatchType: "Futbol"
