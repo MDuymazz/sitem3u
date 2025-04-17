@@ -1,6 +1,6 @@
 MatchType: "Futbol"
-Text: "CANLI (22:00) EINTRACHT FRANKFURT – TOTTENHAM (TRT 1)"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-6db90affb9.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5031/a.strmrdr-cf-worker-6db90affb9.workers.dev/chunklist_hd.m3u8&referer=https://golvar4045.sbs/&origin=https://golvar4045.sbs/
+Text: "CANLI (22:00) ATHLETIC BILBAO – GLASGOW RANGERS (TABII SPOR 1)"
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-6db90affb9.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5072/a.strmrdr-cf-worker-6db90affb9.workers.dev/chunklist_hd.m3u8&referer=https://golvar4045.sbs/&origin=https://golvar4045.sbs/
 
 MatchType: "Futbol"
 Text: "CANLI (22:00) RAPID WIEN – DJURGARDEN (TABII SPOR 4)"
@@ -23,16 +23,8 @@ Text: "CANLI (22:00) LAZIO – BODO GLIMT (TABII SPOR 2)"
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-6db90affb9.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5073/a.strmrdr-cf-worker-6db90affb9.workers.dev/chunklist_hd.m3u8&referer=https://golvar4045.sbs/&origin=https://golvar4045.sbs/
 
 MatchType: "Futbol"
-Text: "CANLI (22:00) ATHLETIC BILBAO – GLASGOW RANGERS (TABII SPOR 1)"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-6db90affb9.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5072/a.strmrdr-cf-worker-6db90affb9.workers.dev/chunklist_hd.m3u8&referer=https://golvar4045.sbs/&origin=https://golvar4045.sbs/
-
-MatchType: "Futbol"
-Text: "CANLI (21:00) AL FATEH – AL ITTIHAD (TRT SPOR)"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-6db90affb9.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5032/a.strmrdr-cf-worker-6db90affb9.workers.dev/chunklist_hd.m3u8&referer=https://golvar4045.sbs/&origin=https://golvar4045.sbs/
-
-MatchType: "Tenis"
-Text: "CANLI (21:00) E.NAVARRO – J.OSTAPENKO (BEIN SPORTS MAX 1)"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-6db90affb9.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5067/a.strmrdr-cf-worker-6db90affb9.workers.dev/chunklist_hd.m3u8&referer=https://golvar4045.sbs/&origin=https://golvar4045.sbs/
+Text: "CANLI (22:00) EINTRACHT FRANKFURT – TOTTENHAM (TRT 1)"
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-6db90affb9.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5031/a.strmrdr-cf-worker-6db90affb9.workers.dev/chunklist_hd.m3u8&referer=https://golvar4045.sbs/&origin=https://golvar4045.sbs/
 
 MatchType: "Basketbol"
 Text: "YARIN 18:00 ANADOLU EFES – MERKEZEFENDI BLD. (BEIN SPORTS 5)"
@@ -41,10 +33,6 @@ https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-6db90affb9.work
 MatchType: "Basketbol"
 Text: "YARIN 18:00 ANADOLU EFES – MERKEZEFENDI BLD. (BEIN SPORTS HABER)"
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-6db90affb9.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5061/a.strmrdr-cf-worker-6db90affb9.workers.dev/chunklist_hd.m3u8&referer=https://golvar4045.sbs/&origin=https://golvar4045.sbs/
-
-MatchType: "Futbol"
-Text: "YARIN 20:00 GALATASARAY – BODRUMSPOR (BEIN SPORTS 1)"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-6db90affb9.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5062/a.strmrdr-cf-worker-6db90affb9.workers.dev/chunklist_hd.m3u8&referer=https://golvar4045.sbs/&origin=https://golvar4045.sbs/
 
 MatchType: "Futbol"
 Text: "YARIN 20:00 MANISA FK – ANKARAGÜCÜ (TRT SPOR)"
@@ -57,6 +45,10 @@ https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-6db90affb9.work
 MatchType: "Futbol"
 Text: "YARIN 20:00 HATAYSPOR – KONYASPOR (BEIN SPORTS 2)"
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-6db90affb9.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5063/a.strmrdr-cf-worker-6db90affb9.workers.dev/chunklist_hd.m3u8&referer=https://golvar4045.sbs/&origin=https://golvar4045.sbs/
+
+MatchType: "Futbol"
+Text: "YARIN 20:00 GALATASARAY – BODRUMSPOR (BEIN SPORTS 1)"
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-6db90affb9.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5062/a.strmrdr-cf-worker-6db90affb9.workers.dev/chunklist_hd.m3u8&referer=https://golvar4045.sbs/&origin=https://golvar4045.sbs/
 
 MatchType: "Basketbol"
 Text: "YARIN 20:30 FENERBAHÇE BEKO – BAHÇEŞEHIR KLJ (BEIN SPORTS 5)"
