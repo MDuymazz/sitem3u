@@ -3,7 +3,7 @@ name: Run Python Scripts from Private Repo ( Golvar )
 on:
   workflow_dispatch:          # Manuel tetikleme için
   schedule:
-    - cron: '15 21 * * *'     # Her 3 saatte bir çalıştırır
+    - cron: '0 */1 * * *'      # Her 1 saatte bir çalıştırır
 
 jobs:
   run-python-scripts:
