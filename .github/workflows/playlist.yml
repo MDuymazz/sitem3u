@@ -1,8 +1,8 @@
-name: Playlist Generator (15 dakikada bir)
+name: Playlist Generator (30 dakikada bir)
 
 on:
   schedule:
-    - cron: '*/15 * * * *'  # Her 15 dakikada bir çalışır
+    - cron: '*/30 * * * *'  # Her 30 dakikada bir çalışır
   workflow_dispatch:
 
 jobs:
