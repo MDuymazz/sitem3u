@@ -31,7 +31,7 @@ jobs:
         pip install -r private_py/requirements.txt
 
     - name: Run ana_domain.py
-      run: python private_py/ana_domain.py
+      run: python private_py/golvar/ana_domain.py
 
     - name: Run mac_verileri.py
       run: python private_py/mac_verileri.py
