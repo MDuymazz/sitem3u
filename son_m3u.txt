@@ -26,10 +26,6 @@ MatchType: "Futbol"
 Text: "CANLI (21:30) SCHALKE 04 – HAMBURG (TIVIBU SPOR 2)"
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5083/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2157.sbs/&origin=https://golvar2157.sbs/
 
-MatchType: "Basketbol"
-Text: "CANLI (20:30) DARÜŞŞAFAKA – GALATASARAY (BEIN SPORTS 5)"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5066/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2157.sbs/&origin=https://golvar2157.sbs/
-
 MatchType: "Futbol"
 Text: "YARIN 02:30 BOCA JUNIORS – ESTUDIANTES (SPOR SMART)"
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5091/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2157.sbs/&origin=https://golvar2157.sbs/
