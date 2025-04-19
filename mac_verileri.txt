@@ -1,6 +1,3 @@
-MatchType: "Basketbol"
-Text: "CANLI (04:30) MEMPHIS GRIZZLIES – DALLAS MAVERICKS (S SPORT)"
-
 MatchType: "Futbol"
 Text: "BUGÜN 12:00 FENERBAHÇE – MALATYASPOR (FB TV)"
 
