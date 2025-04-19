@@ -479,6 +479,21 @@ https://vavoo.to/play/3760496907/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/275850888/index.m3u8
 
+#EXTINF:-1 tvg-name="CANLI (21:45) MURCIA – JOVENTUT BADALONA (SPOR SMART)" tvg-logo="https://thumbs.dreamstime.com/b/simple-clean-crisp-creative-md-logo-icon-design-vector-format-170813699.jpg" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",CANLI (21:45) MURCIA – JOVENTUT BADALONA (SPOR SMART)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://golvar2157.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5091/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2157.sbs/&origin=https://golvar2157.sbs/
+
+#EXTINF:-1 tvg-name="CANLI (21:30) SCHALKE 04 – HAMBURG (BEIN SPORTS 2)" tvg-logo="https://thumbs.dreamstime.com/b/simple-clean-crisp-creative-md-logo-icon-design-vector-format-170813699.jpg" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",CANLI (21:30) SCHALKE 04 – HAMBURG (BEIN SPORTS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://golvar2157.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5063/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2157.sbs/&origin=https://golvar2157.sbs/
+
+#EXTINF:-1 tvg-name="CANLI (21:30) SCHALKE 04 – HAMBURG (TIVIBU SPOR 2)" tvg-logo="https://thumbs.dreamstime.com/b/simple-clean-crisp-creative-md-logo-icon-design-vector-format-170813699.jpg" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",CANLI (21:30) SCHALKE 04 – HAMBURG (TIVIBU SPOR 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://golvar2157.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5083/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2157.sbs/&origin=https://golvar2157.sbs/
+
 #EXTINF:-1 tvg-name="CANLI (20:30) DARÜŞŞAFAKA – GALATASARAY (BEIN SPORTS 5)" tvg-logo="https://thumbs.dreamstime.com/b/simple-clean-crisp-creative-md-logo-icon-design-vector-format-170813699.jpg" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",CANLI (20:30) DARÜŞŞAFAKA – GALATASARAY (BEIN SPORTS 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2157.sbs/
@@ -504,56 +519,6 @@ https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.work
 #EXTVLCOPT:http-referrer=https://golvar2157.sbs/
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5101/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2157.sbs/&origin=https://golvar2157.sbs/
 
-#EXTINF:-1 tvg-name="CANLI (19:00) BOLUSPOR – FATIH KARAGÜMRÜK (TRT SPOR)" tvg-logo="https://thumbs.dreamstime.com/b/simple-clean-crisp-creative-md-logo-icon-design-vector-format-170813699.jpg" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",CANLI (19:00) BOLUSPOR – FATIH KARAGÜMRÜK (TRT SPOR)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://golvar2157.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5032/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2157.sbs/&origin=https://golvar2157.sbs/
-
-#EXTINF:-1 tvg-name="CANLI (19:00) BOLUSPOR – FATIH KARAGÜMRÜK (BEIN SPORTS 2)" tvg-logo="https://thumbs.dreamstime.com/b/simple-clean-crisp-creative-md-logo-icon-design-vector-format-170813699.jpg" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",CANLI (19:00) BOLUSPOR – FATIH KARAGÜMRÜK (BEIN SPORTS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://golvar2157.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5063/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2157.sbs/&origin=https://golvar2157.sbs/
-
-#EXTINF:-1 tvg-name="CANLI (19:00) AMEDSPOR – ÇORUM FK (BEIN SPORTS MAX 2)" tvg-logo="https://thumbs.dreamstime.com/b/simple-clean-crisp-creative-md-logo-icon-design-vector-format-170813699.jpg" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",CANLI (19:00) AMEDSPOR – ÇORUM FK (BEIN SPORTS MAX 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://golvar2157.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5068/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2157.sbs/&origin=https://golvar2157.sbs/
-
-#EXTINF:-1 tvg-name="CANLI (19:00) AMEDSPOR – ÇORUM FK (TABII SPOR 6)" tvg-logo="https://thumbs.dreamstime.com/b/simple-clean-crisp-creative-md-logo-icon-design-vector-format-170813699.jpg" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",CANLI (19:00) AMEDSPOR – ÇORUM FK (TABII SPOR 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://golvar2157.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5077/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2157.sbs/&origin=https://golvar2157.sbs/
-
-#EXTINF:-1 tvg-name="CANLI (19:00) MONZA – NAPOLI (S SPORT 2)" tvg-logo="https://thumbs.dreamstime.com/b/simple-clean-crisp-creative-md-logo-icon-design-vector-format-170813699.jpg" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",CANLI (19:00) MONZA – NAPOLI (S SPORT 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://golvar2157.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5102/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2157.sbs/&origin=https://golvar2157.sbs/
-
-#EXTINF:-1 tvg-name="CANLI (19:00) GÖZTEPE – BEŞIKTAŞ (BEIN SPORTS 1)" tvg-logo="https://thumbs.dreamstime.com/b/simple-clean-crisp-creative-md-logo-icon-design-vector-format-170813699.jpg" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",CANLI (19:00) GÖZTEPE – BEŞIKTAŞ (BEIN SPORTS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://golvar2157.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5062/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2157.sbs/&origin=https://golvar2157.sbs/
-
-#EXTINF:-1 tvg-name="CANLI (19:00) UNICAJA MALAGA – BILBAO BASKET (SPOR SMART)" tvg-logo="https://thumbs.dreamstime.com/b/simple-clean-crisp-creative-md-logo-icon-design-vector-format-170813699.jpg" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",CANLI (19:00) UNICAJA MALAGA – BILBAO BASKET (SPOR SMART)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://golvar2157.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5091/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2157.sbs/&origin=https://golvar2157.sbs/
-
-#EXTINF:-1 tvg-name="BUGÜN 21:30 SCHALKE 04 – HAMBURG (TIVIBU SPOR 2)" tvg-logo="https://thumbs.dreamstime.com/b/simple-clean-crisp-creative-md-logo-icon-design-vector-format-170813699.jpg" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",BUGÜN 21:30 SCHALKE 04 – HAMBURG (TIVIBU SPOR 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://golvar2157.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5083/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2157.sbs/&origin=https://golvar2157.sbs/
-
-#EXTINF:-1 tvg-name="BUGÜN 21:30 SCHALKE 04 – HAMBURG (BEIN SPORTS 2)" tvg-logo="https://thumbs.dreamstime.com/b/simple-clean-crisp-creative-md-logo-icon-design-vector-format-170813699.jpg" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",BUGÜN 21:30 SCHALKE 04 – HAMBURG (BEIN SPORTS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://golvar2157.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5063/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2157.sbs/&origin=https://golvar2157.sbs/
-
-#EXTINF:-1 tvg-name="BUGÜN 21:45 MURCIA – JOVENTUT BADALONA (SPOR SMART)" tvg-logo="https://thumbs.dreamstime.com/b/simple-clean-crisp-creative-md-logo-icon-design-vector-format-170813699.jpg" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",BUGÜN 21:45 MURCIA – JOVENTUT BADALONA (SPOR SMART)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://golvar2157.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5091/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2157.sbs/&origin=https://golvar2157.sbs/
-
 #EXTINF:-1 tvg-name="BUGÜN 22:00 LAS PALMAS – ATLETICO MADRID (S SPORT)" tvg-logo="https://thumbs.dreamstime.com/b/simple-clean-crisp-creative-md-logo-icon-design-vector-format-170813699.jpg" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",BUGÜN 22:00 LAS PALMAS – ATLETICO MADRID (S SPORT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2157.sbs/
@@ -564,15 +529,15 @@ https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.work
 #EXTVLCOPT:http-referrer=https://golvar2157.sbs/
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5064/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2157.sbs/&origin=https://golvar2157.sbs/
 
-#EXTINF:-1 tvg-name="BUGÜN 22:30 GUIMARAES – BENFICA (TRT SPOR)" tvg-logo="https://thumbs.dreamstime.com/b/simple-clean-crisp-creative-md-logo-icon-design-vector-format-170813699.jpg" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",BUGÜN 22:30 GUIMARAES – BENFICA (TRT SPOR)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://golvar2157.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5032/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2157.sbs/&origin=https://golvar2157.sbs/
-
 #EXTINF:-1 tvg-name="BUGÜN 22:30 DENVER NUGGETS – LA CLIPPERS (S SPORT 2)" tvg-logo="https://thumbs.dreamstime.com/b/simple-clean-crisp-creative-md-logo-icon-design-vector-format-170813699.jpg" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",BUGÜN 22:30 DENVER NUGGETS – LA CLIPPERS (S SPORT 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2157.sbs/
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5102/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2157.sbs/&origin=https://golvar2157.sbs/
+
+#EXTINF:-1 tvg-name="BUGÜN 22:30 GUIMARAES – BENFICA (TRT SPOR)" tvg-logo="https://thumbs.dreamstime.com/b/simple-clean-crisp-creative-md-logo-icon-design-vector-format-170813699.jpg" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",BUGÜN 22:30 GUIMARAES – BENFICA (TRT SPOR)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://golvar2157.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5032/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2157.sbs/&origin=https://golvar2157.sbs/
 
 #EXTINF:-1 tvg-name="YARIN 02:30 BOCA JUNIORS – ESTUDIANTES (SPOR SMART)" tvg-logo="https://thumbs.dreamstime.com/b/simple-clean-crisp-creative-md-logo-icon-design-vector-format-170813699.jpg" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",YARIN 02:30 BOCA JUNIORS – ESTUDIANTES (SPOR SMART)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -594,6 +559,26 @@ https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.work
 #EXTVLCOPT:http-referrer=https://golvar2157.sbs/
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5052/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2157.sbs/&origin=https://golvar2157.sbs/
 
+#EXTINF:-1 tvg-name="YARIN 13:30 KEÇIÖRENGÜCÜ – ÜMRANIYESPOR (TRT SPOR)" tvg-logo="https://thumbs.dreamstime.com/b/simple-clean-crisp-creative-md-logo-icon-design-vector-format-170813699.jpg" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",YARIN 13:30 KEÇIÖRENGÜCÜ – ÜMRANIYESPOR (TRT SPOR)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://golvar2157.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5032/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2157.sbs/&origin=https://golvar2157.sbs/
+
+#EXTINF:-1 tvg-name="YARIN 13:30 KEÇIÖRENGÜCÜ – ÜMRANIYESPOR (BEIN SPORTS 2)" tvg-logo="https://thumbs.dreamstime.com/b/simple-clean-crisp-creative-md-logo-icon-design-vector-format-170813699.jpg" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",YARIN 13:30 KEÇIÖRENGÜCÜ – ÜMRANIYESPOR (BEIN SPORTS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://golvar2157.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5063/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2157.sbs/&origin=https://golvar2157.sbs/
+
+#EXTINF:-1 tvg-name="YARIN 13:30 Y.MALATYASPOR – ADANASPOR (BEIN SPORTS MAX 1)" tvg-logo="https://thumbs.dreamstime.com/b/simple-clean-crisp-creative-md-logo-icon-design-vector-format-170813699.jpg" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",YARIN 13:30 Y.MALATYASPOR – ADANASPOR (BEIN SPORTS MAX 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://golvar2157.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5067/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2157.sbs/&origin=https://golvar2157.sbs/
+
+#EXTINF:-1 tvg-name="YARIN 13:30 Y.MALATYASPOR – ADANASPOR (TABII SPOR 6)" tvg-logo="https://thumbs.dreamstime.com/b/simple-clean-crisp-creative-md-logo-icon-design-vector-format-170813699.jpg" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",YARIN 13:30 Y.MALATYASPOR – ADANASPOR (TABII SPOR 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://golvar2157.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5077/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2157.sbs/&origin=https://golvar2157.sbs/
+
 #EXTINF:-1 tvg-name="YARIN 13:30 RAMS BAŞAKŞEHIR – GAZIANTEP FK (BEIN SPORTS 1)" tvg-logo="https://thumbs.dreamstime.com/b/simple-clean-crisp-creative-md-logo-icon-design-vector-format-170813699.jpg" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",YARIN 13:30 RAMS BAŞAKŞEHIR – GAZIANTEP FK (BEIN SPORTS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2157.sbs/
@@ -604,45 +589,25 @@ https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.work
 #EXTVLCOPT:http-referrer=https://golvar2157.sbs/
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5091/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2157.sbs/&origin=https://golvar2157.sbs/
 
-#EXTINF:-1 tvg-name="YARIN 13:30 Y.MALATYASPOR – ADANASPOR (TABII SPOR 6)" tvg-logo="https://thumbs.dreamstime.com/b/simple-clean-crisp-creative-md-logo-icon-design-vector-format-170813699.jpg" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",YARIN 13:30 Y.MALATYASPOR – ADANASPOR (TABII SPOR 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://golvar2157.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5077/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2157.sbs/&origin=https://golvar2157.sbs/
-
-#EXTINF:-1 tvg-name="YARIN 13:30 Y.MALATYASPOR – ADANASPOR (BEIN SPORTS MAX 1)" tvg-logo="https://thumbs.dreamstime.com/b/simple-clean-crisp-creative-md-logo-icon-design-vector-format-170813699.jpg" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",YARIN 13:30 Y.MALATYASPOR – ADANASPOR (BEIN SPORTS MAX 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://golvar2157.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5067/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2157.sbs/&origin=https://golvar2157.sbs/
-
-#EXTINF:-1 tvg-name="YARIN 13:30 KEÇIÖRENGÜCÜ – ÜMRANIYESPOR (BEIN SPORTS 2)" tvg-logo="https://thumbs.dreamstime.com/b/simple-clean-crisp-creative-md-logo-icon-design-vector-format-170813699.jpg" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",YARIN 13:30 KEÇIÖRENGÜCÜ – ÜMRANIYESPOR (BEIN SPORTS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://golvar2157.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5063/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2157.sbs/&origin=https://golvar2157.sbs/
-
-#EXTINF:-1 tvg-name="YARIN 13:30 KEÇIÖRENGÜCÜ – ÜMRANIYESPOR (TRT SPOR)" tvg-logo="https://thumbs.dreamstime.com/b/simple-clean-crisp-creative-md-logo-icon-design-vector-format-170813699.jpg" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",YARIN 13:30 KEÇIÖRENGÜCÜ – ÜMRANIYESPOR (TRT SPOR)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://golvar2157.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5032/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2157.sbs/&origin=https://golvar2157.sbs/
-
 #EXTINF:-1 tvg-name="YARIN 14:30 DARMSTADT 98 – HANNOVER 96 (TIVIBU SPOR 3)" tvg-logo="https://thumbs.dreamstime.com/b/simple-clean-crisp-creative-md-logo-icon-design-vector-format-170813699.jpg" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",YARIN 14:30 DARMSTADT 98 – HANNOVER 96 (TIVIBU SPOR 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2157.sbs/
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5084/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2157.sbs/&origin=https://golvar2157.sbs/
 
-#EXTINF:-1 tvg-name="YARIN 14:30 KÖLN – PREUSSEN MÜNSTER (TIVIBU SPOR 2)" tvg-logo="https://thumbs.dreamstime.com/b/simple-clean-crisp-creative-md-logo-icon-design-vector-format-170813699.jpg" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",YARIN 14:30 KÖLN – PREUSSEN MÜNSTER (TIVIBU SPOR 2)
+#EXTINF:-1 tvg-name="YARIN 14:30 ULM – HERTHA BERLIN (TIVIBU SPOR 4)" tvg-logo="https://thumbs.dreamstime.com/b/simple-clean-crisp-creative-md-logo-icon-design-vector-format-170813699.jpg" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",YARIN 14:30 ULM – HERTHA BERLIN (TIVIBU SPOR 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2157.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5083/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2157.sbs/&origin=https://golvar2157.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5085/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2157.sbs/&origin=https://golvar2157.sbs/
 
 #EXTINF:-1 tvg-name="YARIN 14:30 MAGDEBURG – JAHN REGENSBURG (TIVIBU SPOR 4)" tvg-logo="https://thumbs.dreamstime.com/b/simple-clean-crisp-creative-md-logo-icon-design-vector-format-170813699.jpg" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",YARIN 14:30 MAGDEBURG – JAHN REGENSBURG (TIVIBU SPOR 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2157.sbs/
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5085/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2157.sbs/&origin=https://golvar2157.sbs/
 
-#EXTINF:-1 tvg-name="YARIN 14:30 ULM – HERTHA BERLIN (TIVIBU SPOR 4)" tvg-logo="https://thumbs.dreamstime.com/b/simple-clean-crisp-creative-md-logo-icon-design-vector-format-170813699.jpg" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",YARIN 14:30 ULM – HERTHA BERLIN (TIVIBU SPOR 4)
+#EXTINF:-1 tvg-name="YARIN 14:30 KÖLN – PREUSSEN MÜNSTER (TIVIBU SPOR 2)" tvg-logo="https://thumbs.dreamstime.com/b/simple-clean-crisp-creative-md-logo-icon-design-vector-format-170813699.jpg" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",YARIN 14:30 KÖLN – PREUSSEN MÜNSTER (TIVIBU SPOR 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2157.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5085/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2157.sbs/&origin=https://golvar2157.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5083/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2157.sbs/&origin=https://golvar2157.sbs/
 
 #EXTINF:-1 tvg-name="YARIN 15:00 BURSASPOR – BORNOVA FK (HT SPOR)" tvg-logo="https://thumbs.dreamstime.com/b/simple-clean-crisp-creative-md-logo-icon-design-vector-format-170813699.jpg" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",YARIN 15:00 BURSASPOR – BORNOVA FK (HT SPOR)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -664,10 +629,10 @@ https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.work
 #EXTVLCOPT:http-referrer=https://golvar2157.sbs/
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5062/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2157.sbs/&origin=https://golvar2157.sbs/
 
-#EXTINF:-1 tvg-name="YARIN 16:00 MANCHESTER UTD – WOLVERHAMPTON (BEIN SPORTS MAX 2)" tvg-logo="https://thumbs.dreamstime.com/b/simple-clean-crisp-creative-md-logo-icon-design-vector-format-170813699.jpg" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",YARIN 16:00 MANCHESTER UTD – WOLVERHAMPTON (BEIN SPORTS MAX 2)
+#EXTINF:-1 tvg-name="YARIN 16:00 EMPOLI – VENEZIA (S SPORT 2)" tvg-logo="https://thumbs.dreamstime.com/b/simple-clean-crisp-creative-md-logo-icon-design-vector-format-170813699.jpg" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",YARIN 16:00 EMPOLI – VENEZIA (S SPORT 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2157.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5068/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2157.sbs/&origin=https://golvar2157.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5102/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2157.sbs/&origin=https://golvar2157.sbs/
 
 #EXTINF:-1 tvg-name="YARIN 16:00 IPSWICH TOWN – ARSENAL (BEIN SPORTS 3)" tvg-logo="https://thumbs.dreamstime.com/b/simple-clean-crisp-creative-md-logo-icon-design-vector-format-170813699.jpg" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",YARIN 16:00 IPSWICH TOWN – ARSENAL (BEIN SPORTS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -684,10 +649,10 @@ https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.work
 #EXTVLCOPT:http-referrer=https://golvar2157.sbs/
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5063/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2157.sbs/&origin=https://golvar2157.sbs/
 
-#EXTINF:-1 tvg-name="YARIN 16:00 EMPOLI – VENEZIA (S SPORT 2)" tvg-logo="https://thumbs.dreamstime.com/b/simple-clean-crisp-creative-md-logo-icon-design-vector-format-170813699.jpg" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",YARIN 16:00 EMPOLI – VENEZIA (S SPORT 2)
+#EXTINF:-1 tvg-name="YARIN 16:00 MANCHESTER UTD – WOLVERHAMPTON (BEIN SPORTS MAX 2)" tvg-logo="https://thumbs.dreamstime.com/b/simple-clean-crisp-creative-md-logo-icon-design-vector-format-170813699.jpg" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",YARIN 16:00 MANCHESTER UTD – WOLVERHAMPTON (BEIN SPORTS MAX 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2157.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5102/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2157.sbs/&origin=https://golvar2157.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5068/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2157.sbs/&origin=https://golvar2157.sbs/
 
 #EXTINF:-1 tvg-name="YARIN 16:00 FULHAM – CHELSEA (BEIN SPORTS MAX 1)" tvg-logo="https://thumbs.dreamstime.com/b/simple-clean-crisp-creative-md-logo-icon-design-vector-format-170813699.jpg" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",YARIN 16:00 FULHAM – CHELSEA (BEIN SPORTS MAX 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -788,312 +753,6 @@ https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.work
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2157.sbs/
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5101/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2157.sbs/&origin=https://golvar2157.sbs/
-
-#EXTINF:-1 tvg-id="20:00 TV SHOWS MAJOR LEAGUE FISHING’S BASS PRO TOUR SEASON 6, EPISODE 16OUTDOOR CHANNEL" tvg-logo="zeko" group-title="GÜNLÜK DÜNYA SPORLARI",20:00 TV SHOWS MAJOR LEAGUE FISHING’S BASS PRO TOUR SEASON 6, EPISODE 16OUTDOOR CHANNEL
-#EXTVLCOPT:http-origin=https://xtreaweb.top
-#EXTVLCOPT:http-referrer=https://xtreaweb.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium848/mono.m3u8
-
-#EXTINF:-1 tvg-id="20:00 TV SHOWS BUILD FOR OFF-ROADMOTOR TREND" tvg-logo="dokko1" group-title="GÜNLÜK DÜNYA SPORLARI",20:00 TV SHOWS BUILD FOR OFF-ROADMOTOR TREND
-#EXTVLCOPT:http-origin=https://xtreaweb.top
-#EXTVLCOPT:http-referrer=https://xtreaweb.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dokko1new.newkso.ru/dokko1/premium661/mono.m3u8
-
-#EXTINF:-1 tvg-id="20:00 TV SHOWS BEER BUDGET RENO SEASON 1, EPISODE 3A&E TV USA" tvg-logo="zeko" group-title="GÜNLÜK DÜNYA SPORLARI",20:00 TV SHOWS BEER BUDGET RENO SEASON 1, EPISODE 3A&E TV USA
-#EXTVLCOPT:http-origin=https://xtreaweb.top
-#EXTVLCOPT:http-referrer=https://xtreaweb.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium302/mono.m3u8
-
-#EXTINF:-1 tvg-id="20:00 TV SHOWS GUY’S RANCH KITCHEN SEASON 7, EPISODE 4THE FOOD NETWORK" tvg-logo="zeko" group-title="GÜNLÜK DÜNYA SPORLARI",20:00 TV SHOWS GUY’S RANCH KITCHEN SEASON 7, EPISODE 4THE FOOD NETWORK
-#EXTVLCOPT:http-origin=https://xtreaweb.top
-#EXTVLCOPT:http-referrer=https://xtreaweb.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium384/mono.m3u8
-
-#EXTINF:-1 tvg-id="20:00 TV SHOWS HEARTS OF HEROES SEASON 6, EPISODE 22ABC NY USA" tvg-logo="zeko" group-title="GÜNLÜK DÜNYA SPORLARI",20:00 TV SHOWS HEARTS OF HEROES SEASON 6, EPISODE 22ABC NY USA
-#EXTVLCOPT:http-origin=https://xtreaweb.top
-#EXTVLCOPT:http-referrer=https://xtreaweb.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium766/mono.m3u8
-
-#EXTINF:-1 tvg-id="20:00 TV SHOWS MISSION UNSTOPPABLE SEASON 6, EPISODE 17CBSNY USA" tvg-logo="zeko" group-title="GÜNLÜK DÜNYA SPORLARI",20:00 TV SHOWS MISSION UNSTOPPABLE SEASON 6, EPISODE 17CBSNY USA
-#EXTVLCOPT:http-origin=https://xtreaweb.top
-#EXTVLCOPT:http-referrer=https://xtreaweb.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium767/mono.m3u8
-
-#EXTINF:-1 tvg-id="20:00 SOCCER SWITZERLAND SUPER LEAGUE : GRASSHOPPER VS WINTERTHURBLUE SPORT D 1" tvg-logo="wind" group-title="GÜNLÜK DÜNYA SPORLARI",20:00 SOCCER SWITZERLAND SUPER LEAGUE : GRASSHOPPER VS WINTERTHURBLUE SPORT D 1
-#EXTVLCOPT:http-origin=https://xtreaweb.top
-#EXTVLCOPT:http-referrer=https://xtreaweb.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium178/mono.m3u8
-
-#EXTINF:-1 tvg-id="20:00 SOCCER TURKEY – 1. LIG : BOLUSPOR VS FATIH KARAGÜMRÜKTRT SPOR TURKEY" tvg-logo="wind" group-title="GÜNLÜK DÜNYA SPORLARI",20:00 SOCCER TURKEY – 1. LIG : BOLUSPOR VS FATIH KARAGÜMRÜKTRT SPOR TURKEY
-#EXTVLCOPT:http-origin=https://xtreaweb.top
-#EXTVLCOPT:http-referrer=https://xtreaweb.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium889/mono.m3u8
-
-#EXTINF:-1 tvg-id="20:00 SOCCER SPAIN – PRIMERA DIVISIÓN FEMENINA : ESPANYOL VS LEVANTE LAS PLANASDAZN2 SPAIN" tvg-logo="zeko" group-title="GÜNLÜK DÜNYA SPORLARI",20:00 SOCCER SPAIN – PRIMERA DIVISIÓN FEMENINA : ESPANYOL VS LEVANTE LAS PLANASDAZN2 SPAIN
-#EXTVLCOPT:http-origin=https://xtreaweb.top
-#EXTVLCOPT:http-referrer=https://xtreaweb.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium446/mono.m3u8
-
-#EXTINF:-1 tvg-id="20:00 SOCCER AZERBAIJAN – PREMIER LIQA : QARABAĞ VS NEFTÇICBC SPORT AZERBAIJAN" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",20:00 SOCCER AZERBAIJAN – PREMIER LIQA : QARABAĞ VS NEFTÇICBC SPORT AZERBAIJAN
-#EXTVLCOPT:http-origin=https://xtreaweb.top
-#EXTVLCOPT:http-referrer=https://xtreaweb.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium23/mono.m3u8
-
-#EXTINF:-1 tvg-id="20:00 SOCCER ITALY – SERIE A : MONZA VS NAPOLIDAZN ZONA IT |DAZN2 DE |SPORT TV5 PORTUGAL |ELEVEN SPORTS 3 POLAND |ABU DHABI SPORTS PREMIUM 1 |ZIGGO SPORT 1 NL |ZIGGO SPORT 5 NL |MATCH! FOOTBALL 1 RUSSIA |DIGI SPORT 3 ROMANIA |ASTRO FOOTBALL |ARENA SPORT 1 SERBIA |CYTAVISION SPORTS 4 CYPRUS |COSMOTE SPORT 1 GREECE |ARENA SPORT 4 CROATIA |TV4 FOTBALL |MAX SPORT 3 BULGARIA |SUPERSPORT FOOTBALL |ESPN4 BR" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",20:00 SOCCER ITALY – SERIE A : MONZA VS NAPOLIDAZN ZONA IT |DAZN2 DE |SPORT TV5 PORTUGAL |ELEVEN SPORTS 3 POLAND |ABU DHABI SPORTS PREMIUM 1 |ZIGGO SPORT 1 NL |ZIGGO SPORT 5 NL |MATCH! FOOTBALL 1 RUSSIA |DIGI SPORT 3 ROMANIA |ASTRO FOOTBALL |ARENA SPORT 1 SERBIA |CYTAVISION SPORTS 4 CYPRUS |COSMOTE SPORT 1 GREECE |ARENA SPORT 4 CROATIA |TV4 FOTBALL |MAX SPORT 3 BULGARIA |SUPERSPORT FOOTBALL |ESPN4 BR
-#EXTVLCOPT:http-origin=https://xtreaweb.top
-#EXTVLCOPT:http-referrer=https://xtreaweb.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium877/mono.m3u8
-
-#EXTINF:-1 tvg-id="20:00 SOCCER SUPER LIG : GÖZTEPE VS BEŞIKTAŞBEIN SPORTS 1 TURKEY |SPORT TV6 PORTUGAL |SPORT KLUB 2 CROATIA |BEIN SPORTS MAX 8 FRANCE" tvg-logo="zeko" group-title="GÜNLÜK DÜNYA SPORLARI",20:00 SOCCER SUPER LIG : GÖZTEPE VS BEŞIKTAŞBEIN SPORTS 1 TURKEY |SPORT TV6 PORTUGAL |SPORT KLUB 2 CROATIA |BEIN SPORTS MAX 8 FRANCE
-#EXTVLCOPT:http-origin=https://xtreaweb.top
-#EXTVLCOPT:http-referrer=https://xtreaweb.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium62/mono.m3u8
-
-#EXTINF:-1 tvg-id="20:00 SOCCER BULGARIA – PARVA LIGA : LUDOGORETS VS SPARTAK VARNADIEMA SPORT BULGARIA" tvg-logo="wind" group-title="GÜNLÜK DÜNYA SPORLARI",20:00 SOCCER BULGARIA – PARVA LIGA : LUDOGORETS VS SPARTAK VARNADIEMA SPORT BULGARIA
-#EXTVLCOPT:http-origin=https://xtreaweb.top
-#EXTVLCOPT:http-referrer=https://xtreaweb.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium465/mono.m3u8
-
-#EXTINF:-1 tvg-id="20:00 BOXING BKB 40: CARDIFF BRAWL IIISPORT KLUB FIGHT CROATIA" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",20:00 BOXING BKB 40: CARDIFF BRAWL IIISPORT KLUB FIGHT CROATIA
-#EXTVLCOPT:http-origin=https://xtreaweb.top
-#EXTVLCOPT:http-referrer=https://xtreaweb.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium180/mono.m3u8
-
-#EXTINF:-1 tvg-id="20:00 BASEBALL COLLEGE SOFTBALL : LOUISIANA STATE UNIVERSITY VS TEXASESPN2 USA" tvg-logo="wind" group-title="GÜNLÜK DÜNYA SPORLARI",20:00 BASEBALL COLLEGE SOFTBALL : LOUISIANA STATE UNIVERSITY VS TEXASESPN2 USA
-#EXTVLCOPT:http-origin=https://xtreaweb.top
-#EXTVLCOPT:http-referrer=https://xtreaweb.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium45/mono.m3u8
-
-#EXTINF:-1 tvg-id="20:00 BASEBALL COLLEGE SOFTBALL : MISSISSIPPI  VS GEORGIASEC NETWORK USA" tvg-logo="zeko" group-title="GÜNLÜK DÜNYA SPORLARI",20:00 BASEBALL COLLEGE SOFTBALL : MISSISSIPPI  VS GEORGIASEC NETWORK USA
-#EXTVLCOPT:http-origin=https://xtreaweb.top
-#EXTVLCOPT:http-referrer=https://xtreaweb.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium385/mono.m3u8
-
-#EXTINF:-1 tvg-id="20:00 BASKETBALL ACB : CB UNICAJA MALAGA VS. BILBAO BASKETMOVISTAR DEPORTES SPAIN |ARENA SPORT 4 SERBIA |SPORTDIGITAL+ DE |SPORT KLUB 4 CROATIA" tvg-logo="zeko" group-title="GÜNLÜK DÜNYA SPORLARI",20:00 BASKETBALL ACB : CB UNICAJA MALAGA VS. BILBAO BASKETMOVISTAR DEPORTES SPAIN |ARENA SPORT 4 SERBIA |SPORTDIGITAL+ DE |SPORT KLUB 4 CROATIA
-#EXTVLCOPT:http-origin=https://xtreaweb.top
-#EXTVLCOPT:http-referrer=https://xtreaweb.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium436/mono.m3u8
-
-#EXTINF:-1 tvg-id="20:00 BASKETBALL SLOVENIAN LEAGUE : PLAYOFF – FINALE : BRANIK MARIBOR VS CALCIT KAMNIKSPORT KLUB 8 CROATIA" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",20:00 BASKETBALL SLOVENIAN LEAGUE : PLAYOFF – FINALE : BRANIK MARIBOR VS CALCIT KAMNIKSPORT KLUB 8 CROATIA
-#EXTVLCOPT:http-origin=https://xtreaweb.top
-#EXTVLCOPT:http-referrer=https://xtreaweb.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium181/mono.m3u8
-
-#EXTINF:-1 tvg-id="20:00 BASKETBALL LNB : SAINT QUENTIN VS CHOLETDAZN1 FRANCE" tvg-logo="ddy6" group-title="GÜNLÜK DÜNYA SPORLARI",20:00 BASKETBALL LNB : SAINT QUENTIN VS CHOLETDAZN1 FRANCE
-#EXTVLCOPT:http-origin=https://xtreaweb.top
-#EXTVLCOPT:http-referrer=https://xtreaweb.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium55/mono.m3u8
-
-#EXTINF:-1 tvg-id="20:00 HANDBALL CHAMPIONS LEAGUE WOMEN : BREST BRETAGNE HB VS. METZ HANDBALLSPORT 1 HUNGARY |EUROSPORT 1 FRANCE" tvg-logo="ddy6" group-title="GÜNLÜK DÜNYA SPORLARI",20:00 HANDBALL CHAMPIONS LEAGUE WOMEN : BREST BRETAGNE HB VS. METZ HANDBALLSPORT 1 HUNGARY |EUROSPORT 1 FRANCE
-#EXTVLCOPT:http-origin=https://xtreaweb.top
-#EXTVLCOPT:http-referrer=https://xtreaweb.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium152/mono.m3u8
-
-#EXTINF:-1 tvg-id="20:00 LACROSSE MEN’S COLLEGE LACROSSE : CORNELL AT HARVARDNESN USA" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",20:00 LACROSSE MEN’S COLLEGE LACROSSE : CORNELL AT HARVARDNESN USA
-#EXTVLCOPT:http-origin=https://xtreaweb.top
-#EXTVLCOPT:http-referrer=https://xtreaweb.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium762/mono.m3u8
-
-#EXTINF:-1 tvg-id="20:00 LACROSSE WOMEN’S COLLEGE LACROSSE : MARQUETTE VS. GEORGETOWNFOX SPORTS 1 USA" tvg-logo="zeko" group-title="GÜNLÜK DÜNYA SPORLARI",20:00 LACROSSE WOMEN’S COLLEGE LACROSSE : MARQUETTE VS. GEORGETOWNFOX SPORTS 1 USA
-#EXTVLCOPT:http-origin=https://xtreaweb.top
-#EXTVLCOPT:http-referrer=https://xtreaweb.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium39/mono.m3u8
-
-#EXTINF:-1 tvg-id="20:00 LACROSSE MEN’S COLLEGE LACROSSE : NOTRE DAME VS. NORTH CAROLINA ESPNU USA" tvg-logo="zeko" group-title="GÜNLÜK DÜNYA SPORLARI",20:00 LACROSSE MEN’S COLLEGE LACROSSE : NOTRE DAME VS. NORTH CAROLINA ESPNU USA
-#EXTVLCOPT:http-origin=https://xtreaweb.top
-#EXTVLCOPT:http-referrer=https://xtreaweb.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium316/mono.m3u8
-
-#EXTINF:-1 tvg-id="20:00 VOLLEYBALL PRO VOLLEYBALL FEDERATION : INDY IGNITE VS GRAND RAPIDS RISECBS SPORTS NETWORK USA" tvg-logo="zeko" group-title="GÜNLÜK DÜNYA SPORLARI",20:00 VOLLEYBALL PRO VOLLEYBALL FEDERATION : INDY IGNITE VS GRAND RAPIDS RISECBS SPORTS NETWORK USA
-#EXTVLCOPT:http-origin=https://xtreaweb.top
-#EXTVLCOPT:http-referrer=https://xtreaweb.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium308/mono.m3u8
-
-#EXTINF:-1 tvg-id="20:00 WEIGHTLIFTING EUROPEAN WEIGHTLIFTING CHAMPIONSHIPS: MENRING BG |SPORT 5 GOLD ISRAEL" tvg-logo="wind" group-title="GÜNLÜK DÜNYA SPORLARI",20:00 WEIGHTLIFTING EUROPEAN WEIGHTLIFTING CHAMPIONSHIPS: MENRING BG |SPORT 5 GOLD ISRAEL
-#EXTVLCOPT:http-origin=https://xtreaweb.top
-#EXTVLCOPT:http-referrer=https://xtreaweb.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium471/mono.m3u8
-
-#EXTINF:-1 tvg-id="20:10 TENNIS WTA 500: J. PAOLINI  VS C. GAUFF SKY SPORTS TENNIS DE" tvg-logo="wind" group-title="GÜNLÜK DÜNYA SPORLARI",20:10 TENNIS WTA 500: J. PAOLINI  VS C. GAUFF SKY SPORTS TENNIS DE
-#EXTVLCOPT:http-origin=https://xtreaweb.top
-#EXTVLCOPT:http-referrer=https://xtreaweb.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium884/mono.m3u8
-
-#EXTINF:-1 tvg-id="20:15 SOCCER BELGIUM – PRO LEAGUE : SPORTING CHARLEROI VS MECHELENDAZN PRO LEAGUE 1 BELGIUM" tvg-logo="ddy6" group-title="GÜNLÜK DÜNYA SPORLARI",20:15 SOCCER BELGIUM – PRO LEAGUE : SPORTING CHARLEROI VS MECHELENDAZN PRO LEAGUE 1 BELGIUM
-#EXTVLCOPT:http-origin=https://xtreaweb.top
-#EXTVLCOPT:http-referrer=https://xtreaweb.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium105/mono.m3u8
-
-#EXTINF:-1 tvg-id="20:15 RUGBY UNION UNITED RUGBY CHAMPIONSHIP : MUNSTER VS BULLSVIAPLAY SPORTS 1 UK |RTE 2 |SUPERSPORT RUGBY |SUPERSPORT GRANDSTAND" tvg-logo="wind" group-title="GÜNLÜK DÜNYA SPORLARI",20:15 RUGBY UNION UNITED RUGBY CHAMPIONSHIP : MUNSTER VS BULLSVIAPLAY SPORTS 1 UK |RTE 2 |SUPERSPORT RUGBY |SUPERSPORT GRANDSTAND
-#EXTVLCOPT:http-origin=https://xtreaweb.top
-#EXTVLCOPT:http-referrer=https://xtreaweb.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium451/mono.m3u8
-
-#EXTINF:-1 tvg-id="20:25 SOCCER SAUDI ARABIA – PRO LEAGUE : AL ORUBAH VS AL RAEDSSC EXTRA 1" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",20:25 SOCCER SAUDI ARABIA – PRO LEAGUE : AL ORUBAH VS AL RAEDSSC EXTRA 1
-#EXTVLCOPT:http-origin=https://xtreaweb.top
-#EXTVLCOPT:http-referrer=https://xtreaweb.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium21/mono.m3u8
-
-#EXTINF:-1 tvg-id="20:30 SOCCER PORTUGAL U19 CHAMPIONSHIP : FC PORTO VS. GIL VICENTEPORTO CANAL" tvg-logo="ddy6" group-title="GÜNLÜK DÜNYA SPORLARI",20:30 SOCCER PORTUGAL U19 CHAMPIONSHIP : FC PORTO VS. GIL VICENTEPORTO CANAL
-#EXTVLCOPT:http-origin=https://xtreaweb.top
-#EXTVLCOPT:http-referrer=https://xtreaweb.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium718/mono.m3u8
-
-#EXTINF:-1 tvg-id="20:30 SOCCER RUSSIA – PREMIER LEAGUE : KRASNODAR VS AKHMAT GROZNYMATCH PREMIER RUSSIA |MATCH TV RUSSIA" tvg-logo="ddy6" group-title="GÜNLÜK DÜNYA SPORLARI",20:30 SOCCER RUSSIA – PREMIER LEAGUE : KRASNODAR VS AKHMAT GROZNYMATCH PREMIER RUSSIA |MATCH TV RUSSIA
-#EXTVLCOPT:http-origin=https://xtreaweb.top
-#EXTVLCOPT:http-referrer=https://xtreaweb.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium573/mono.m3u8
-
-#EXTINF:-1 tvg-id="20:30 SOCCER ENGLAND – PREMIER LEAGUE : ASTON VILLA VS NEWCASTLE UNITEDOPTUS SPORT |NBC USA |NBCNY USA |SKY SPORT 8 NZ |SKY SPORTS MAIN EVENT UK |SKY SPORTS PREMIER LEAGUE UK |NBC UNIVERSO USA |SKY SPORT 8 NZ |TELEMUNDO |DAZN1 SPAIN |SKY SPORT PREMIER LEAGUE DE |DAZN ELEVEN 1 PORTUGAL |CANAL+ SPORT POLAND |SKY SPORT CALCIO IT |CANAL+ FOOT FRANCE |CANAL+ LIVE 7 FRANCE |CYTAVISION SPORTS 3 CYPRUS |DIGI SPORT 2 ROMANIA |ASTRO PREMIER LEAGUE |ARENA PREMIUM 1 SERBIA |ASTRO GRANDSTAND |NOVA SPORTS PREMIER LEAGUE GREECE |ARENA SPORT 1 CROATIA |DIEMA SPORT 2 BULGARIA |ESPN BRAZIL |ESPN ARGENTINA |SUPERSPORT PREMIER LEAGUE |BEIN SPORTS MENA ENGLISH 1 |SPORT 1 ISRAEL" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",20:30 SOCCER ENGLAND – PREMIER LEAGUE : ASTON VILLA VS NEWCASTLE UNITEDOPTUS SPORT |NBC USA |NBCNY USA |SKY SPORT 8 NZ |SKY SPORTS MAIN EVENT UK |SKY SPORTS PREMIER LEAGUE UK |NBC UNIVERSO USA |SKY SPORT 8 NZ |TELEMUNDO |DAZN1 SPAIN |SKY SPORT PREMIER LEAGUE DE |DAZN ELEVEN 1 PORTUGAL |CANAL+ SPORT POLAND |SKY SPORT CALCIO IT |CANAL+ FOOT FRANCE |CANAL+ LIVE 7 FRANCE |CYTAVISION SPORTS 3 CYPRUS |DIGI SPORT 2 ROMANIA |ASTRO PREMIER LEAGUE |ARENA PREMIUM 1 SERBIA |ASTRO GRANDSTAND |NOVA SPORTS PREMIER LEAGUE GREECE |ARENA SPORT 1 CROATIA |DIEMA SPORT 2 BULGARIA |ESPN BRAZIL |ESPN ARGENTINA |SUPERSPORT PREMIER LEAGUE |BEIN SPORTS MENA ENGLISH 1 |SPORT 1 ISRAEL
-#EXTVLCOPT:http-origin=https://xtreaweb.top
-#EXTVLCOPT:http-referrer=https://xtreaweb.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium25/mono.m3u8
-
-#EXTINF:-1 tvg-id="20:30 SOCCER BUNDESLIGA : UNION BERLIN VS STUTTGART TACTICAL FEEDSKY SPORT BUNDESLIGA 3" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",20:30 SOCCER BUNDESLIGA : UNION BERLIN VS STUTTGART TACTICAL FEEDSKY SPORT BUNDESLIGA 3
-#EXTVLCOPT:http-origin=https://xtreaweb.top
-#EXTVLCOPT:http-referrer=https://xtreaweb.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium7/mono.m3u8
-
-#EXTINF:-1 tvg-id="20:30 SOCCER BUNDESLIGA : UNION BERLIN VS STUTTGARTSKY SPORT BUNDESLIGA 1 |SKY SPORT TOP EVENT DE |SKY SPORTS FOOTBALL UK |DAZN ELEVEN 3 PORTUGAL |ELEVEN SPORTS 4 POLAND |TIVIBU SPOR 1 TURKEY |BEIN SPORTS 2 FRANCE |SONY TEN 2 HD |MATCH! FOOTBALL 3 RUSSIA |ARENA PREMIUM 2 SERBIA |NOVA SPORTS PRIME GREECE |SEE DENMARK |V SPORT FOOTBALL |NOVA SPORT BULGARIA |ESPN2 ARGENTINA |BEIN SPORTS MENA 5" tvg-logo="ddy6" group-title="GÜNLÜK DÜNYA SPORLARI",20:30 SOCCER BUNDESLIGA : UNION BERLIN VS STUTTGARTSKY SPORT BUNDESLIGA 1 |SKY SPORT TOP EVENT DE |SKY SPORTS FOOTBALL UK |DAZN ELEVEN 3 PORTUGAL |ELEVEN SPORTS 4 POLAND |TIVIBU SPOR 1 TURKEY |BEIN SPORTS 2 FRANCE |SONY TEN 2 HD |MATCH! FOOTBALL 3 RUSSIA |ARENA PREMIUM 2 SERBIA |NOVA SPORTS PRIME GREECE |SEE DENMARK |V SPORT FOOTBALL |NOVA SPORT BULGARIA |ESPN2 ARGENTINA |BEIN SPORTS MENA 5
-#EXTVLCOPT:http-origin=https://xtreaweb.top
-#EXTVLCOPT:http-referrer=https://xtreaweb.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium558/mono.m3u8
-
-#EXTINF:-1 tvg-id="20:30 SOCCER SPAIN – LA LIGA : MALLORCA VS LEGANÉSM+ LALIGA TV |LALIGATV UK |DAZN1 DE |DAZN ELEVEN 2 PORTUGA L|BEIN SPORTS MAX 8 FRANCE |MATCH! FOOTBALL 2 RUSSIA |ZIGGO SPORT 2 NL |ESPN DEPORTES |NOVA SPORTS 1 GREECE |ARENA SPORT 2 CROATIA |ARENA SPORT 2 SERBIA |TV4 SPORT LIVE 1 |MAX SPORT 4 BULGARIA |SUPERSPORT LALIGA |BEIN SPORTS MENA 2" tvg-logo="wind" group-title="GÜNLÜK DÜNYA SPORLARI",20:30 SOCCER SPAIN – LA LIGA : MALLORCA VS LEGANÉSM+ LALIGA TV |LALIGATV UK |DAZN1 DE |DAZN ELEVEN 2 PORTUGA L|BEIN SPORTS MAX 8 FRANCE |MATCH! FOOTBALL 2 RUSSIA |ZIGGO SPORT 2 NL |ESPN DEPORTES |NOVA SPORTS 1 GREECE |ARENA SPORT 2 CROATIA |ARENA SPORT 2 SERBIA |TV4 SPORT LIVE 1 |MAX SPORT 4 BULGARIA |SUPERSPORT LALIGA |BEIN SPORTS MENA 2
-#EXTVLCOPT:http-origin=https://xtreaweb.top
-#EXTVLCOPT:http-referrer=https://xtreaweb.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium84/mono.m3u8
-
-#EXTINF:-1 tvg-id="20:30 SOCCER SPAIN – SEGUNDA DIVISION : LEVANTE VS REAL ZARAGOZALALIGA TV HYPERMOTION |#VAMOS ES |ESPN+ USA |BEIN SPORTS MAX 7 FRANCE" tvg-logo="dokko1" group-title="GÜNLÜK DÜNYA SPORLARI",20:30 SOCCER SPAIN – SEGUNDA DIVISION : LEVANTE VS REAL ZARAGOZALALIGA TV HYPERMOTION |#VAMOS ES |ESPN+ USA |BEIN SPORTS MAX 7 FRANCE
-#EXTVLCOPT:http-origin=https://xtreaweb.top
-#EXTVLCOPT:http-referrer=https://xtreaweb.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dokko1new.newkso.ru/dokko1/premium539/mono.m3u8
-
-#EXTINF:-1 tvg-id="20:30 SOCCER ITALY – SERIE C : FOGGIA VS MESSINASKY SPORT 257 IT" tvg-logo="ddy6" group-title="GÜNLÜK DÜNYA SPORLARI",20:30 SOCCER ITALY – SERIE C : FOGGIA VS MESSINASKY SPORT 257 IT
-#EXTVLCOPT:http-origin=https://xtreaweb.top
-#EXTVLCOPT:http-referrer=https://xtreaweb.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium55/mono.m3u8
-
-#EXTINF:-1 tvg-id="20:30 SOCCER ITALY – SERIE C : TEAM ALTAMURA VS AUDACE CERIGNOLASKY SPORT 253 IT" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",20:30 SOCCER ITALY – SERIE C : TEAM ALTAMURA VS AUDACE CERIGNOLASKY SPORT 253 IT
-#EXTVLCOPT:http-origin=https://xtreaweb.top
-#EXTVLCOPT:http-referrer=https://xtreaweb.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium30/mono.m3u8
-
-#EXTINF:-1 tvg-id="20:30 SOCCER ITALY – SERIE C : SORRENTO VS AVELLINOSKY SPORT 252 IT" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",20:30 SOCCER ITALY – SERIE C : SORRENTO VS AVELLINOSKY SPORT 252 IT
-#EXTVLCOPT:http-origin=https://xtreaweb.top
-#EXTVLCOPT:http-referrer=https://xtreaweb.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium20/mono.m3u8
-
-#EXTINF:-1 tvg-id="20:30 SOCCER ITALY – SERIE C : JUVENTUS II VS CAVESESKY SPORT 254 IT" tvg-logo="dokko1" group-title="GÜNLÜK DÜNYA SPORLARI",20:30 SOCCER ITALY – SERIE C : JUVENTUS II VS CAVESESKY SPORT 254 IT
-#EXTVLCOPT:http-origin=https://xtreaweb.top
-#EXTVLCOPT:http-referrer=https://xtreaweb.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dokko1new.newkso.ru/dokko1/premium157/mono.m3u8
-
-#EXTINF:-1 tvg-id="20:30 SOCCER ITALY – SERIE C : CASERTANA VS CROTONESKY SPORT 256 IT" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",20:30 SOCCER ITALY – SERIE C : CASERTANA VS CROTONESKY SPORT 256 IT
-#EXTVLCOPT:http-origin=https://xtreaweb.top
-#EXTVLCOPT:http-referrer=https://xtreaweb.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium6/mono.m3u8
-
-#EXTINF:-1 tvg-id="20:30 SOCCER ITALY – SERIE C : MONOPOLI VS GIUGLIANOSKY SPORT 258 IT" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",20:30 SOCCER ITALY – SERIE C : MONOPOLI VS GIUGLIANOSKY SPORT 258 IT
-#EXTVLCOPT:http-origin=https://xtreaweb.top
-#EXTVLCOPT:http-referrer=https://xtreaweb.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium10/mono.m3u8
-
-#EXTINF:-1 tvg-id="20:30 SOCCER ITALY – SERIE C : LATINA VS POTENZA CALCIOSKY SPORT 259 IT" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",20:30 SOCCER ITALY – SERIE C : LATINA VS POTENZA CALCIOSKY SPORT 259 IT
-#EXTVLCOPT:http-origin=https://xtreaweb.top
-#EXTVLCOPT:http-referrer=https://xtreaweb.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium24/mono.m3u8
-
-#EXTINF:-1 tvg-id="20:30 SOCCER ITALY – SERIE C : BENEVENTO VS TRAPANI 1905SKY SPORT 255 IT |RAI SPORT 1 IT" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",20:30 SOCCER ITALY – SERIE C : BENEVENTO VS TRAPANI 1905SKY SPORT 255 IT |RAI SPORT 1 IT
-#EXTVLCOPT:http-origin=https://xtreaweb.top
-#EXTVLCOPT:http-referrer=https://xtreaweb.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium77/mono.m3u8
-
-#EXTINF:-1 tvg-id="20:30 AM. FOOTBALL UFL : DALLAS RENEGADES VS ST. LOUIS BATTLEHAWKSABC USA |ABC NY USA" tvg-logo="zeko" group-title="GÜNLÜK DÜNYA SPORLARI",20:30 AM. FOOTBALL UFL : DALLAS RENEGADES VS ST. LOUIS BATTLEHAWKSABC USA |ABC NY USA
-#EXTVLCOPT:http-origin=https://xtreaweb.top
-#EXTVLCOPT:http-referrer=https://xtreaweb.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium51/mono.m3u8
-
-#EXTINF:-1 tvg-id="20:30 BASKETBALL FIRST FEB : FUENLABRADA VS MOVISTAR ESTUDIANTESMOVISTAR DEPORTES 6 SPAIN" tvg-logo="ddy6" group-title="GÜNLÜK DÜNYA SPORLARI",20:30 BASKETBALL FIRST FEB : FUENLABRADA VS MOVISTAR ESTUDIANTESMOVISTAR DEPORTES 6 SPAIN
-#EXTVLCOPT:http-origin=https://xtreaweb.top
-#EXTVLCOPT:http-referrer=https://xtreaweb.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium151/mono.m3u8
-
-#EXTINF:-1 tvg-id="20:30 RUGBY UNION AVIVA PREMIERSHIP RUGBY : SARACENS VS GLOUCESTERTNT SPORTS 1 UK |SPORTSNET WORLD |SUPERSPORT VARIETY 2" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",20:30 RUGBY UNION AVIVA PREMIERSHIP RUGBY : SARACENS VS GLOUCESTERTNT SPORTS 1 UK |SPORTSNET WORLD |SUPERSPORT VARIETY 2
-#EXTVLCOPT:http-origin=https://xtreaweb.top
-#EXTVLCOPT:http-referrer=https://xtreaweb.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium31/mono.m3u8
-
-#EXTINF:-1 tvg-id="20:30 RUGBY UNION UNITED RUGBY CHAMPIONSHIP : DRAGONS SV SCARLETSVIAPLAY SPORTS 2 UK |S4C UK" tvg-logo="wind" group-title="GÜNLÜK DÜNYA SPORLARI",20:30 RUGBY UNION UNITED RUGBY CHAMPIONSHIP : DRAGONS SV SCARLETSVIAPLAY SPORTS 2 UK |S4C UK
-#EXTVLCOPT:http-origin=https://xtreaweb.top
-#EXTVLCOPT:http-referrer=https://xtreaweb.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium550/mono.m3u8
-
-#EXTINF:-1 tvg-id="20:30 VOLLEYBALL RUSSIA SUPERLIGA WOMEN, FINAL : DINAMO KAZAN VS LOKOMOTIV KALININGRADMATCH IGRA RUSSIA" tvg-logo="ddy6" group-title="GÜNLÜK DÜNYA SPORLARI",20:30 VOLLEYBALL RUSSIA SUPERLIGA WOMEN, FINAL : DINAMO KAZAN VS LOKOMOTIV KALININGRADMATCH IGRA RUSSIA
-#EXTVLCOPT:http-origin=https://xtreaweb.top
-#EXTVLCOPT:http-referrer=https://xtreaweb.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium160/mono.m3u8
-
-#EXTINF:-1 tvg-id="20:45 SOCCER NETHERLANDS – EERSTE DIVISIE : OSS VS DORDRECHTESPN 1 NL" tvg-logo="zeko" group-title="GÜNLÜK DÜNYA SPORLARI",20:45 SOCCER NETHERLANDS – EERSTE DIVISIE : OSS VS DORDRECHTESPN 1 NL
-#EXTVLCOPT:http-origin=https://xtreaweb.top
-#EXTVLCOPT:http-referrer=https://xtreaweb.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium379/mono.m3u8
-
-#EXTINF:-1 tvg-id="20:45 SOCCER CROATIA – 1. HNL : ISTRA 1961 VS RIJEKAMAX SPORT 1 CROATIA" tvg-logo="dokko1" group-title="GÜNLÜK DÜNYA SPORLARI",20:45 SOCCER CROATIA – 1. HNL : ISTRA 1961 VS RIJEKAMAX SPORT 1 CROATIA
-#EXTVLCOPT:http-origin=https://xtreaweb.top
-#EXTVLCOPT:http-referrer=https://xtreaweb.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dokko1new.newkso.ru/dokko1/premium779/mono.m3u8
 
 #EXTINF:-1 tvg-id="21:00 TV SHOWS IN WITH THE OLD SEASON 7, EPISODE 3MAGNOLIA NETWORK" tvg-logo="ddy6" group-title="GÜNLÜK DÜNYA SPORLARI",21:00 TV SHOWS IN WITH THE OLD SEASON 7, EPISODE 3MAGNOLIA NETWORK
 #EXTVLCOPT:http-origin=https://xtreaweb.top

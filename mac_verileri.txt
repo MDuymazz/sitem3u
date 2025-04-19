@@ -1,3 +1,9 @@
+MatchType: "Futbol"
+Text: "CANLI (22:05) MARSILYA – MONTPELLIER (BEIN SPORTS 3)"
+
+MatchType: "Futbol"
+Text: "CANLI (22:00) LAS PALMAS – ATLETICO MADRID (S SPORT)"
+
 MatchType: "Basketbol"
 Text: "CANLI (21:45) MURCIA – JOVENTUT BADALONA (SPOR SMART)"
 
@@ -12,21 +18,6 @@ Text: "CANLI (20:30) DARÜŞŞAFAKA – GALATASARAY (BEIN SPORTS 5)"
 
 MatchType: "Futbol"
 Text: "CANLI (20:00) MONACO – STRASBOURG (BEIN SPORTS MAX 1)"
-
-MatchType: "Futbol"
-Text: "CANLI (19:30) ASTON VILLA – NEWCASTLE (BEIN SPORTS 3)"
-
-MatchType: "Futbol"
-Text: "CANLI (19:30) UNION BERLIN – STUTTGART (TIVIBU SPOR 1)"
-
-MatchType: "Futbol"
-Text: "CANLI (19:30) MALLORCA – LEGANES (S SPORT)"
-
-MatchType: "Futbol"
-Text: "BUGÜN 22:00 LAS PALMAS – ATLETICO MADRID (S SPORT)"
-
-MatchType: "Futbol"
-Text: "BUGÜN 22:05 MARSILYA – MONTPELLIER (BEIN SPORTS 3)"
 
 MatchType: "Basketbol"
 Text: "BUGÜN 22:30 DENVER NUGGETS – LA CLIPPERS (S SPORT 2)"
