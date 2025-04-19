@@ -22,8 +22,7 @@ jobs:
       run: |
         git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/MDuymazz/Py.git private_py
         cd private_py
-        git submodule deinit -f .
-        git submodule update --init --recursive
+        
 
     - name: Install Python dependencies from private repo
       run: |
