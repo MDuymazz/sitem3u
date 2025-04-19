@@ -479,15 +479,10 @@ https://vavoo.to/play/3760496907/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/275850888/index.m3u8
 
-#EXTINF:-1 tvg-name="BUGÜN 12:00 FENERBAHÇE – MALATYASPOR (FB TV)" tvg-logo="https://thumbs.dreamstime.com/b/simple-clean-crisp-creative-md-logo-icon-design-vector-format-170813699.jpg" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",BUGÜN 12:00 FENERBAHÇE – MALATYASPOR (FB TV)
+#EXTINF:-1 tvg-name="CANLI (12:00) FENERBAHÇE – MALATYASPOR (FB TV)" tvg-logo="https://thumbs.dreamstime.com/b/simple-clean-crisp-creative-md-logo-icon-design-vector-format-170813699.jpg" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",CANLI (12:00) FENERBAHÇE – MALATYASPOR (FB TV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2157.sbs/
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-6db90affb9.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5011/a.strmrdr-cf-worker-6db90affb9.workers.dev/chunklist_hd.m3u8&referer=https://golvar2157.sbs/&origin=https://golvar2157.sbs/
-
-#EXTINF:-1 tvg-name="BUGÜN 13:30 ERZURUMSPOR – İSTANBULSPOR (TRT SPOR)" tvg-logo="https://thumbs.dreamstime.com/b/simple-clean-crisp-creative-md-logo-icon-design-vector-format-170813699.jpg" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",BUGÜN 13:30 ERZURUMSPOR – İSTANBULSPOR (TRT SPOR)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://golvar2157.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-6db90affb9.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5032/a.strmrdr-cf-worker-6db90affb9.workers.dev/chunklist_hd.m3u8&referer=https://golvar2157.sbs/&origin=https://golvar2157.sbs/
 
 #EXTINF:-1 tvg-name="BUGÜN 13:30 ERZURUMSPOR – İSTANBULSPOR (BEIN SPORTS MAX 2)" tvg-logo="https://thumbs.dreamstime.com/b/simple-clean-crisp-creative-md-logo-icon-design-vector-format-170813699.jpg" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",BUGÜN 13:30 ERZURUMSPOR – İSTANBULSPOR (BEIN SPORTS MAX 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -498,6 +493,11 @@ https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-6db90affb9.work
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2157.sbs/
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-6db90affb9.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5063/a.strmrdr-cf-worker-6db90affb9.workers.dev/chunklist_hd.m3u8&referer=https://golvar2157.sbs/&origin=https://golvar2157.sbs/
+
+#EXTINF:-1 tvg-name="BUGÜN 13:30 ERZURUMSPOR – İSTANBULSPOR (TRT SPOR)" tvg-logo="https://thumbs.dreamstime.com/b/simple-clean-crisp-creative-md-logo-icon-design-vector-format-170813699.jpg" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",BUGÜN 13:30 ERZURUMSPOR – İSTANBULSPOR (TRT SPOR)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://golvar2157.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-6db90affb9.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5032/a.strmrdr-cf-worker-6db90affb9.workers.dev/chunklist_hd.m3u8&referer=https://golvar2157.sbs/&origin=https://golvar2157.sbs/
 
 #EXTINF:-1 tvg-name="BUGÜN 14:00 BRAUNSCHWEIG – KAISERSLAUTERN (BEIN SPORTS 3)" tvg-logo="https://thumbs.dreamstime.com/b/simple-clean-crisp-creative-md-logo-icon-design-vector-format-170813699.jpg" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",BUGÜN 14:00 BRAUNSCHWEIG – KAISERSLAUTERN (BEIN SPORTS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
