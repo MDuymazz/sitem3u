@@ -62,5 +62,5 @@ jobs:
       run: |
         git config user.name "GitHub Actions"
         git config user.email "actions@github.com"
-        git add .
+        git add . ':!private_py'
         git diff --cached --quiet || (git commit -m "Update text files via workflow" && git push)
